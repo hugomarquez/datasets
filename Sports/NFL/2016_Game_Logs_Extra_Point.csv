@@ -1,432 +1,432 @@
-Year,Name,Team,Position,Game Date,Home or Away,Opponent,Location,Extra Points Made,Extra Points Attempted,Percentage of Extra Points Made
-2016,"Janikowski, Sebastian",OAK,K,09/11,Away,NO,Mercedes-Benz Superdome,1,1,100
-2016,"Janikowski, Sebastian",OAK,K,09/18,Home,ATL,Oakland–Alameda County Coliseum,4,4,100
-2016,"Janikowski, Sebastian",OAK,K,09/25,Away,TEN,Nissan Stadium,2,2,100
-2016,"Janikowski, Sebastian",OAK,K,10/02,Away,BAL,M&T Bank Stadium,4,4,100
-2016,"Janikowski, Sebastian",OAK,K,10/09,Home,LAC,Oakland–Alameda County Coliseum,2,2,100
-2016,"Janikowski, Sebastian",OAK,K,10/16,Home,KC,Oakland–Alameda County Coliseum,1,1,100
-2016,"Janikowski, Sebastian",OAK,K,10/23,Away,JAX,TIAA Bank Field,3,3,100
-2016,"Janikowski, Sebastian",OAK,K,10/30,Away,TB,Raymond James Stadium,3,3,100
-2016,"Janikowski, Sebastian",OAK,K,11/06,Home,DEN,Oakland–Alameda County Coliseum,3,3,100
-2016,"Janikowski, Sebastian",OAK,K,11/21,Home,HOU,Oakland–Alameda County Coliseum,3,3,100
-2016,"Janikowski, Sebastian",OAK,K,11/27,Home,CAR,Oakland–Alameda County Coliseum,3,3,100
-2016,"Janikowski, Sebastian",OAK,K,12/04,Home,BUF,Oakland–Alameda County Coliseum,3,3,100
-2016,"Janikowski, Sebastian",OAK,K,12/08,Away,KC,Arrowhead Stadium,1,1,100
-2016,"Janikowski, Sebastian",OAK,K,12/18,Away,LAC,Oakland–Alameda County Coliseum,1,1,100
-2016,"Janikowski, Sebastian",OAK,K,12/24,Home,IND,Oakland–Alameda County Coliseum,3,5,60
-2016,"Janikowski, Sebastian",OAK,K,01/01,Away,DEN,Broncos Stadium at Mile High,--,--,--
-2016,"Myers, Jason",JAX,K,09/11,Home,GB,TIAA Bank Field,2,2,100
-2016,"Myers, Jason",JAX,K,09/18,Away,LAC,Oakland–Alameda County Coliseum,2,2,100
-2016,"Myers, Jason",JAX,K,09/25,Home,BAL,TIAA Bank Field,2,2,100
-2016,"Myers, Jason",JAX,K,10/02,Home,IND,TIAA Bank Field,3,3,100
-2016,"Myers, Jason",JAX,K,10/16,Away,CHI,Soldier Field,2,2,100
-2016,"Myers, Jason",JAX,K,10/23,Home,OAK,TIAA Bank Field,1,1,100
-2016,"Myers, Jason",JAX,K,10/27,Away,TEN,Nissan Stadium,2,2,100
-2016,"Myers, Jason",JAX,K,11/06,Away,KC,Arrowhead Stadium,2,2,100
-2016,"Myers, Jason",JAX,K,11/13,Home,HOU,TIAA Bank Field,1,1,100
-2016,"Myers, Jason",JAX,K,11/20,Away,DET,Ford Field,1,2,50
-2016,"Myers, Jason",JAX,K,11/27,Away,BUF,New Era Field,3,3,100
-2016,"Myers, Jason",JAX,K,12/04,Home,DEN,TIAA Bank Field,1,1,100
-2016,"Myers, Jason",JAX,K,12/11,Home,MIN,TIAA Bank Field,1,1,100
-2016,"Myers, Jason",JAX,K,12/18,Away,HOU,NRG Stadium,2,2,100
-2016,"Myers, Jason",JAX,K,12/24,Home,TEN,TIAA Bank Field,2,4,50
-2016,"Myers, Jason",JAX,K,01/01,Away,IND,Lucas Oil Stadium,2,2,100
-2016,"Dawson, Phil",SF,K,09/12,Home,LAR,Levi's Stadium,4,4,100
-2016,"Dawson, Phil",SF,K,09/18,Away,CAR,Bank of America Stadium,3,3,100
-2016,"Dawson, Phil",SF,K,09/25,Away,SEA,CenturyLink Field,1,1,100
-2016,"Dawson, Phil",SF,K,10/02,Home,DAL,Levi's Stadium,2,2,100
-2016,"Dawson, Phil",SF,K,10/06,Home,ARI,Levi's Stadium,3,3,100
-2016,"Dawson, Phil",SF,K,10/16,Away,BUF,New Era Field,1,1,100
-2016,"Dawson, Phil",SF,K,10/23,Home,TB,Levi's Stadium,2,2,100
-2016,"Dawson, Phil",SF,K,11/06,Home,NO,Levi's Stadium,2,2,100
-2016,"Dawson, Phil",SF,K,11/13,Away,ARI,State Farm Stadium,2,2,100
-2016,"Dawson, Phil",SF,K,11/20,Home,NE,Levi's Stadium,2,2,100
-2016,"Dawson, Phil",SF,K,11/27,Away,MIA,Hard Rock Stadium,3,3,100
-2016,"Dawson, Phil",SF,K,12/04,Away,CHI,Soldier Field,0,0,--
-2016,"Dawson, Phil",SF,K,12/11,Home,NYJ,Levi's Stadium,2,2,100
-2016,"Dawson, Phil",SF,K,12/18,Away,ATL,Mercedes-Benz Stadium,1,2,50
-2016,"Dawson, Phil",SF,K,12/24,Away,LAR,Los Angeles Memorial Coliseum,2,2,100
-2016,"Dawson, Phil",SF,K,01/01,Home,SEA,Levi's Stadium,3,3,100
-2016,"Hauschka, Steven",SEA,K,09/11,Home,MIA,CenturyLink Field,0,1,0
-2016,"Hauschka, Steven",SEA,K,09/18,Away,LAR,Los Angeles Memorial Coliseum,0,0,--
-2016,"Hauschka, Steven",SEA,K,09/25,Home,SF,CenturyLink Field,4,4,100
-2016,"Hauschka, Steven",SEA,K,10/02,Away,NYJ,MetLife Stadium,3,3,100
-2016,"Hauschka, Steven",SEA,K,10/16,Home,ATL,CenturyLink Field,2,3,66.7
-2016,"Hauschka, Steven",SEA,K,10/23,Away,ARI,State Farm Stadium,0,0,--
-2016,"Hauschka, Steven",SEA,K,10/30,Away,NO,Mercedes-Benz Superdome,2,2,100
-2016,"Hauschka, Steven",SEA,K,11/07,Home,BUF,CenturyLink Field,4,4,100
-2016,"Hauschka, Steven",SEA,K,11/13,Away,NE,Gillete Stadium,1,2,50
-2016,"Hauschka, Steven",SEA,K,11/20,Home,PHI,CenturyLink Field,2,3,66.7
-2016,"Hauschka, Steven",SEA,K,11/27,Away,TB,Raymond James Stadium,0,0,--
-2016,"Hauschka, Steven",SEA,K,12/04,Home,CAR,CenturyLink Field,4,4,100
-2016,"Hauschka, Steven",SEA,K,12/11,Away,GB,Lambeau Field,1,1,100
-2016,"Hauschka, Steven",SEA,K,12/15,Home,LAR,CenturyLink Field,3,3,100
-2016,"Hauschka, Steven",SEA,K,12/24,Home,ARI,CenturyLink Field,2,3,66.7
-2016,"Hauschka, Steven",SEA,K,01/01,Away,SF,Levi's Stadium,1,2,50
-2016,"Crosby, Mason",GB,K,09/11,Away,JAX,TIAA Bank Field,3,3,100
-2016,"Crosby, Mason",GB,K,09/18,Away,MIN,U.S. Bank Stadium,2,2,100
-2016,"Crosby, Mason",GB,K,09/25,Home,DET,Lambeau Field,4,4,100
-2016,"Crosby, Mason",GB,K,10/09,Home,NYG,Lambeau Field,2,2,100
-2016,"Crosby, Mason",GB,K,10/16,Home,DAL,Lambeau Field,1,1,100
-2016,"Crosby, Mason",GB,K,10/20,Home,CHI,Lambeau Field,2,3,66.7
-2016,"Crosby, Mason",GB,K,10/30,Away,ATL,Mercedes-Benz Stadium,3,3,100
-2016,"Crosby, Mason",GB,K,11/06,Home,IND,Lambeau Field,2,2,100
-2016,"Crosby, Mason",GB,K,11/13,Away,TEN,Nissan Stadium,1,2,50
-2016,"Crosby, Mason",GB,K,11/20,Away,WAS,FedExField,3,3,100
-2016,"Crosby, Mason",GB,K,11/28,Away,PHI,Lincoln Financial Field,3,3,100
-2016,"Crosby, Mason",GB,K,12/04,Home,HOU,Lambeau Field,3,3,100
-2016,"Crosby, Mason",GB,K,12/11,Home,SEA,Lambeau Field,5,5,100
-2016,"Crosby, Mason",GB,K,12/18,Away,CHI,Soldier Field,3,3,100
-2016,"Crosby, Mason",GB,K,12/24,Home,MIN,Lambeau Field,5,5,100
-2016,"Crosby, Mason",GB,K,01/01,Away,DET,Ford Field,2,3,66.7
-2016,"Prater, Matt",DET,K,09/11,Away,IND,Lucas Oil Stadium,4,5,80
-2016,"Prater, Matt",DET,K,09/18,Home,TEN,Ford Field,1,1,100
-2016,"Prater, Matt",DET,K,09/25,Away,GB,Lambeau Field,3,3,100
-2016,"Prater, Matt",DET,K,10/02,Away,CHI,Soldier Field,0,0,--
-2016,"Prater, Matt",DET,K,10/09,Home,PHI,Ford Field,3,3,100
-2016,"Prater, Matt",DET,K,10/16,Home,LAR,Ford Field,4,4,100
-2016,"Prater, Matt",DET,K,10/23,Home,WAS,Ford Field,2,2,100
-2016,"Prater, Matt",DET,K,10/30,Away,HOU,NRG Stadium,1,1,100
-2016,"Prater, Matt",DET,K,11/06,Away,MIN,U.S. Bank Stadium,1,1,100
-2016,"Prater, Matt",DET,K,11/20,Home,JAX,Ford Field,2,3,66.7
-2016,"Prater, Matt",DET,K,11/24,Home,MIN,Ford Field,1,1,100
-2016,"Prater, Matt",DET,K,12/04,Away,NO,Mercedes-Benz Superdome,1,1,100
-2016,"Prater, Matt",DET,K,12/11,Home,CHI,Ford Field,2,2,100
-2016,"Prater, Matt",DET,K,12/18,Away,NYG,MetLife Stadium,0,0,--
-2016,"Prater, Matt",DET,K,12/26,Away,DAL,AT&T Stadium,3,3,100
-2016,"Prater, Matt",DET,K,01/01,Home,GB,Ford Field,3,3,100
-2016,"Carpenter, Dan",BUF,K,09/11,Away,BAL,M&T Bank Stadium,1,1,100
-2016,"Carpenter, Dan",BUF,K,09/15,Home,NYJ,New Era Field,4,4,100
-2016,"Carpenter, Dan",BUF,K,09/25,Home,ARI,New Era Field,3,4,75
-2016,"Carpenter, Dan",BUF,K,10/02,Away,NE,Gillete Stadium,1,1,100
-2016,"Carpenter, Dan",BUF,K,10/09,Away,LAR,Los Angeles Memorial Coliseum,3,4,75
-2016,"Carpenter, Dan",BUF,K,10/16,Home,SF,New Era Field,6,6,100
-2016,"Carpenter, Dan",BUF,K,10/23,Away,MIA,Hard Rock Stadium,2,2,100
-2016,"Carpenter, Dan",BUF,K,10/30,Home,NE,New Era Field,2,2,100
-2016,"Carpenter, Dan",BUF,K,11/07,Away,SEA,CenturyLink Field,2,2,100
-2016,"Carpenter, Dan",BUF,K,11/20,Away,CIN,Paul Brown Stadium,1,1,100
-2016,"Carpenter, Dan",BUF,K,11/27,Home,JAX,New Era Field,2,3,66.7
-2016,"Carpenter, Dan",BUF,K,12/04,Away,OAK,Oakland–Alameda County Coliseum,3,3,100
-2016,"Carpenter, Dan",BUF,K,12/11,Home,PIT,New Era Field,2,3,66.7
-2016,"Carpenter, Dan",BUF,K,12/18,Home,CLE,New Era Field,3,4,75
-2016,"Carpenter, Dan",BUF,K,12/24,Home,MIA,New Era Field,4,4,100
-2016,"Carpenter, Dan",BUF,K,01/01,Away,NYJ,MetLife Stadium,1,1,100
-2016,"Gostkowski, Stephen",NE,K,09/11,Away,ARI,State Farm Stadium,2,2,100
-2016,"Gostkowski, Stephen",NE,K,09/18,Home,MIA,Gillete Stadium,4,4,100
-2016,"Gostkowski, Stephen",NE,K,09/22,Home,HOU,Gillete Stadium,3,3,100
-2016,"Gostkowski, Stephen",NE,K,10/02,Home,BUF,Gillete Stadium,0,0,--
-2016,"Gostkowski, Stephen",NE,K,10/09,Away,CLE,FirstEnergy Stadium,4,4,100
-2016,"Gostkowski, Stephen",NE,K,10/16,Home,CIN,Gillete Stadium,3,4,75
-2016,"Gostkowski, Stephen",NE,K,10/23,Away,PIT,Heinz Field,3,4,75
-2016,"Gostkowski, Stephen",NE,K,10/30,Away,BUF,New Era Field,5,5,100
-2016,"Gostkowski, Stephen",NE,K,11/13,Home,SEA,Gillete Stadium,3,3,100
-2016,"Gostkowski, Stephen",NE,K,11/20,Away,SF,Levi's Stadium,3,4,75
-2016,"Gostkowski, Stephen",NE,K,11/27,Away,NYJ,MetLife Stadium,1,1,100
-2016,"Gostkowski, Stephen",NE,K,12/04,Home,LAR,Gillete Stadium,2,2,100
-2016,"Gostkowski, Stephen",NE,K,12/12,Home,BAL,Gillete Stadium,4,4,100
-2016,"Gostkowski, Stephen",NE,K,12/18,Away,DEN,Broncos Stadium at Mile High,1,1,100
-2016,"Gostkowski, Stephen",NE,K,12/24,Home,NYJ,Gillete Stadium,5,5,100
-2016,"Gostkowski, Stephen",NE,K,01/01,Away,MIA,Hard Rock Stadium,3,3,100
-2016,"Boswell, Chris",PIT,K,09/12,Away,WAS,FedExField,5,5,100
-2016,"Boswell, Chris",PIT,K,09/18,Home,CIN,Heinz Field,3,3,100
-2016,"Boswell, Chris",PIT,K,09/25,Away,PHI,Lincoln Financial Field,0,0,--
-2016,"Boswell, Chris",PIT,K,10/02,Home,KC,Heinz Field,5,5,100
-2016,"Boswell, Chris",PIT,K,10/09,Home,NYJ,Heinz Field,4,4,100
-2016,"Boswell, Chris",PIT,K,10/16,Away,MIA,Hard Rock Stadium,1,1,100
-2016,"Boswell, Chris",PIT,K,10/23,Home,NE,Heinz Field,1,1,100
-2016,"Boswell, Chris",PIT,K,11/06,Away,BAL,M&T Bank Stadium,2,2,100
-2016,"Boswell, Chris",PIT,K,11/13,Home,DAL,Heinz Field,0,0,--
-2016,"Boswell, Chris",PIT,K,11/20,Away,CLE,FirstEnergy Stadium,1,1,100
-2016,"Boswell, Chris",PIT,K,11/24,Away,IND,Lucas Oil Stadium,4,4,100
-2016,"Boswell, Chris",PIT,K,12/04,Home,NYG,Heinz Field,--,--,--
-2016,"Boswell, Chris",PIT,K,12/11,Away,BUF,New Era Field,3,3,100
-2016,"Boswell, Chris",PIT,K,12/18,Away,CIN,Paul Brown Stadium,0,0,--
-2016,"Boswell, Chris",PIT,K,12/25,Home,BAL,Heinz Field,4,4,100
-2016,"Boswell, Chris",PIT,K,01/01,Home,CLE,Heinz Field,3,3,100
-2016,"Succop, Ryan",TEN,K,09/11,Home,MIN,Nissan Stadium,1,1,100
-2016,"Succop, Ryan",TEN,K,09/18,Away,DET,Ford Field,1,1,100
-2016,"Succop, Ryan",TEN,K,09/25,Home,OAK,Nissan Stadium,1,1,100
-2016,"Succop, Ryan",TEN,K,10/02,Away,HOU,NRG Stadium,2,2,100
-2016,"Succop, Ryan",TEN,K,10/09,Away,MIA,Hard Rock Stadium,3,4,75
-2016,"Succop, Ryan",TEN,K,10/16,Home,CLE,Nissan Stadium,4,4,100
-2016,"Succop, Ryan",TEN,K,10/23,Home,IND,Nissan Stadium,2,2,100
-2016,"Succop, Ryan",TEN,K,10/27,Home,JAX,Nissan Stadium,3,4,75
-2016,"Succop, Ryan",TEN,K,11/06,Away,LAC,StubHub Center,5,5,100
-2016,"Succop, Ryan",TEN,K,11/13,Home,GB,Nissan Stadium,5,5,100
-2016,"Succop, Ryan",TEN,K,11/20,Away,IND,Lucas Oil Stadium,2,2,100
-2016,"Succop, Ryan",TEN,K,11/27,Away,CHI,Soldier Field,3,3,100
-2016,"Succop, Ryan",TEN,K,12/11,Home,DEN,Nissan Stadium,1,1,100
-2016,"Succop, Ryan",TEN,K,12/18,Away,KC,Arrowhead Stadium,1,1,100
-2016,"Succop, Ryan",TEN,K,12/24,Away,JAX,TIAA Bank Field,2,2,100
-2016,"Succop, Ryan",TEN,K,01/01,Home,HOU,Nissan Stadium,3,3,100
-2016,"Sturgis, Caleb",PHI,K,09/11,Home,CLE,Lincoln Financial Field,3,3,100
-2016,"Sturgis, Caleb",PHI,K,09/19,Away,CHI,Soldier Field,2,3,66.7
-2016,"Sturgis, Caleb",PHI,K,09/25,Home,PIT,Lincoln Financial Field,4,4,100
-2016,"Sturgis, Caleb",PHI,K,10/09,Away,DET,Ford Field,2,2,100
-2016,"Sturgis, Caleb",PHI,K,10/16,Away,WAS,FedExField,2,2,100
-2016,"Sturgis, Caleb",PHI,K,10/23,Home,MIN,Lincoln Financial Field,1,1,100
-2016,"Sturgis, Caleb",PHI,K,10/30,Away,DAL,AT&T Stadium,2,2,100
-2016,"Sturgis, Caleb",PHI,K,11/06,Away,NYG,MetLife Stadium,2,2,100
-2016,"Sturgis, Caleb",PHI,K,11/13,Home,ATL,Lincoln Financial Field,1,1,100
-2016,"Sturgis, Caleb",PHI,K,11/20,Away,SEA,CenturyLink Field,1,1,100
-2016,"Sturgis, Caleb",PHI,K,11/28,Home,GB,Lincoln Financial Field,1,1,100
-2016,"Sturgis, Caleb",PHI,K,12/04,Away,CIN,Paul Brown Stadium,2,2,100
-2016,"Sturgis, Caleb",PHI,K,12/11,Home,WAS,Lincoln Financial Field,1,1,100
-2016,"Sturgis, Caleb",PHI,K,12/18,Away,BAL,M&T Bank Stadium,0,0,--
-2016,"Sturgis, Caleb",PHI,K,12/22,Home,NYG,Lincoln Financial Field,3,3,100
-2016,"Sturgis, Caleb",PHI,K,01/01,Home,DAL,Lincoln Financial Field,3,3,100
-2016,"Catanzaro, Chandler",ARI,K,09/11,Home,NE,State Farm Stadium,3,3,100
-2016,"Catanzaro, Chandler",ARI,K,09/18,Home,TB,State Farm Stadium,4,5,80
-2016,"Catanzaro, Chandler",ARI,K,09/25,Away,BUF,New Era Field,1,1,100
-2016,"Catanzaro, Chandler",ARI,K,10/02,Home,LAR,State Farm Stadium,1,1,100
-2016,"Catanzaro, Chandler",ARI,K,10/06,Away,SF,Levi's Stadium,4,4,100
-2016,"Catanzaro, Chandler",ARI,K,10/17,Home,NYJ,State Farm Stadium,4,4,100
-2016,"Catanzaro, Chandler",ARI,K,10/23,Home,SEA,State Farm Stadium,0,0,--
-2016,"Catanzaro, Chandler",ARI,K,10/30,Away,CAR,Bank of America Stadium,2,2,100
-2016,"Catanzaro, Chandler",ARI,K,11/13,Home,SF,State Farm Stadium,2,2,100
-2016,"Catanzaro, Chandler",ARI,K,11/20,Away,MIN,U.S. Bank Stadium,3,3,100
-2016,"Catanzaro, Chandler",ARI,K,11/27,Away,ATL,Mercedes-Benz Stadium,1,1,100
-2016,"Catanzaro, Chandler",ARI,K,12/04,Home,WAS,State Farm Stadium,4,4,100
-2016,"Catanzaro, Chandler",ARI,K,12/11,Away,MIA,Hard Rock Stadium,0,2,0
-2016,"Catanzaro, Chandler",ARI,K,12/18,Home,NO,State Farm Stadium,5,6,83.3
-2016,"Catanzaro, Chandler",ARI,K,12/24,Away,SEA,CenturyLink Field,4,4,100
-2016,"Catanzaro, Chandler",ARI,K,01/01,Away,LAR,Los Angeles Memorial Coliseum,5,5,100
-2016,"Bailey, Dan",DAL,K,09/11,Home,NYG,AT&T Stadium,1,1,100
-2016,"Bailey, Dan",DAL,K,09/18,Away,WAS,FedExField,3,3,100
-2016,"Bailey, Dan",DAL,K,09/25,Home,CHI,AT&T Stadium,4,4,100
-2016,"Bailey, Dan",DAL,K,10/02,Away,SF,Levi's Stadium,3,3,100
-2016,"Bailey, Dan",DAL,K,10/09,Home,CIN,AT&T Stadium,4,4,100
-2016,"Bailey, Dan",DAL,K,10/16,Away,GB,Lambeau Field,3,3,100
-2016,"Bailey, Dan",DAL,K,10/30,Home,PHI,AT&T Stadium,2,2,100
-2016,"Bailey, Dan",DAL,K,11/06,Away,CLE,FirstEnergy Stadium,5,5,100
-2016,"Bailey, Dan",DAL,K,11/13,Away,PIT,Heinz Field,2,2,100
-2016,"Bailey, Dan",DAL,K,11/20,Home,BAL,AT&T Stadium,3,3,100
-2016,"Bailey, Dan",DAL,K,11/24,Home,WAS,AT&T Stadium,4,4,100
-2016,"Bailey, Dan",DAL,K,12/01,Away,MIN,U.S. Bank Stadium,2,2,100
-2016,"Bailey, Dan",DAL,K,12/11,Away,NYG,MetLife Stadium,1,1,100
-2016,"Bailey, Dan",DAL,K,12/18,Home,TB,AT&T Stadium,2,2,100
-2016,"Bailey, Dan",DAL,K,12/26,Home,DET,AT&T Stadium,6,6,100
-2016,"Bailey, Dan",DAL,K,01/01,Away,PHI,Lincoln Financial Field,1,1,100
-2016,"Lambo, Josh",LAC,K,09/11,Away,KC,Arrowhead Stadium,3,3,100
-2016,"Lambo, Josh",LAC,K,09/18,Home,JAX,StubHub Center,5,5,100
-2016,"Lambo, Josh",LAC,K,09/25,Away,IND,Lucas Oil Stadium,1,2,50
-2016,"Lambo, Josh",LAC,K,10/02,Home,NO,StubHub Center,4,4,100
-2016,"Lambo, Josh",LAC,K,10/09,Away,OAK,Oakland–Alameda County Coliseum,4,4,100
-2016,"Lambo, Josh",LAC,K,10/13,Home,DEN,StubHub Center,1,1,100
-2016,"Lambo, Josh",LAC,K,10/23,Away,ATL,Mercedes-Benz Stadium,3,3,100
-2016,"Lambo, Josh",LAC,K,10/30,Away,DEN,Broncos Stadium at Mile High,1,2,50
-2016,"Lambo, Josh",LAC,K,11/06,Home,TEN,StubHub Center,4,5,80
-2016,"Lambo, Josh",LAC,K,11/13,Home,MIA,StubHub Center,3,3,100
-2016,"Lambo, Josh",LAC,K,11/27,Away,HOU,NRG Stadium,3,3,100
-2016,"Lambo, Josh",LAC,K,12/04,Home,TB,StubHub Center,3,3,100
-2016,"Lambo, Josh",LAC,K,12/11,Away,CAR,Bank of America Stadium,1,1,100
-2016,"Lambo, Josh",LAC,K,12/18,Home,OAK,StubHub Center,1,2,50
-2016,"Lambo, Josh",LAC,K,12/24,Away,CLE,FirstEnergy Stadium,2,2,100
-2016,"Lambo, Josh",LAC,K,01/01,Home,KC,StubHub Center,3,3,100
-2016,"McManus, Brandon",DEN,K,09/08,Home,CAR,Broncos Stadium at Mile High,3,3,100
-2016,"McManus, Brandon",DEN,K,09/18,Home,IND,Broncos Stadium at Mile High,2,2,100
-2016,"McManus, Brandon",DEN,K,09/25,Away,CIN,Paul Brown Stadium,2,3,66.7
-2016,"McManus, Brandon",DEN,K,10/02,Away,TB,Raymond James Stadium,3,3,100
-2016,"McManus, Brandon",DEN,K,10/09,Home,ATL,Broncos Stadium at Mile High,1,1,100
-2016,"McManus, Brandon",DEN,K,10/13,Away,LAC,StubHub Center,1,1,100
-2016,"McManus, Brandon",DEN,K,10/24,Home,HOU,Broncos Stadium at Mile High,3,3,100
-2016,"McManus, Brandon",DEN,K,10/30,Home,LAC,Broncos Stadium at Mile High,3,3,100
-2016,"McManus, Brandon",DEN,K,11/06,Away,OAK,Oakland–Alameda County Coliseum,2,2,100
-2016,"McManus, Brandon",DEN,K,11/13,Away,NO,Mercedes-Benz Superdome,2,2,100
-2016,"McManus, Brandon",DEN,K,11/27,Home,KC,Broncos Stadium at Mile High,3,3,100
-2016,"McManus, Brandon",DEN,K,12/04,Away,JAX,TIAA Bank Field,2,2,100
-2016,"McManus, Brandon",DEN,K,12/11,Away,TEN,Nissan Stadium,1,1,100
-2016,"McManus, Brandon",DEN,K,12/18,Home,NE,Broncos Stadium at Mile High,0,0,--
-2016,"McManus, Brandon",DEN,K,12/25,Away,KC,Arrowhead Stadium,1,1,100
-2016,"McManus, Brandon",DEN,K,01/01,Home,OAK,Broncos Stadium at Mile High,3,3,100
-2016,"Hopkins, Dustin",WAS,K,09/12,Home,PIT,FedExField,1,1,100
-2016,"Hopkins, Dustin",WAS,K,09/18,Home,DAL,FedExField,2,2,100
-2016,"Hopkins, Dustin",WAS,K,09/25,Away,NYG,MetLife Stadium,2,2,100
-2016,"Hopkins, Dustin",WAS,K,10/02,Home,CLE,FedExField,4,4,100
-2016,"Hopkins, Dustin",WAS,K,10/09,Away,BAL,M&T Bank Stadium,1,2,50
-2016,"Hopkins, Dustin",WAS,K,10/16,Home,PHI,FedExField,3,3,100
-2016,"Hopkins, Dustin",WAS,K,10/23,Away,DET,Ford Field,2,2,100
-2016,"Hopkins, Dustin",WAS,K,10/30,Away,CIN,Paul Brown Stadium,3,3,100
-2016,"Hopkins, Dustin",WAS,K,11/13,Home,MIN,FedExField,2,2,100
-2016,"Hopkins, Dustin",WAS,K,11/20,Home,GB,FedExField,3,4,75
-2016,"Hopkins, Dustin",WAS,K,11/24,Away,DAL,AT&T Stadium,2,2,100
-2016,"Hopkins, Dustin",WAS,K,12/04,Away,ARI,State Farm Stadium,2,2,100
-2016,"Hopkins, Dustin",WAS,K,12/11,Away,PHI,Lincoln Financial Field,3,3,100
-2016,"Hopkins, Dustin",WAS,K,12/19,Home,CAR,FedExField,0,1,0
-2016,"Hopkins, Dustin",WAS,K,12/24,Away,CHI,Soldier Field,5,5,100
-2016,"Hopkins, Dustin",WAS,K,01/01,Home,NYG,FedExField,1,1,100
-2016,"Bullock, Randy",CIN,K,09/11,Away,DAL,AT&T Stadium,2,3,66.7
-2016,"Bullock, Randy",CIN,K,12/04,Home,NYG,Paul Brown Stadium,1,1,100
-2016,"Bullock, Randy",CIN,K,12/11,Away,BUF,New Era Field,--,--,--
-2016,"Bullock, Randy",CIN,K,12/18,Home,PIT,Paul Brown Stadium,2,2,100
-2016,"Bullock, Randy",CIN,K,12/24,Away,HOU,NRG Stadium,1,1,100
-2016,"Bullock, Randy",CIN,K,01/01,Home,BAL,Paul Brown Stadium,3,3,100
-2016,"Novak, Nick",HOU,K,09/11,Home,CHI,NRG Stadium,2,2,100
-2016,"Novak, Nick",HOU,K,09/18,Home,KC,NRG Stadium,1,1,100
-2016,"Novak, Nick",HOU,K,09/22,Away,NE,Gillete Stadium,--,--,--
-2016,"Novak, Nick",HOU,K,10/02,Home,TEN,NRG Stadium,3,3,100
-2016,"Novak, Nick",HOU,K,10/09,Away,MIN,U.S. Bank Stadium,1,1,100
-2016,"Novak, Nick",HOU,K,10/16,Home,IND,NRG Stadium,2,3,66.7
-2016,"Novak, Nick",HOU,K,10/24,Away,DEN,Broncos Stadium at Mile High,0,0,--
-2016,"Novak, Nick",HOU,K,10/30,Home,DET,NRG Stadium,2,2,100
-2016,"Novak, Nick",HOU,K,11/13,Away,JAX,TIAA Bank Field,3,3,100
-2016,"Novak, Nick",HOU,K,11/21,Away,OAK,Oakland–Alameda County Coliseum,2,2,100
-2016,"Novak, Nick",HOU,K,11/27,Home,LAC,NRG Stadium,1,1,100
-2016,"Novak, Nick",HOU,K,12/04,Away,GB,Lambeau Field,1,2,50
-2016,"Novak, Nick",HOU,K,12/11,Away,IND,Lucas Oil Stadium,1,1,100
-2016,"Novak, Nick",HOU,K,12/18,Home,JAX,NRG Stadium,1,1,100
-2016,"Novak, Nick",HOU,K,12/24,Home,CIN,NRG Stadium,0,1,0
-2016,"Novak, Nick",HOU,K,01/01,Away,TEN,Nissan Stadium,2,2,100
-2016,"Vinatieri, Adam",IND,K,09/11,Home,DET,Lucas Oil Stadium,3,3,100
-2016,"Vinatieri, Adam",IND,K,09/18,Away,DEN,Broncos Stadium at Mile High,2,2,100
-2016,"Vinatieri, Adam",IND,K,09/25,Home,LAC,Lucas Oil Stadium,2,2,100
-2016,"Vinatieri, Adam",IND,K,10/02,Away,JAX,TIAA Bank Field,3,3,100
-2016,"Vinatieri, Adam",IND,K,10/09,Home,CHI,Lucas Oil Stadium,2,2,100
-2016,"Vinatieri, Adam",IND,K,10/16,Away,HOU,NRG Stadium,2,2,100
-2016,"Vinatieri, Adam",IND,K,10/23,Away,TEN,Nissan Stadium,4,4,100
-2016,"Vinatieri, Adam",IND,K,10/30,Home,KC,Lucas Oil Stadium,2,2,100
-2016,"Vinatieri, Adam",IND,K,11/06,Away,GB,Lambeau Field,4,4,100
-2016,"Vinatieri, Adam",IND,K,11/20,Home,TEN,Lucas Oil Stadium,3,3,100
-2016,"Vinatieri, Adam",IND,K,11/24,Home,PIT,Lucas Oil Stadium,1,1,100
-2016,"Vinatieri, Adam",IND,K,12/05,Away,NYJ,MetLife Stadium,5,5,100
-2016,"Vinatieri, Adam",IND,K,12/11,Home,HOU,Lucas Oil Stadium,2,2,100
-2016,"Vinatieri, Adam",IND,K,12/18,Away,MIN,U.S. Bank Stadium,4,4,100
-2016,"Vinatieri, Adam",IND,K,12/24,Away,OAK,Oakland–Alameda County Coliseum,2,2,100
-2016,"Vinatieri, Adam",IND,K,01/01,Home,JAX,Lucas Oil Stadium,3,3,100
-2016,"Folk, Nick",NYJ,K,09/11,Home,CIN,MetLife Stadium,1,2,50
-2016,"Folk, Nick",NYJ,K,09/15,Away,BUF,New Era Field,4,4,100
-2016,"Folk, Nick",NYJ,K,09/25,Away,KC,Arrowhead Stadium,0,0,--
-2016,"Folk, Nick",NYJ,K,10/02,Home,SEA,MetLife Stadium,2,2,100
-2016,"Folk, Nick",NYJ,K,10/09,Away,PIT,Heinz Field,1,1,100
-2016,"Folk, Nick",NYJ,K,10/17,Away,ARI,State Farm Stadium,0,0,--
-2016,"Folk, Nick",NYJ,K,10/23,Home,BAL,MetLife Stadium,3,3,100
-2016,"Folk, Nick",NYJ,K,10/30,Away,CLE,FirstEnergy Stadium,4,4,100
-2016,"Folk, Nick",NYJ,K,11/06,Away,MIA,Hard Rock Stadium,2,2,100
-2016,"Folk, Nick",NYJ,K,11/13,Home,LA,MetLife Stadium,0,1,0
-2016,"Folk, Nick",NYJ,K,11/27,Home,NE,MetLife Stadium,2,2,100
-2016,"Folk, Nick",NYJ,K,12/05,Home,IND,MetLife Stadium,1,1,100
-2016,"Folk, Nick",NYJ,K,12/11,Away,SF,Levi's Stadium,0,0,--
-2016,"Folk, Nick",NYJ,K,12/17,Home,MIA,MetLife Stadium,1,1,100
-2016,"Folk, Nick",NYJ,K,12/24,Away,NE,Gillete Stadium,0,0,--
-2016,"Folk, Nick",NYJ,K,01/01,Home,BUF,MetLife Stadium,3,3,100
-2016,"Franks, Andrew",MIA,K,09/11,Away,SEA,CenturyLink Field,1,1,100
-2016,"Franks, Andrew",MIA,K,09/18,Away,NE,Gillete Stadium,3,3,100
-2016,"Franks, Andrew",MIA,K,09/25,Home,CLE,Hard Rock Stadium,3,3,100
-2016,"Franks, Andrew",MIA,K,09/29,Away,CIN,Paul Brown Stadium,1,1,100
-2016,"Franks, Andrew",MIA,K,10/09,Home,TEN,Hard Rock Stadium,2,2,100
-2016,"Franks, Andrew",MIA,K,10/16,Home,PIT,Hard Rock Stadium,3,3,100
-2016,"Franks, Andrew",MIA,K,10/23,Home,BUF,Hard Rock Stadium,2,2,100
-2016,"Franks, Andrew",MIA,K,11/06,Home,NYJ,Hard Rock Stadium,3,3,100
-2016,"Franks, Andrew",MIA,K,11/13,Away,LAC,StubHub Center,4,4,100
-2016,"Franks, Andrew",MIA,K,11/20,Away,LAR,Los Angeles Memorial Coliseum,2,2,100
-2016,"Franks, Andrew",MIA,K,11/27,Home,SF,Hard Rock Stadium,4,4,100
-2016,"Franks, Andrew",MIA,K,12/04,Away,BAL,M&T Bank Stadium,0,0,--
-2016,"Franks, Andrew",MIA,K,12/11,Home,ARI,Hard Rock Stadium,3,3,100
-2016,"Franks, Andrew",MIA,K,12/17,Away,NYJ,MetLife Stadium,4,5,80
-2016,"Franks, Andrew",MIA,K,12/24,Away,BUF,New Era Field,4,4,100
-2016,"Franks, Andrew",MIA,K,01/01,Home,NE,Hard Rock Stadium,2,2,100
-2016,"Walsh, Blair",MIN,K,09/11,Away,TEN,Nissan Stadium,1,2,50
-2016,"Walsh, Blair",MIN,K,09/18,Home,GB,U.S. Bank Stadium,2,2,100
-2016,"Walsh, Blair",MIN,K,09/25,Away,CAR,Bank of America Stadium,0,1,0
-2016,"Walsh, Blair",MIN,K,10/03,Home,NYG,U.S. Bank Stadium,3,3,100
-2016,"Walsh, Blair",MIN,K,10/09,Home,HOU,U.S. Bank Stadium,4,4,100
-2016,"Walsh, Blair",MIN,K,10/23,Away,PHI,Lincoln Financial Field,1,1,100
-2016,"Walsh, Blair",MIN,K,10/31,Away,CHI,Soldier Field,1,1,100
-2016,"Walsh, Blair",MIN,K,11/06,Home,DET,U.S. Bank Stadium,1,2,50
-2016,"Walsh, Blair",MIN,K,11/13,Away,WAS,FedExField,2,3,66.7
-2016,"Aguayo, Roberto",TB,K,09/11,Away,ATL,Mercedes-Benz Stadium,4,4,100
-2016,"Aguayo, Roberto",TB,K,09/18,Away,ARI,State Farm Stadium,1,1,100
-2016,"Aguayo, Roberto",TB,K,09/25,Home,LA,Raymond James Stadium,2,3,66.7
-2016,"Aguayo, Roberto",TB,K,10/02,Home,DEN,Raymond James Stadium,1,1,100
-2016,"Aguayo, Roberto",TB,K,10/10,Away,CAR,Bank of America Stadium,0,0,--
-2016,"Aguayo, Roberto",TB,K,10/23,Away,SF,Levi's Stadium,4,4,100
-2016,"Aguayo, Roberto",TB,K,10/30,Home,OAK,Raymond James Stadium,1,2,50
-2016,"Aguayo, Roberto",TB,K,11/03,Home,ATL,Raymond James Stadium,2,2,100
-2016,"Aguayo, Roberto",TB,K,11/13,Home,CHI,Raymond James Stadium,4,4,100
-2016,"Aguayo, Roberto",TB,K,11/20,Away,KC,Arrowhead Stadium,1,1,100
-2016,"Aguayo, Roberto",TB,K,11/27,Home,SEA,Raymond James Stadium,2,2,100
-2016,"Aguayo, Roberto",TB,K,12/04,Away,LAC,StubHub Center,2,2,100
-2016,"Aguayo, Roberto",TB,K,12/11,Home,NO,Raymond James Stadium,1,1,100
-2016,"Aguayo, Roberto",TB,K,12/18,Away,DAL,AT&T Stadium,2,2,100
-2016,"Aguayo, Roberto",TB,K,12/24,Away,NO,Mercedes-Benz Superdome,3,3,100
-2016,"Aguayo, Roberto",TB,K,01/01,Home,CAR,Raymond James Stadium,2,2,100
-2016,"Tucker, Justin",BAL,K,09/11,Home,BUF,M&T Bank Stadium,1,1,100
-2016,"Tucker, Justin",BAL,K,09/18,Away,CLE,FirstEnergy Stadium,2,2,100
-2016,"Tucker, Justin",BAL,K,09/25,Away,JAX,TIAA Bank Field,1,1,100
-2016,"Tucker, Justin",BAL,K,10/02,Home,OAK,M&T Bank Stadium,1,1,100
-2016,"Tucker, Justin",BAL,K,10/09,Home,WAS,M&T Bank Stadium,1,1,100
-2016,"Tucker, Justin",BAL,K,10/16,Away,NYG,MetLife Stadium,2,2,100
-2016,"Tucker, Justin",BAL,K,10/23,Away,NYJ,MetLife Stadium,1,1,100
-2016,"Tucker, Justin",BAL,K,11/06,Home,PIT,M&T Bank Stadium,1,1,100
-2016,"Tucker, Justin",BAL,K,11/10,Home,CLE,M&T Bank Stadium,2,2,100
-2016,"Tucker, Justin",BAL,K,11/20,Away,DAL,AT&T Stadium,2,2,100
-2016,"Tucker, Justin",BAL,K,11/27,Home,CIN,M&T Bank Stadium,1,1,100
-2016,"Tucker, Justin",BAL,K,12/04,Home,MIA,M&T Bank Stadium,5,5,100
-2016,"Tucker, Justin",BAL,K,12/12,Away,NE,Gillete Stadium,2,2,100
-2016,"Tucker, Justin",BAL,K,12/18,Home,PHI,M&T Bank Stadium,3,3,100
-2016,"Tucker, Justin",BAL,K,12/25,Away,PIT,Heinz Field,1,1,100
-2016,"Tucker, Justin",BAL,K,01/01,Away,CIN,Paul Brown Stadium,1,1,100
-2016,"Gano, Graham",CAR,K,09/08,Away,DEN,Broncos Stadium at Mile High,2,2,100
-2016,"Gano, Graham",CAR,K,09/18,Home,SF,Bank of America Stadium,4,5,80
-2016,"Gano, Graham",CAR,K,09/25,Home,MIN,Bank of America Stadium,1,1,100
-2016,"Gano, Graham",CAR,K,10/02,Away,ATL,Mercedes-Benz Stadium,2,2,100
-2016,"Gano, Graham",CAR,K,10/10,Home,TB,Bank of America Stadium,2,2,100
-2016,"Gano, Graham",CAR,K,10/16,Away,NO,Mercedes-Benz Superdome,3,4,75
-2016,"Gano, Graham",CAR,K,10/30,Home,ARI,Bank of America Stadium,3,3,100
-2016,"Gano, Graham",CAR,K,11/06,Away,LAR,Los Angeles Memorial Coliseum,1,1,100
-2016,"Gano, Graham",CAR,K,11/13,Home,KC,Bank of America Stadium,2,2,100
-2016,"Gano, Graham",CAR,K,11/17,Home,NO,Bank of America Stadium,2,2,100
-2016,"Gano, Graham",CAR,K,11/27,Away,OAK,Oakland–Alameda County Coliseum,2,3,66.7
-2016,"Gano, Graham",CAR,K,12/04,Away,SEA,CenturyLink Field,1,1,100
-2016,"Gano, Graham",CAR,K,12/11,Home,LAC,Bank of America Stadium,2,2,100
-2016,"Gano, Graham",CAR,K,12/19,Away,WAS,FedExField,2,2,100
-2016,"Gano, Graham",CAR,K,12/24,Home,ATL,Bank of America Stadium,1,1,100
-2016,"Gano, Graham",CAR,K,01/01,Away,TB,Raymond James Stadium,1,1,100
-2016,"Bryant, Matt",ATL,K,09/11,Home,TB,Mercedes-Benz Stadium,1,1,100
-2016,"Bryant, Matt",ATL,K,09/18,Away,OAK,Oakland–Alameda County Coliseum,3,3,100
-2016,"Bryant, Matt",ATL,K,09/26,Away,NO,Mercedes-Benz Superdome,6,6,100
-2016,"Bryant, Matt",ATL,K,10/02,Home,CAR,Mercedes-Benz Stadium,6,6,100
-2016,"Bryant, Matt",ATL,K,10/09,Away,DEN,Broncos Stadium at Mile High,2,2,100
-2016,"Bryant, Matt",ATL,K,10/16,Away,SEA,CenturyLink Field,3,3,100
-2016,"Bryant, Matt",ATL,K,10/23,Home,LAC,Mercedes-Benz Stadium,3,3,100
-2016,"Bryant, Matt",ATL,K,10/30,Home,GB,Mercedes-Benz Stadium,3,3,100
-2016,"Bryant, Matt",ATL,K,11/03,Away,TB,Raymond James Stadium,4,4,100
-2016,"Bryant, Matt",ATL,K,11/13,Away,PHI,Lincoln Financial Field,0,1,0
-2016,"Bryant, Matt",ATL,K,11/27,Home,ARI,Mercedes-Benz Stadium,5,5,100
-2016,"Bryant, Matt",ATL,K,12/04,Home,KC,Mercedes-Benz Stadium,1,1,100
-2016,"Bryant, Matt",ATL,K,12/11,Away,LAR,Los Angeles Memorial Coliseum,6,6,100
-2016,"Bryant, Matt",ATL,K,12/18,Home,SF,Mercedes-Benz Stadium,5,5,100
-2016,"Bryant, Matt",ATL,K,12/24,Away,CAR,Bank of America Stadium,3,3,100
-2016,"Bryant, Matt",ATL,K,01/01,Home,NO,Mercedes-Benz Stadium,5,5,100
-2016,"Zuerlein, Greg",LAR,K,09/12,Away,SF,Levi's Stadium,--,--,--
-2016,"Zuerlein, Greg",LAR,K,09/18,Home,SEA,Los Angeles Memorial Coliseum,0,0,--
-2016,"Zuerlein, Greg",LAR,K,09/25,Away,TB,Raymond James Stadium,4,4,100
-2016,"Zuerlein, Greg",LAR,K,10/02,Away,ARI,State Farm Stadium,2,2,100
-2016,"Zuerlein, Greg",LAR,K,10/09,Home,BUF,Los Angeles Memorial Coliseum,1,1,100
-2016,"Zuerlein, Greg",LAR,K,10/16,Away,DET,Ford Field,4,4,100
-2016,"Zuerlein, Greg",LAR,K,10/23,Home,NYG,Los Angeles Memorial Coliseum,1,1,100
-2016,"Zuerlein, Greg",LAR,K,11/06,Home,CAR,Los Angeles Memorial Coliseum,1,1,100
-2016,"Zuerlein, Greg",LAR,K,11/13,Away,NYJ,MetLife Stadium,0,0,--
-2016,"Zuerlein, Greg",LAR,K,11/20,Home,MIA,Los Angeles Memorial Coliseum,1,1,100
-2016,"Zuerlein, Greg",LAR,K,11/27,Away,NO,Mercedes-Benz Superdome,3,3,100
-2016,"Zuerlein, Greg",LAR,K,12/04,Away,NE,Gillete Stadium,1,1,100
-2016,"Zuerlein, Greg",LAR,K,12/11,Home,ATL,Los Angeles Memorial Coliseum,2,2,100
-2016,"Zuerlein, Greg",LAR,K,12/15,Away,SEA,CenturyLink Field,0,0,--
-2016,"Zuerlein, Greg",LAR,K,12/24,Home,SF,Los Angeles Memorial Coliseum,3,3,100
-2016,"Zuerlein, Greg",LAR,K,01/01,Home,ARI,Los Angeles Memorial Coliseum,0,0,--
-2016,"Santos, Cairo",KC,K,09/11,Home,LAC,Arrowhead Stadium,3,3,100
-2016,"Santos, Cairo",KC,K,09/18,Away,HOU,NRG Stadium,0,0,--
-2016,"Santos, Cairo",KC,K,09/25,Home,NYJ,Arrowhead Stadium,3,3,100
-2016,"Santos, Cairo",KC,K,10/02,Away,PIT,Heinz Field,2,2,100
-2016,"Santos, Cairo",KC,K,10/16,Away,OAK,Oakland–Alameda County Coliseum,2,3,66.7
-2016,"Santos, Cairo",KC,K,10/23,Home,NO,Arrowhead Stadium,3,3,100
-2016,"Santos, Cairo",KC,K,10/30,Away,IND,Lucas Oil Stadium,3,3,100
-2016,"Santos, Cairo",KC,K,11/06,Home,JAX,Arrowhead Stadium,1,1,100
-2016,"Santos, Cairo",KC,K,11/13,Away,CAR,Bank of America Stadium,0,0,--
-2016,"Santos, Cairo",KC,K,11/20,Home,TB,Arrowhead Stadium,2,2,100
-2016,"Santos, Cairo",KC,K,11/27,Away,DEN,Broncos Stadium at Mile High,2,2,100
-2016,"Santos, Cairo",KC,K,12/04,Away,ATL,Mercedes-Benz Stadium,3,4,75
-2016,"Santos, Cairo",KC,K,12/08,Home,OAK,Arrowhead Stadium,3,3,100
-2016,"Santos, Cairo",KC,K,12/18,Home,TEN,Arrowhead Stadium,2,2,100
-2016,"Santos, Cairo",KC,K,12/25,Home,DEN,Arrowhead Stadium,3,4,75
-2016,"Santos, Cairo",KC,K,01/01,Away,LAC,StubHub Center,4,4,100
+Year,Name,Team,Position,Game Date,Home or Away,Opponent,Location,Zipcode,Extra Points Made,Extra Points Attempted,Percentage of Extra Points Made
+2016,"Janikowski, Sebastian",OAK,K,09/11,Away,NO,Mercedes-Benz Superdome,70112,1,1,100
+2016,"Janikowski, Sebastian",OAK,K,09/18,Home,ATL,Oakland–Alameda County Coliseum,94621,4,4,100
+2016,"Janikowski, Sebastian",OAK,K,09/25,Away,TEN,Nissan Stadium,37213,2,2,100
+2016,"Janikowski, Sebastian",OAK,K,10/02,Away,BAL,M&T Bank Stadium,21230,4,4,100
+2016,"Janikowski, Sebastian",OAK,K,10/09,Home,LAC,Oakland–Alameda County Coliseum,94621,2,2,100
+2016,"Janikowski, Sebastian",OAK,K,10/16,Home,KC,Oakland–Alameda County Coliseum,94621,1,1,100
+2016,"Janikowski, Sebastian",OAK,K,10/23,Away,JAX,TIAA Bank Field,32202,3,3,100
+2016,"Janikowski, Sebastian",OAK,K,10/30,Away,TB,Raymond James Stadium,33607,3,3,100
+2016,"Janikowski, Sebastian",OAK,K,11/06,Home,DEN,Oakland–Alameda County Coliseum,94621,3,3,100
+2016,"Janikowski, Sebastian",OAK,K,11/21,Home,HOU,Oakland–Alameda County Coliseum,94621,3,3,100
+2016,"Janikowski, Sebastian",OAK,K,11/27,Home,CAR,Oakland–Alameda County Coliseum,94621,3,3,100
+2016,"Janikowski, Sebastian",OAK,K,12/04,Home,BUF,Oakland–Alameda County Coliseum,94621,3,3,100
+2016,"Janikowski, Sebastian",OAK,K,12/08,Away,KC,Arrowhead Stadium,64129,1,1,100
+2016,"Janikowski, Sebastian",OAK,K,12/18,Away,LAC,Oakland–Alameda County Coliseum,94621,1,1,100
+2016,"Janikowski, Sebastian",OAK,K,12/24,Home,IND,Oakland–Alameda County Coliseum,94621,3,5,60
+2016,"Janikowski, Sebastian",OAK,K,01/01,Away,DEN,Broncos Stadium at Mile High,80204,--,--,--
+2016,"Myers, Jason",JAX,K,09/11,Home,GB,TIAA Bank Field,32202,2,2,100
+2016,"Myers, Jason",JAX,K,09/18,Away,LAC,Oakland–Alameda County Coliseum,94621,2,2,100
+2016,"Myers, Jason",JAX,K,09/25,Home,BAL,TIAA Bank Field,32202,2,2,100
+2016,"Myers, Jason",JAX,K,10/02,Home,IND,TIAA Bank Field,32202,3,3,100
+2016,"Myers, Jason",JAX,K,10/16,Away,CHI,Soldier Field,60605,2,2,100
+2016,"Myers, Jason",JAX,K,10/23,Home,OAK,TIAA Bank Field,32202,1,1,100
+2016,"Myers, Jason",JAX,K,10/27,Away,TEN,Nissan Stadium,37213,2,2,100
+2016,"Myers, Jason",JAX,K,11/06,Away,KC,Arrowhead Stadium,64129,2,2,100
+2016,"Myers, Jason",JAX,K,11/13,Home,HOU,TIAA Bank Field,32202,1,1,100
+2016,"Myers, Jason",JAX,K,11/20,Away,DET,Ford Field,48226,1,2,50
+2016,"Myers, Jason",JAX,K,11/27,Away,BUF,New Era Field,14127,3,3,100
+2016,"Myers, Jason",JAX,K,12/04,Home,DEN,TIAA Bank Field,32202,1,1,100
+2016,"Myers, Jason",JAX,K,12/11,Home,MIN,TIAA Bank Field,32202,1,1,100
+2016,"Myers, Jason",JAX,K,12/18,Away,HOU,NRG Stadium,77054,2,2,100
+2016,"Myers, Jason",JAX,K,12/24,Home,TEN,TIAA Bank Field,32202,2,4,50
+2016,"Myers, Jason",JAX,K,01/01,Away,IND,Lucas Oil Stadium,46225,2,2,100
+2016,"Dawson, Phil",SF,K,09/12,Home,LAR,Levi's Stadium,95054,4,4,100
+2016,"Dawson, Phil",SF,K,09/18,Away,CAR,Bank of America Stadium,28202,3,3,100
+2016,"Dawson, Phil",SF,K,09/25,Away,SEA,CenturyLink Field,98134,1,1,100
+2016,"Dawson, Phil",SF,K,10/02,Home,DAL,Levi's Stadium,95054,2,2,100
+2016,"Dawson, Phil",SF,K,10/06,Home,ARI,Levi's Stadium,95054,3,3,100
+2016,"Dawson, Phil",SF,K,10/16,Away,BUF,New Era Field,14127,1,1,100
+2016,"Dawson, Phil",SF,K,10/23,Home,TB,Levi's Stadium,95054,2,2,100
+2016,"Dawson, Phil",SF,K,11/06,Home,NO,Levi's Stadium,95054,2,2,100
+2016,"Dawson, Phil",SF,K,11/13,Away,ARI,State Farm Stadium,85305,2,2,100
+2016,"Dawson, Phil",SF,K,11/20,Home,NE,Levi's Stadium,95054,2,2,100
+2016,"Dawson, Phil",SF,K,11/27,Away,MIA,Hard Rock Stadium,33056,3,3,100
+2016,"Dawson, Phil",SF,K,12/04,Away,CHI,Soldier Field,60605,0,0,--
+2016,"Dawson, Phil",SF,K,12/11,Home,NYJ,Levi's Stadium,95054,2,2,100
+2016,"Dawson, Phil",SF,K,12/18,Away,ATL,Mercedes-Benz Stadium,30313,1,2,50
+2016,"Dawson, Phil",SF,K,12/24,Away,LAR,Los Angeles Memorial Coliseum,90037,2,2,100
+2016,"Dawson, Phil",SF,K,01/01,Home,SEA,Levi's Stadium,95054,3,3,100
+2016,"Hauschka, Steven",SEA,K,09/11,Home,MIA,CenturyLink Field,98134,0,1,0
+2016,"Hauschka, Steven",SEA,K,09/18,Away,LAR,Los Angeles Memorial Coliseum,90037,0,0,--
+2016,"Hauschka, Steven",SEA,K,09/25,Home,SF,CenturyLink Field,98134,4,4,100
+2016,"Hauschka, Steven",SEA,K,10/02,Away,NYJ,MetLife Stadium,07073,3,3,100
+2016,"Hauschka, Steven",SEA,K,10/16,Home,ATL,CenturyLink Field,98134,2,3,66.7
+2016,"Hauschka, Steven",SEA,K,10/23,Away,ARI,State Farm Stadium,85305,0,0,--
+2016,"Hauschka, Steven",SEA,K,10/30,Away,NO,Mercedes-Benz Superdome,70112,2,2,100
+2016,"Hauschka, Steven",SEA,K,11/07,Home,BUF,CenturyLink Field,98134,4,4,100
+2016,"Hauschka, Steven",SEA,K,11/13,Away,NE,Gillete Stadium,02035,1,2,50
+2016,"Hauschka, Steven",SEA,K,11/20,Home,PHI,CenturyLink Field,98134,2,3,66.7
+2016,"Hauschka, Steven",SEA,K,11/27,Away,TB,Raymond James Stadium,33607,0,0,--
+2016,"Hauschka, Steven",SEA,K,12/04,Home,CAR,CenturyLink Field,98134,4,4,100
+2016,"Hauschka, Steven",SEA,K,12/11,Away,GB,Lambeau Field,54304,1,1,100
+2016,"Hauschka, Steven",SEA,K,12/15,Home,LAR,CenturyLink Field,98134,3,3,100
+2016,"Hauschka, Steven",SEA,K,12/24,Home,ARI,CenturyLink Field,98134,2,3,66.7
+2016,"Hauschka, Steven",SEA,K,01/01,Away,SF,Levi's Stadium,95054,1,2,50
+2016,"Crosby, Mason",GB,K,09/11,Away,JAX,TIAA Bank Field,32202,3,3,100
+2016,"Crosby, Mason",GB,K,09/18,Away,MIN,U.S. Bank Stadium,55415,2,2,100
+2016,"Crosby, Mason",GB,K,09/25,Home,DET,Lambeau Field,54304,4,4,100
+2016,"Crosby, Mason",GB,K,10/09,Home,NYG,Lambeau Field,54304,2,2,100
+2016,"Crosby, Mason",GB,K,10/16,Home,DAL,Lambeau Field,54304,1,1,100
+2016,"Crosby, Mason",GB,K,10/20,Home,CHI,Lambeau Field,54304,2,3,66.7
+2016,"Crosby, Mason",GB,K,10/30,Away,ATL,Mercedes-Benz Stadium,30313,3,3,100
+2016,"Crosby, Mason",GB,K,11/06,Home,IND,Lambeau Field,54304,2,2,100
+2016,"Crosby, Mason",GB,K,11/13,Away,TEN,Nissan Stadium,37213,1,2,50
+2016,"Crosby, Mason",GB,K,11/20,Away,WAS,FedExField,20785,3,3,100
+2016,"Crosby, Mason",GB,K,11/28,Away,PHI,Lincoln Financial Field,19148,3,3,100
+2016,"Crosby, Mason",GB,K,12/04,Home,HOU,Lambeau Field,54304,3,3,100
+2016,"Crosby, Mason",GB,K,12/11,Home,SEA,Lambeau Field,54304,5,5,100
+2016,"Crosby, Mason",GB,K,12/18,Away,CHI,Soldier Field,60605,3,3,100
+2016,"Crosby, Mason",GB,K,12/24,Home,MIN,Lambeau Field,54304,5,5,100
+2016,"Crosby, Mason",GB,K,01/01,Away,DET,Ford Field,48226,2,3,66.7
+2016,"Prater, Matt",DET,K,09/11,Away,IND,Lucas Oil Stadium,46225,4,5,80
+2016,"Prater, Matt",DET,K,09/18,Home,TEN,Ford Field,48226,1,1,100
+2016,"Prater, Matt",DET,K,09/25,Away,GB,Lambeau Field,54304,3,3,100
+2016,"Prater, Matt",DET,K,10/02,Away,CHI,Soldier Field,60605,0,0,--
+2016,"Prater, Matt",DET,K,10/09,Home,PHI,Ford Field,48226,3,3,100
+2016,"Prater, Matt",DET,K,10/16,Home,LAR,Ford Field,48226,4,4,100
+2016,"Prater, Matt",DET,K,10/23,Home,WAS,Ford Field,48226,2,2,100
+2016,"Prater, Matt",DET,K,10/30,Away,HOU,NRG Stadium,77054,1,1,100
+2016,"Prater, Matt",DET,K,11/06,Away,MIN,U.S. Bank Stadium,55415,1,1,100
+2016,"Prater, Matt",DET,K,11/20,Home,JAX,Ford Field,48226,2,3,66.7
+2016,"Prater, Matt",DET,K,11/24,Home,MIN,Ford Field,48226,1,1,100
+2016,"Prater, Matt",DET,K,12/04,Away,NO,Mercedes-Benz Superdome,70112,1,1,100
+2016,"Prater, Matt",DET,K,12/11,Home,CHI,Ford Field,48226,2,2,100
+2016,"Prater, Matt",DET,K,12/18,Away,NYG,MetLife Stadium,07073,0,0,--
+2016,"Prater, Matt",DET,K,12/26,Away,DAL,AT&T Stadium,76011,3,3,100
+2016,"Prater, Matt",DET,K,01/01,Home,GB,Ford Field,48226,3,3,100
+2016,"Carpenter, Dan",BUF,K,09/11,Away,BAL,M&T Bank Stadium,21230,1,1,100
+2016,"Carpenter, Dan",BUF,K,09/15,Home,NYJ,New Era Field,14127,4,4,100
+2016,"Carpenter, Dan",BUF,K,09/25,Home,ARI,New Era Field,14127,3,4,75
+2016,"Carpenter, Dan",BUF,K,10/02,Away,NE,Gillete Stadium,02035,1,1,100
+2016,"Carpenter, Dan",BUF,K,10/09,Away,LAR,Los Angeles Memorial Coliseum,90037,3,4,75
+2016,"Carpenter, Dan",BUF,K,10/16,Home,SF,New Era Field,14127,6,6,100
+2016,"Carpenter, Dan",BUF,K,10/23,Away,MIA,Hard Rock Stadium,33056,2,2,100
+2016,"Carpenter, Dan",BUF,K,10/30,Home,NE,New Era Field,14127,2,2,100
+2016,"Carpenter, Dan",BUF,K,11/07,Away,SEA,CenturyLink Field,98134,2,2,100
+2016,"Carpenter, Dan",BUF,K,11/20,Away,CIN,Paul Brown Stadium,45202,1,1,100
+2016,"Carpenter, Dan",BUF,K,11/27,Home,JAX,New Era Field,14127,2,3,66.7
+2016,"Carpenter, Dan",BUF,K,12/04,Away,OAK,Oakland–Alameda County Coliseum,94621,3,3,100
+2016,"Carpenter, Dan",BUF,K,12/11,Home,PIT,New Era Field,14127,2,3,66.7
+2016,"Carpenter, Dan",BUF,K,12/18,Home,CLE,New Era Field,14127,3,4,75
+2016,"Carpenter, Dan",BUF,K,12/24,Home,MIA,New Era Field,14127,4,4,100
+2016,"Carpenter, Dan",BUF,K,01/01,Away,NYJ,MetLife Stadium,07073,1,1,100
+2016,"Gostkowski, Stephen",NE,K,09/11,Away,ARI,State Farm Stadium,85305,2,2,100
+2016,"Gostkowski, Stephen",NE,K,09/18,Home,MIA,Gillete Stadium,02035,4,4,100
+2016,"Gostkowski, Stephen",NE,K,09/22,Home,HOU,Gillete Stadium,02035,3,3,100
+2016,"Gostkowski, Stephen",NE,K,10/02,Home,BUF,Gillete Stadium,02035,0,0,--
+2016,"Gostkowski, Stephen",NE,K,10/09,Away,CLE,FirstEnergy Stadium,44114,4,4,100
+2016,"Gostkowski, Stephen",NE,K,10/16,Home,CIN,Gillete Stadium,02035,3,4,75
+2016,"Gostkowski, Stephen",NE,K,10/23,Away,PIT,Heinz Field,15212,3,4,75
+2016,"Gostkowski, Stephen",NE,K,10/30,Away,BUF,New Era Field,14127,5,5,100
+2016,"Gostkowski, Stephen",NE,K,11/13,Home,SEA,Gillete Stadium,02035,3,3,100
+2016,"Gostkowski, Stephen",NE,K,11/20,Away,SF,Levi's Stadium,95054,3,4,75
+2016,"Gostkowski, Stephen",NE,K,11/27,Away,NYJ,MetLife Stadium,07073,1,1,100
+2016,"Gostkowski, Stephen",NE,K,12/04,Home,LAR,Gillete Stadium,02035,2,2,100
+2016,"Gostkowski, Stephen",NE,K,12/12,Home,BAL,Gillete Stadium,02035,4,4,100
+2016,"Gostkowski, Stephen",NE,K,12/18,Away,DEN,Broncos Stadium at Mile High,80204,1,1,100
+2016,"Gostkowski, Stephen",NE,K,12/24,Home,NYJ,Gillete Stadium,02035,5,5,100
+2016,"Gostkowski, Stephen",NE,K,01/01,Away,MIA,Hard Rock Stadium,33056,3,3,100
+2016,"Boswell, Chris",PIT,K,09/12,Away,WAS,FedExField,20785,5,5,100
+2016,"Boswell, Chris",PIT,K,09/18,Home,CIN,Heinz Field,15212,3,3,100
+2016,"Boswell, Chris",PIT,K,09/25,Away,PHI,Lincoln Financial Field,19148,0,0,--
+2016,"Boswell, Chris",PIT,K,10/02,Home,KC,Heinz Field,15212,5,5,100
+2016,"Boswell, Chris",PIT,K,10/09,Home,NYJ,Heinz Field,15212,4,4,100
+2016,"Boswell, Chris",PIT,K,10/16,Away,MIA,Hard Rock Stadium,33056,1,1,100
+2016,"Boswell, Chris",PIT,K,10/23,Home,NE,Heinz Field,15212,1,1,100
+2016,"Boswell, Chris",PIT,K,11/06,Away,BAL,M&T Bank Stadium,21230,2,2,100
+2016,"Boswell, Chris",PIT,K,11/13,Home,DAL,Heinz Field,15212,0,0,--
+2016,"Boswell, Chris",PIT,K,11/20,Away,CLE,FirstEnergy Stadium,44114,1,1,100
+2016,"Boswell, Chris",PIT,K,11/24,Away,IND,Lucas Oil Stadium,46225,4,4,100
+2016,"Boswell, Chris",PIT,K,12/04,Home,NYG,Heinz Field,15212,--,--,--
+2016,"Boswell, Chris",PIT,K,12/11,Away,BUF,New Era Field,14127,3,3,100
+2016,"Boswell, Chris",PIT,K,12/18,Away,CIN,Paul Brown Stadium,45202,0,0,--
+2016,"Boswell, Chris",PIT,K,12/25,Home,BAL,Heinz Field,15212,4,4,100
+2016,"Boswell, Chris",PIT,K,01/01,Home,CLE,Heinz Field,15212,3,3,100
+2016,"Succop, Ryan",TEN,K,09/11,Home,MIN,Nissan Stadium,37213,1,1,100
+2016,"Succop, Ryan",TEN,K,09/18,Away,DET,Ford Field,48226,1,1,100
+2016,"Succop, Ryan",TEN,K,09/25,Home,OAK,Nissan Stadium,37213,1,1,100
+2016,"Succop, Ryan",TEN,K,10/02,Away,HOU,NRG Stadium,77054,2,2,100
+2016,"Succop, Ryan",TEN,K,10/09,Away,MIA,Hard Rock Stadium,33056,3,4,75
+2016,"Succop, Ryan",TEN,K,10/16,Home,CLE,Nissan Stadium,37213,4,4,100
+2016,"Succop, Ryan",TEN,K,10/23,Home,IND,Nissan Stadium,37213,2,2,100
+2016,"Succop, Ryan",TEN,K,10/27,Home,JAX,Nissan Stadium,37213,3,4,75
+2016,"Succop, Ryan",TEN,K,11/06,Away,LAC,StubHub Center,90746,5,5,100
+2016,"Succop, Ryan",TEN,K,11/13,Home,GB,Nissan Stadium,37213,5,5,100
+2016,"Succop, Ryan",TEN,K,11/20,Away,IND,Lucas Oil Stadium,46225,2,2,100
+2016,"Succop, Ryan",TEN,K,11/27,Away,CHI,Soldier Field,60605,3,3,100
+2016,"Succop, Ryan",TEN,K,12/11,Home,DEN,Nissan Stadium,37213,1,1,100
+2016,"Succop, Ryan",TEN,K,12/18,Away,KC,Arrowhead Stadium,64129,1,1,100
+2016,"Succop, Ryan",TEN,K,12/24,Away,JAX,TIAA Bank Field,32202,2,2,100
+2016,"Succop, Ryan",TEN,K,01/01,Home,HOU,Nissan Stadium,37213,3,3,100
+2016,"Sturgis, Caleb",PHI,K,09/11,Home,CLE,Lincoln Financial Field,19148,3,3,100
+2016,"Sturgis, Caleb",PHI,K,09/19,Away,CHI,Soldier Field,60605,2,3,66.7
+2016,"Sturgis, Caleb",PHI,K,09/25,Home,PIT,Lincoln Financial Field,19148,4,4,100
+2016,"Sturgis, Caleb",PHI,K,10/09,Away,DET,Ford Field,48226,2,2,100
+2016,"Sturgis, Caleb",PHI,K,10/16,Away,WAS,FedExField,20785,2,2,100
+2016,"Sturgis, Caleb",PHI,K,10/23,Home,MIN,Lincoln Financial Field,19148,1,1,100
+2016,"Sturgis, Caleb",PHI,K,10/30,Away,DAL,AT&T Stadium,76011,2,2,100
+2016,"Sturgis, Caleb",PHI,K,11/06,Away,NYG,MetLife Stadium,07073,2,2,100
+2016,"Sturgis, Caleb",PHI,K,11/13,Home,ATL,Lincoln Financial Field,19148,1,1,100
+2016,"Sturgis, Caleb",PHI,K,11/20,Away,SEA,CenturyLink Field,98134,1,1,100
+2016,"Sturgis, Caleb",PHI,K,11/28,Home,GB,Lincoln Financial Field,19148,1,1,100
+2016,"Sturgis, Caleb",PHI,K,12/04,Away,CIN,Paul Brown Stadium,45202,2,2,100
+2016,"Sturgis, Caleb",PHI,K,12/11,Home,WAS,Lincoln Financial Field,19148,1,1,100
+2016,"Sturgis, Caleb",PHI,K,12/18,Away,BAL,M&T Bank Stadium,21230,0,0,--
+2016,"Sturgis, Caleb",PHI,K,12/22,Home,NYG,Lincoln Financial Field,19148,3,3,100
+2016,"Sturgis, Caleb",PHI,K,01/01,Home,DAL,Lincoln Financial Field,19148,3,3,100
+2016,"Catanzaro, Chandler",ARI,K,09/11,Home,NE,State Farm Stadium,85305,3,3,100
+2016,"Catanzaro, Chandler",ARI,K,09/18,Home,TB,State Farm Stadium,85305,4,5,80
+2016,"Catanzaro, Chandler",ARI,K,09/25,Away,BUF,New Era Field,14127,1,1,100
+2016,"Catanzaro, Chandler",ARI,K,10/02,Home,LAR,State Farm Stadium,85305,1,1,100
+2016,"Catanzaro, Chandler",ARI,K,10/06,Away,SF,Levi's Stadium,95054,4,4,100
+2016,"Catanzaro, Chandler",ARI,K,10/17,Home,NYJ,State Farm Stadium,85305,4,4,100
+2016,"Catanzaro, Chandler",ARI,K,10/23,Home,SEA,State Farm Stadium,85305,0,0,--
+2016,"Catanzaro, Chandler",ARI,K,10/30,Away,CAR,Bank of America Stadium,28202,2,2,100
+2016,"Catanzaro, Chandler",ARI,K,11/13,Home,SF,State Farm Stadium,85305,2,2,100
+2016,"Catanzaro, Chandler",ARI,K,11/20,Away,MIN,U.S. Bank Stadium,55415,3,3,100
+2016,"Catanzaro, Chandler",ARI,K,11/27,Away,ATL,Mercedes-Benz Stadium,30313,1,1,100
+2016,"Catanzaro, Chandler",ARI,K,12/04,Home,WAS,State Farm Stadium,85305,4,4,100
+2016,"Catanzaro, Chandler",ARI,K,12/11,Away,MIA,Hard Rock Stadium,33056,0,2,0
+2016,"Catanzaro, Chandler",ARI,K,12/18,Home,NO,State Farm Stadium,85305,5,6,83.3
+2016,"Catanzaro, Chandler",ARI,K,12/24,Away,SEA,CenturyLink Field,98134,4,4,100
+2016,"Catanzaro, Chandler",ARI,K,01/01,Away,LAR,Los Angeles Memorial Coliseum,90037,5,5,100
+2016,"Bailey, Dan",DAL,K,09/11,Home,NYG,AT&T Stadium,76011,1,1,100
+2016,"Bailey, Dan",DAL,K,09/18,Away,WAS,FedExField,20785,3,3,100
+2016,"Bailey, Dan",DAL,K,09/25,Home,CHI,AT&T Stadium,76011,4,4,100
+2016,"Bailey, Dan",DAL,K,10/02,Away,SF,Levi's Stadium,95054,3,3,100
+2016,"Bailey, Dan",DAL,K,10/09,Home,CIN,AT&T Stadium,76011,4,4,100
+2016,"Bailey, Dan",DAL,K,10/16,Away,GB,Lambeau Field,54304,3,3,100
+2016,"Bailey, Dan",DAL,K,10/30,Home,PHI,AT&T Stadium,76011,2,2,100
+2016,"Bailey, Dan",DAL,K,11/06,Away,CLE,FirstEnergy Stadium,44114,5,5,100
+2016,"Bailey, Dan",DAL,K,11/13,Away,PIT,Heinz Field,15212,2,2,100
+2016,"Bailey, Dan",DAL,K,11/20,Home,BAL,AT&T Stadium,76011,3,3,100
+2016,"Bailey, Dan",DAL,K,11/24,Home,WAS,AT&T Stadium,76011,4,4,100
+2016,"Bailey, Dan",DAL,K,12/01,Away,MIN,U.S. Bank Stadium,55415,2,2,100
+2016,"Bailey, Dan",DAL,K,12/11,Away,NYG,MetLife Stadium,07073,1,1,100
+2016,"Bailey, Dan",DAL,K,12/18,Home,TB,AT&T Stadium,76011,2,2,100
+2016,"Bailey, Dan",DAL,K,12/26,Home,DET,AT&T Stadium,76011,6,6,100
+2016,"Bailey, Dan",DAL,K,01/01,Away,PHI,Lincoln Financial Field,19148,1,1,100
+2016,"Lambo, Josh",LAC,K,09/11,Away,KC,Arrowhead Stadium,64129,3,3,100
+2016,"Lambo, Josh",LAC,K,09/18,Home,JAX,StubHub Center,90746,5,5,100
+2016,"Lambo, Josh",LAC,K,09/25,Away,IND,Lucas Oil Stadium,46225,1,2,50
+2016,"Lambo, Josh",LAC,K,10/02,Home,NO,StubHub Center,90746,4,4,100
+2016,"Lambo, Josh",LAC,K,10/09,Away,OAK,Oakland–Alameda County Coliseum,94621,4,4,100
+2016,"Lambo, Josh",LAC,K,10/13,Home,DEN,StubHub Center,90746,1,1,100
+2016,"Lambo, Josh",LAC,K,10/23,Away,ATL,Mercedes-Benz Stadium,30313,3,3,100
+2016,"Lambo, Josh",LAC,K,10/30,Away,DEN,Broncos Stadium at Mile High,80204,1,2,50
+2016,"Lambo, Josh",LAC,K,11/06,Home,TEN,StubHub Center,90746,4,5,80
+2016,"Lambo, Josh",LAC,K,11/13,Home,MIA,StubHub Center,90746,3,3,100
+2016,"Lambo, Josh",LAC,K,11/27,Away,HOU,NRG Stadium,77054,3,3,100
+2016,"Lambo, Josh",LAC,K,12/04,Home,TB,StubHub Center,90746,3,3,100
+2016,"Lambo, Josh",LAC,K,12/11,Away,CAR,Bank of America Stadium,28202,1,1,100
+2016,"Lambo, Josh",LAC,K,12/18,Home,OAK,StubHub Center,90746,1,2,50
+2016,"Lambo, Josh",LAC,K,12/24,Away,CLE,FirstEnergy Stadium,44114,2,2,100
+2016,"Lambo, Josh",LAC,K,01/01,Home,KC,StubHub Center,90746,3,3,100
+2016,"McManus, Brandon",DEN,K,09/08,Home,CAR,Broncos Stadium at Mile High,80204,3,3,100
+2016,"McManus, Brandon",DEN,K,09/18,Home,IND,Broncos Stadium at Mile High,80204,2,2,100
+2016,"McManus, Brandon",DEN,K,09/25,Away,CIN,Paul Brown Stadium,45202,2,3,66.7
+2016,"McManus, Brandon",DEN,K,10/02,Away,TB,Raymond James Stadium,33607,3,3,100
+2016,"McManus, Brandon",DEN,K,10/09,Home,ATL,Broncos Stadium at Mile High,80204,1,1,100
+2016,"McManus, Brandon",DEN,K,10/13,Away,LAC,StubHub Center,90746,1,1,100
+2016,"McManus, Brandon",DEN,K,10/24,Home,HOU,Broncos Stadium at Mile High,80204,3,3,100
+2016,"McManus, Brandon",DEN,K,10/30,Home,LAC,Broncos Stadium at Mile High,80204,3,3,100
+2016,"McManus, Brandon",DEN,K,11/06,Away,OAK,Oakland–Alameda County Coliseum,94621,2,2,100
+2016,"McManus, Brandon",DEN,K,11/13,Away,NO,Mercedes-Benz Superdome,70112,2,2,100
+2016,"McManus, Brandon",DEN,K,11/27,Home,KC,Broncos Stadium at Mile High,80204,3,3,100
+2016,"McManus, Brandon",DEN,K,12/04,Away,JAX,TIAA Bank Field,32202,2,2,100
+2016,"McManus, Brandon",DEN,K,12/11,Away,TEN,Nissan Stadium,37213,1,1,100
+2016,"McManus, Brandon",DEN,K,12/18,Home,NE,Broncos Stadium at Mile High,80204,0,0,--
+2016,"McManus, Brandon",DEN,K,12/25,Away,KC,Arrowhead Stadium,64129,1,1,100
+2016,"McManus, Brandon",DEN,K,01/01,Home,OAK,Broncos Stadium at Mile High,80204,3,3,100
+2016,"Hopkins, Dustin",WAS,K,09/12,Home,PIT,FedExField,20785,1,1,100
+2016,"Hopkins, Dustin",WAS,K,09/18,Home,DAL,FedExField,20785,2,2,100
+2016,"Hopkins, Dustin",WAS,K,09/25,Away,NYG,MetLife Stadium,07073,2,2,100
+2016,"Hopkins, Dustin",WAS,K,10/02,Home,CLE,FedExField,20785,4,4,100
+2016,"Hopkins, Dustin",WAS,K,10/09,Away,BAL,M&T Bank Stadium,21230,1,2,50
+2016,"Hopkins, Dustin",WAS,K,10/16,Home,PHI,FedExField,20785,3,3,100
+2016,"Hopkins, Dustin",WAS,K,10/23,Away,DET,Ford Field,48226,2,2,100
+2016,"Hopkins, Dustin",WAS,K,10/30,Away,CIN,Paul Brown Stadium,45202,3,3,100
+2016,"Hopkins, Dustin",WAS,K,11/13,Home,MIN,FedExField,20785,2,2,100
+2016,"Hopkins, Dustin",WAS,K,11/20,Home,GB,FedExField,20785,3,4,75
+2016,"Hopkins, Dustin",WAS,K,11/24,Away,DAL,AT&T Stadium,76011,2,2,100
+2016,"Hopkins, Dustin",WAS,K,12/04,Away,ARI,State Farm Stadium,85305,2,2,100
+2016,"Hopkins, Dustin",WAS,K,12/11,Away,PHI,Lincoln Financial Field,19148,3,3,100
+2016,"Hopkins, Dustin",WAS,K,12/19,Home,CAR,FedExField,20785,0,1,0
+2016,"Hopkins, Dustin",WAS,K,12/24,Away,CHI,Soldier Field,60605,5,5,100
+2016,"Hopkins, Dustin",WAS,K,01/01,Home,NYG,FedExField,20785,1,1,100
+2016,"Bullock, Randy",CIN,K,09/11,Away,DAL,AT&T Stadium,76011,2,3,66.7
+2016,"Bullock, Randy",CIN,K,12/04,Home,NYG,Paul Brown Stadium,45202,1,1,100
+2016,"Bullock, Randy",CIN,K,12/11,Away,BUF,New Era Field,14127,--,--,--
+2016,"Bullock, Randy",CIN,K,12/18,Home,PIT,Paul Brown Stadium,45202,2,2,100
+2016,"Bullock, Randy",CIN,K,12/24,Away,HOU,NRG Stadium,77054,1,1,100
+2016,"Bullock, Randy",CIN,K,01/01,Home,BAL,Paul Brown Stadium,45202,3,3,100
+2016,"Novak, Nick",HOU,K,09/11,Home,CHI,NRG Stadium,77054,2,2,100
+2016,"Novak, Nick",HOU,K,09/18,Home,KC,NRG Stadium,77054,1,1,100
+2016,"Novak, Nick",HOU,K,09/22,Away,NE,Gillete Stadium,02035,--,--,--
+2016,"Novak, Nick",HOU,K,10/02,Home,TEN,NRG Stadium,77054,3,3,100
+2016,"Novak, Nick",HOU,K,10/09,Away,MIN,U.S. Bank Stadium,55415,1,1,100
+2016,"Novak, Nick",HOU,K,10/16,Home,IND,NRG Stadium,77054,2,3,66.7
+2016,"Novak, Nick",HOU,K,10/24,Away,DEN,Broncos Stadium at Mile High,80204,0,0,--
+2016,"Novak, Nick",HOU,K,10/30,Home,DET,NRG Stadium,77054,2,2,100
+2016,"Novak, Nick",HOU,K,11/13,Away,JAX,TIAA Bank Field,32202,3,3,100
+2016,"Novak, Nick",HOU,K,11/21,Away,OAK,Oakland–Alameda County Coliseum,94621,2,2,100
+2016,"Novak, Nick",HOU,K,11/27,Home,LAC,NRG Stadium,77054,1,1,100
+2016,"Novak, Nick",HOU,K,12/04,Away,GB,Lambeau Field,54304,1,2,50
+2016,"Novak, Nick",HOU,K,12/11,Away,IND,Lucas Oil Stadium,46225,1,1,100
+2016,"Novak, Nick",HOU,K,12/18,Home,JAX,NRG Stadium,77054,1,1,100
+2016,"Novak, Nick",HOU,K,12/24,Home,CIN,NRG Stadium,77054,0,1,0
+2016,"Novak, Nick",HOU,K,01/01,Away,TEN,Nissan Stadium,37213,2,2,100
+2016,"Vinatieri, Adam",IND,K,09/11,Home,DET,Lucas Oil Stadium,46225,3,3,100
+2016,"Vinatieri, Adam",IND,K,09/18,Away,DEN,Broncos Stadium at Mile High,80204,2,2,100
+2016,"Vinatieri, Adam",IND,K,09/25,Home,LAC,Lucas Oil Stadium,46225,2,2,100
+2016,"Vinatieri, Adam",IND,K,10/02,Away,JAX,TIAA Bank Field,32202,3,3,100
+2016,"Vinatieri, Adam",IND,K,10/09,Home,CHI,Lucas Oil Stadium,46225,2,2,100
+2016,"Vinatieri, Adam",IND,K,10/16,Away,HOU,NRG Stadium,77054,2,2,100
+2016,"Vinatieri, Adam",IND,K,10/23,Away,TEN,Nissan Stadium,37213,4,4,100
+2016,"Vinatieri, Adam",IND,K,10/30,Home,KC,Lucas Oil Stadium,46225,2,2,100
+2016,"Vinatieri, Adam",IND,K,11/06,Away,GB,Lambeau Field,54304,4,4,100
+2016,"Vinatieri, Adam",IND,K,11/20,Home,TEN,Lucas Oil Stadium,46225,3,3,100
+2016,"Vinatieri, Adam",IND,K,11/24,Home,PIT,Lucas Oil Stadium,46225,1,1,100
+2016,"Vinatieri, Adam",IND,K,12/05,Away,NYJ,MetLife Stadium,07073,5,5,100
+2016,"Vinatieri, Adam",IND,K,12/11,Home,HOU,Lucas Oil Stadium,46225,2,2,100
+2016,"Vinatieri, Adam",IND,K,12/18,Away,MIN,U.S. Bank Stadium,55415,4,4,100
+2016,"Vinatieri, Adam",IND,K,12/24,Away,OAK,Oakland–Alameda County Coliseum,94621,2,2,100
+2016,"Vinatieri, Adam",IND,K,01/01,Home,JAX,Lucas Oil Stadium,46225,3,3,100
+2016,"Folk, Nick",NYJ,K,09/11,Home,CIN,MetLife Stadium,07073,1,2,50
+2016,"Folk, Nick",NYJ,K,09/15,Away,BUF,New Era Field,14127,4,4,100
+2016,"Folk, Nick",NYJ,K,09/25,Away,KC,Arrowhead Stadium,64129,0,0,--
+2016,"Folk, Nick",NYJ,K,10/02,Home,SEA,MetLife Stadium,07073,2,2,100
+2016,"Folk, Nick",NYJ,K,10/09,Away,PIT,Heinz Field,15212,1,1,100
+2016,"Folk, Nick",NYJ,K,10/17,Away,ARI,State Farm Stadium,85305,0,0,--
+2016,"Folk, Nick",NYJ,K,10/23,Home,BAL,MetLife Stadium,07073,3,3,100
+2016,"Folk, Nick",NYJ,K,10/30,Away,CLE,FirstEnergy Stadium,44114,4,4,100
+2016,"Folk, Nick",NYJ,K,11/06,Away,MIA,Hard Rock Stadium,33056,2,2,100
+2016,"Folk, Nick",NYJ,K,11/13,Home,LA,MetLife Stadium,07073,0,1,0
+2016,"Folk, Nick",NYJ,K,11/27,Home,NE,MetLife Stadium,07073,2,2,100
+2016,"Folk, Nick",NYJ,K,12/05,Home,IND,MetLife Stadium,07073,1,1,100
+2016,"Folk, Nick",NYJ,K,12/11,Away,SF,Levi's Stadium,95054,0,0,--
+2016,"Folk, Nick",NYJ,K,12/17,Home,MIA,MetLife Stadium,07073,1,1,100
+2016,"Folk, Nick",NYJ,K,12/24,Away,NE,Gillete Stadium,02035,0,0,--
+2016,"Folk, Nick",NYJ,K,01/01,Home,BUF,MetLife Stadium,07073,3,3,100
+2016,"Franks, Andrew",MIA,K,09/11,Away,SEA,CenturyLink Field,98134,1,1,100
+2016,"Franks, Andrew",MIA,K,09/18,Away,NE,Gillete Stadium,02035,3,3,100
+2016,"Franks, Andrew",MIA,K,09/25,Home,CLE,Hard Rock Stadium,33056,3,3,100
+2016,"Franks, Andrew",MIA,K,09/29,Away,CIN,Paul Brown Stadium,45202,1,1,100
+2016,"Franks, Andrew",MIA,K,10/09,Home,TEN,Hard Rock Stadium,33056,2,2,100
+2016,"Franks, Andrew",MIA,K,10/16,Home,PIT,Hard Rock Stadium,33056,3,3,100
+2016,"Franks, Andrew",MIA,K,10/23,Home,BUF,Hard Rock Stadium,33056,2,2,100
+2016,"Franks, Andrew",MIA,K,11/06,Home,NYJ,Hard Rock Stadium,33056,3,3,100
+2016,"Franks, Andrew",MIA,K,11/13,Away,LAC,StubHub Center,90746,4,4,100
+2016,"Franks, Andrew",MIA,K,11/20,Away,LAR,Los Angeles Memorial Coliseum,90037,2,2,100
+2016,"Franks, Andrew",MIA,K,11/27,Home,SF,Hard Rock Stadium,33056,4,4,100
+2016,"Franks, Andrew",MIA,K,12/04,Away,BAL,M&T Bank Stadium,21230,0,0,--
+2016,"Franks, Andrew",MIA,K,12/11,Home,ARI,Hard Rock Stadium,33056,3,3,100
+2016,"Franks, Andrew",MIA,K,12/17,Away,NYJ,MetLife Stadium,07073,4,5,80
+2016,"Franks, Andrew",MIA,K,12/24,Away,BUF,New Era Field,14127,4,4,100
+2016,"Franks, Andrew",MIA,K,01/01,Home,NE,Hard Rock Stadium,33056,2,2,100
+2016,"Walsh, Blair",MIN,K,09/11,Away,TEN,Nissan Stadium,37213,1,2,50
+2016,"Walsh, Blair",MIN,K,09/18,Home,GB,U.S. Bank Stadium,55415,2,2,100
+2016,"Walsh, Blair",MIN,K,09/25,Away,CAR,Bank of America Stadium,28202,0,1,0
+2016,"Walsh, Blair",MIN,K,10/03,Home,NYG,U.S. Bank Stadium,55415,3,3,100
+2016,"Walsh, Blair",MIN,K,10/09,Home,HOU,U.S. Bank Stadium,55415,4,4,100
+2016,"Walsh, Blair",MIN,K,10/23,Away,PHI,Lincoln Financial Field,19148,1,1,100
+2016,"Walsh, Blair",MIN,K,10/31,Away,CHI,Soldier Field,60605,1,1,100
+2016,"Walsh, Blair",MIN,K,11/06,Home,DET,U.S. Bank Stadium,55415,1,2,50
+2016,"Walsh, Blair",MIN,K,11/13,Away,WAS,FedExField,20785,2,3,66.7
+2016,"Aguayo, Roberto",TB,K,09/11,Away,ATL,Mercedes-Benz Stadium,30313,4,4,100
+2016,"Aguayo, Roberto",TB,K,09/18,Away,ARI,State Farm Stadium,85305,1,1,100
+2016,"Aguayo, Roberto",TB,K,09/25,Home,LA,Raymond James Stadium,33607,2,3,66.7
+2016,"Aguayo, Roberto",TB,K,10/02,Home,DEN,Raymond James Stadium,33607,1,1,100
+2016,"Aguayo, Roberto",TB,K,10/10,Away,CAR,Bank of America Stadium,28202,0,0,--
+2016,"Aguayo, Roberto",TB,K,10/23,Away,SF,Levi's Stadium,95054,4,4,100
+2016,"Aguayo, Roberto",TB,K,10/30,Home,OAK,Raymond James Stadium,33607,1,2,50
+2016,"Aguayo, Roberto",TB,K,11/03,Home,ATL,Raymond James Stadium,33607,2,2,100
+2016,"Aguayo, Roberto",TB,K,11/13,Home,CHI,Raymond James Stadium,33607,4,4,100
+2016,"Aguayo, Roberto",TB,K,11/20,Away,KC,Arrowhead Stadium,64129,1,1,100
+2016,"Aguayo, Roberto",TB,K,11/27,Home,SEA,Raymond James Stadium,33607,2,2,100
+2016,"Aguayo, Roberto",TB,K,12/04,Away,LAC,StubHub Center,90746,2,2,100
+2016,"Aguayo, Roberto",TB,K,12/11,Home,NO,Raymond James Stadium,33607,1,1,100
+2016,"Aguayo, Roberto",TB,K,12/18,Away,DAL,AT&T Stadium,76011,2,2,100
+2016,"Aguayo, Roberto",TB,K,12/24,Away,NO,Mercedes-Benz Superdome,70112,3,3,100
+2016,"Aguayo, Roberto",TB,K,01/01,Home,CAR,Raymond James Stadium,33607,2,2,100
+2016,"Tucker, Justin",BAL,K,09/11,Home,BUF,M&T Bank Stadium,21230,1,1,100
+2016,"Tucker, Justin",BAL,K,09/18,Away,CLE,FirstEnergy Stadium,44114,2,2,100
+2016,"Tucker, Justin",BAL,K,09/25,Away,JAX,TIAA Bank Field,32202,1,1,100
+2016,"Tucker, Justin",BAL,K,10/02,Home,OAK,M&T Bank Stadium,21230,1,1,100
+2016,"Tucker, Justin",BAL,K,10/09,Home,WAS,M&T Bank Stadium,21230,1,1,100
+2016,"Tucker, Justin",BAL,K,10/16,Away,NYG,MetLife Stadium,07073,2,2,100
+2016,"Tucker, Justin",BAL,K,10/23,Away,NYJ,MetLife Stadium,07073,1,1,100
+2016,"Tucker, Justin",BAL,K,11/06,Home,PIT,M&T Bank Stadium,21230,1,1,100
+2016,"Tucker, Justin",BAL,K,11/10,Home,CLE,M&T Bank Stadium,21230,2,2,100
+2016,"Tucker, Justin",BAL,K,11/20,Away,DAL,AT&T Stadium,76011,2,2,100
+2016,"Tucker, Justin",BAL,K,11/27,Home,CIN,M&T Bank Stadium,21230,1,1,100
+2016,"Tucker, Justin",BAL,K,12/04,Home,MIA,M&T Bank Stadium,21230,5,5,100
+2016,"Tucker, Justin",BAL,K,12/12,Away,NE,Gillete Stadium,02035,2,2,100
+2016,"Tucker, Justin",BAL,K,12/18,Home,PHI,M&T Bank Stadium,21230,3,3,100
+2016,"Tucker, Justin",BAL,K,12/25,Away,PIT,Heinz Field,15212,1,1,100
+2016,"Tucker, Justin",BAL,K,01/01,Away,CIN,Paul Brown Stadium,45202,1,1,100
+2016,"Gano, Graham",CAR,K,09/08,Away,DEN,Broncos Stadium at Mile High,80204,2,2,100
+2016,"Gano, Graham",CAR,K,09/18,Home,SF,Bank of America Stadium,28202,4,5,80
+2016,"Gano, Graham",CAR,K,09/25,Home,MIN,Bank of America Stadium,28202,1,1,100
+2016,"Gano, Graham",CAR,K,10/02,Away,ATL,Mercedes-Benz Stadium,30313,2,2,100
+2016,"Gano, Graham",CAR,K,10/10,Home,TB,Bank of America Stadium,28202,2,2,100
+2016,"Gano, Graham",CAR,K,10/16,Away,NO,Mercedes-Benz Superdome,70112,3,4,75
+2016,"Gano, Graham",CAR,K,10/30,Home,ARI,Bank of America Stadium,28202,3,3,100
+2016,"Gano, Graham",CAR,K,11/06,Away,LAR,Los Angeles Memorial Coliseum,90037,1,1,100
+2016,"Gano, Graham",CAR,K,11/13,Home,KC,Bank of America Stadium,28202,2,2,100
+2016,"Gano, Graham",CAR,K,11/17,Home,NO,Bank of America Stadium,28202,2,2,100
+2016,"Gano, Graham",CAR,K,11/27,Away,OAK,Oakland–Alameda County Coliseum,94621,2,3,66.7
+2016,"Gano, Graham",CAR,K,12/04,Away,SEA,CenturyLink Field,98134,1,1,100
+2016,"Gano, Graham",CAR,K,12/11,Home,LAC,Bank of America Stadium,28202,2,2,100
+2016,"Gano, Graham",CAR,K,12/19,Away,WAS,FedExField,20785,2,2,100
+2016,"Gano, Graham",CAR,K,12/24,Home,ATL,Bank of America Stadium,28202,1,1,100
+2016,"Gano, Graham",CAR,K,01/01,Away,TB,Raymond James Stadium,33607,1,1,100
+2016,"Bryant, Matt",ATL,K,09/11,Home,TB,Mercedes-Benz Stadium,30313,1,1,100
+2016,"Bryant, Matt",ATL,K,09/18,Away,OAK,Oakland–Alameda County Coliseum,94621,3,3,100
+2016,"Bryant, Matt",ATL,K,09/26,Away,NO,Mercedes-Benz Superdome,70112,6,6,100
+2016,"Bryant, Matt",ATL,K,10/02,Home,CAR,Mercedes-Benz Stadium,30313,6,6,100
+2016,"Bryant, Matt",ATL,K,10/09,Away,DEN,Broncos Stadium at Mile High,80204,2,2,100
+2016,"Bryant, Matt",ATL,K,10/16,Away,SEA,CenturyLink Field,98134,3,3,100
+2016,"Bryant, Matt",ATL,K,10/23,Home,LAC,Mercedes-Benz Stadium,30313,3,3,100
+2016,"Bryant, Matt",ATL,K,10/30,Home,GB,Mercedes-Benz Stadium,30313,3,3,100
+2016,"Bryant, Matt",ATL,K,11/03,Away,TB,Raymond James Stadium,33607,4,4,100
+2016,"Bryant, Matt",ATL,K,11/13,Away,PHI,Lincoln Financial Field,19148,0,1,0
+2016,"Bryant, Matt",ATL,K,11/27,Home,ARI,Mercedes-Benz Stadium,30313,5,5,100
+2016,"Bryant, Matt",ATL,K,12/04,Home,KC,Mercedes-Benz Stadium,30313,1,1,100
+2016,"Bryant, Matt",ATL,K,12/11,Away,LAR,Los Angeles Memorial Coliseum,90037,6,6,100
+2016,"Bryant, Matt",ATL,K,12/18,Home,SF,Mercedes-Benz Stadium,30313,5,5,100
+2016,"Bryant, Matt",ATL,K,12/24,Away,CAR,Bank of America Stadium,28202,3,3,100
+2016,"Bryant, Matt",ATL,K,01/01,Home,NO,Mercedes-Benz Stadium,30313,5,5,100
+2016,"Zuerlein, Greg",LAR,K,09/12,Away,SF,Levi's Stadium,95054,--,--,--
+2016,"Zuerlein, Greg",LAR,K,09/18,Home,SEA,Los Angeles Memorial Coliseum,90037,0,0,--
+2016,"Zuerlein, Greg",LAR,K,09/25,Away,TB,Raymond James Stadium,33607,4,4,100
+2016,"Zuerlein, Greg",LAR,K,10/02,Away,ARI,State Farm Stadium,85305,2,2,100
+2016,"Zuerlein, Greg",LAR,K,10/09,Home,BUF,Los Angeles Memorial Coliseum,90037,1,1,100
+2016,"Zuerlein, Greg",LAR,K,10/16,Away,DET,Ford Field,48226,4,4,100
+2016,"Zuerlein, Greg",LAR,K,10/23,Home,NYG,Los Angeles Memorial Coliseum,90037,1,1,100
+2016,"Zuerlein, Greg",LAR,K,11/06,Home,CAR,Los Angeles Memorial Coliseum,90037,1,1,100
+2016,"Zuerlein, Greg",LAR,K,11/13,Away,NYJ,MetLife Stadium,07073,0,0,--
+2016,"Zuerlein, Greg",LAR,K,11/20,Home,MIA,Los Angeles Memorial Coliseum,90037,1,1,100
+2016,"Zuerlein, Greg",LAR,K,11/27,Away,NO,Mercedes-Benz Superdome,70112,3,3,100
+2016,"Zuerlein, Greg",LAR,K,12/04,Away,NE,Gillete Stadium,02035,1,1,100
+2016,"Zuerlein, Greg",LAR,K,12/11,Home,ATL,Los Angeles Memorial Coliseum,90037,2,2,100
+2016,"Zuerlein, Greg",LAR,K,12/15,Away,SEA,CenturyLink Field,98134,0,0,--
+2016,"Zuerlein, Greg",LAR,K,12/24,Home,SF,Los Angeles Memorial Coliseum,90037,3,3,100
+2016,"Zuerlein, Greg",LAR,K,01/01,Home,ARI,Los Angeles Memorial Coliseum,90037,0,0,--
+2016,"Santos, Cairo",KC,K,09/11,Home,LAC,Arrowhead Stadium,64129,3,3,100
+2016,"Santos, Cairo",KC,K,09/18,Away,HOU,NRG Stadium,77054,0,0,--
+2016,"Santos, Cairo",KC,K,09/25,Home,NYJ,Arrowhead Stadium,64129,3,3,100
+2016,"Santos, Cairo",KC,K,10/02,Away,PIT,Heinz Field,15212,2,2,100
+2016,"Santos, Cairo",KC,K,10/16,Away,OAK,Oakland–Alameda County Coliseum,94621,2,3,66.7
+2016,"Santos, Cairo",KC,K,10/23,Home,NO,Arrowhead Stadium,64129,3,3,100
+2016,"Santos, Cairo",KC,K,10/30,Away,IND,Lucas Oil Stadium,46225,3,3,100
+2016,"Santos, Cairo",KC,K,11/06,Home,JAX,Arrowhead Stadium,64129,1,1,100
+2016,"Santos, Cairo",KC,K,11/13,Away,CAR,Bank of America Stadium,28202,0,0,--
+2016,"Santos, Cairo",KC,K,11/20,Home,TB,Arrowhead Stadium,64129,2,2,100
+2016,"Santos, Cairo",KC,K,11/27,Away,DEN,Broncos Stadium at Mile High,80204,2,2,100
+2016,"Santos, Cairo",KC,K,12/04,Away,ATL,Mercedes-Benz Stadium,30313,3,4,75
+2016,"Santos, Cairo",KC,K,12/08,Home,OAK,Arrowhead Stadium,64129,3,3,100
+2016,"Santos, Cairo",KC,K,12/18,Home,TEN,Arrowhead Stadium,64129,2,2,100
+2016,"Santos, Cairo",KC,K,12/25,Home,DEN,Arrowhead Stadium,64129,3,4,75
+2016,"Santos, Cairo",KC,K,01/01,Away,LAC,StubHub Center,90746,4,4,100
