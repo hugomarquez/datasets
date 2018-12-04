@@ -1,405 +1,405 @@
-Year,Name,Team,Position,Game Date,Home or Away,Opponent,Location,Zipcode,Extra Points Made,Extra Points Attempted,Percentage of Extra Points Made
-2015,"Janikowski, Sebastian",OAK,K,09/13,Home,CIN,Oakland–Alameda County Coliseum,94621,1,1,100
-2015,"Janikowski, Sebastian",OAK,K,09/20,Home,BAL,Oakland–Alameda County Coliseum,94621,4,4,100
-2015,"Janikowski, Sebastian",OAK,K,09/27,Away,CLE,FirstEnergy Stadium,44114,3,3,100
-2015,"Janikowski, Sebastian",OAK,K,10/04,Away,CHI,Soldier Field,60605,2,2,100
-2015,"Janikowski, Sebastian",OAK,K,10/11,Home,DEN,Oakland–Alameda County Coliseum,94621,1,1,100
-2015,"Janikowski, Sebastian",OAK,K,10/25,Away,LAC,StubHub Center,90746,4,4,100
-2015,"Janikowski, Sebastian",OAK,K,11/01,Home,NYJ,Oakland–Alameda County Coliseum,94621,4,4,100
-2015,"Janikowski, Sebastian",OAK,K,11/08,Away,PIT,Heinz Field,15212,5,5,100
-2015,"Janikowski, Sebastian",OAK,K,11/15,Home,MIN,Oakland–Alameda County Coliseum,94621,2,2,100
-2015,"Janikowski, Sebastian",OAK,K,11/22,Away,DET,Ford Field,48226,1,1,100
-2015,"Janikowski, Sebastian",OAK,K,11/29,Away,TEN,Nissan Stadium,37213,3,3,100
-2015,"Janikowski, Sebastian",OAK,K,12/06,Home,KC,Oakland–Alameda County Coliseum,94621,2,3,66.7
-2015,"Janikowski, Sebastian",OAK,K,12/13,Away,DEN,Broncos Stadium at Mile High,80204,1,1,100
-2015,"Janikowski, Sebastian",OAK,K,12/20,Home,GB,Oakland–Alameda County Coliseum,94621,2,2,100
-2015,"Janikowski, Sebastian",OAK,K,12/24,Home,LAC,Oakland–Alameda County Coliseum,94621,1,1,100
-2015,"Janikowski, Sebastian",OAK,K,01/03,Away,KC,Arrowhead Stadium,64129,2,2,100
-2015,"Myers, Jason",JAX,K,09/13,Home,CAR,TIAA Bank Field,32202,0,1,0
-2015,"Myers, Jason",JAX,K,09/20,Home,MIA,TIAA Bank Field,32202,2,2,100
-2015,"Myers, Jason",JAX,K,09/27,Away,NE,Gillete Stadium,02035,2,2,100
-2015,"Myers, Jason",JAX,K,10/04,Away,IND,Lucas Oil Stadium,46225,1,1,100
-2015,"Myers, Jason",JAX,K,10/11,Away,TB,Raymond James Stadium,33607,4,4,100
-2015,"Myers, Jason",JAX,K,10/18,Home,HOU,TIAA Bank Field,32202,2,3,66.7
-2015,"Myers, Jason",JAX,K,10/25,Home,BUF,TIAA Bank Field,32202,4,5,80
-2015,"Myers, Jason",JAX,K,11/08,Away,NYJ,MetLife Stadium,07073,2,2,100
-2015,"Myers, Jason",JAX,K,11/15,Away,BAL,M&T Bank Stadium,21230,1,1,100
-2015,"Myers, Jason",JAX,K,11/19,Home,TEN,TIAA Bank Field,32202,1,1,100
-2015,"Myers, Jason",JAX,K,11/29,Home,LAC,TIAA Bank Field,32202,1,2,50
-2015,"Myers, Jason",JAX,K,12/06,Away,TEN,Nissan Stadium,37213,3,5,60
-2015,"Myers, Jason",JAX,K,12/13,Home,IND,TIAA Bank Field,32202,6,7,85.7
-2015,"Myers, Jason",JAX,K,12/20,Home,ATL,TIAA Bank Field,32202,2,2,100
-2015,"Myers, Jason",JAX,K,12/27,Away,NO,Mercedes-Benz Superdome,70112,1,1,100
-2015,"Myers, Jason",JAX,K,01/03,Away,HOU,NRG Stadium,77054,0,0,--
-2015,"Dawson, Phil",SF,K,09/14,Home,MIN,Levi's Stadium,95054,2,2,100
-2015,"Dawson, Phil",SF,K,09/20,Away,PIT,Heinz Field,15212,1,1,100
-2015,"Dawson, Phil",SF,K,09/27,Away,ARI,State Farm Stadium,85305,1,1,100
-2015,"Dawson, Phil",SF,K,10/04,Home,GB,Levi's Stadium,95054,0,0,--
-2015,"Dawson, Phil",SF,K,10/11,Away,NYG,MetLife Stadium,07073,3,3,100
-2015,"Dawson, Phil",SF,K,10/18,Home,BAL,Levi's Stadium,95054,1,1,100
-2015,"Dawson, Phil",SF,K,10/22,Home,SEA,Levi's Stadium,95054,0,0,--
-2015,"Dawson, Phil",SF,K,11/01,Away,LAR,Los Angeles Memorial Coliseum,90037,0,0,--
-2015,"Dawson, Phil",SF,K,11/08,Home,ATL,Levi's Stadium,95054,2,2,100
-2015,"Dawson, Phil",SF,K,11/22,Away,SEA,CenturyLink Field,98134,1,1,100
-2015,"Dawson, Phil",SF,K,11/29,Home,ARI,Levi's Stadium,95054,1,1,100
-2015,"Dawson, Phil",SF,K,12/06,Away,CHI,Soldier Field,60605,2,3,66.7
-2015,"Dawson, Phil",SF,K,12/13,Away,CLE,FirstEnergy Stadium,44114,1,1,100
-2015,"Dawson, Phil",SF,K,12/20,Home,CIN,Levi's Stadium,95054,2,2,100
-2015,"Dawson, Phil",SF,K,12/27,Away,DET,Ford Field,48226,2,2,100
-2015,"Dawson, Phil",SF,K,01/03,Home,LAR,Levi's Stadium,95054,1,1,100
-2015,"Hauschka, Steven",SEA,K,09/13,Away,LAR,Los Angeles Memorial Coliseum,90037,2,2,100
-2015,"Hauschka, Steven",SEA,K,09/20,Away,GB,Lambeau Field,54304,2,2,100
-2015,"Hauschka, Steven",SEA,K,09/27,Home,CHI,CenturyLink Field,98134,2,2,100
-2015,"Hauschka, Steven",SEA,K,10/05,Home,DET,CenturyLink Field,98134,1,1,100
-2015,"Hauschka, Steven",SEA,K,10/11,Away,CIN,Paul Brown Stadium,45202,3,3,100
-2015,"Hauschka, Steven",SEA,K,10/18,Home,CAR,CenturyLink Field,98134,2,2,100
-2015,"Hauschka, Steven",SEA,K,10/22,Away,SF,Levi's Stadium,95054,2,2,100
-2015,"Hauschka, Steven",SEA,K,11/01,Away,DAL,AT&T Stadium,76011,1,1,100
-2015,"Hauschka, Steven",SEA,K,11/15,Home,ARI,CenturyLink Field,98134,2,2,100
-2015,"Hauschka, Steven",SEA,K,11/22,Home,SF,CenturyLink Field,98134,2,4,50
-2015,"Hauschka, Steven",SEA,K,11/29,Home,PIT,CenturyLink Field,98134,3,4,75
-2015,"Hauschka, Steven",SEA,K,12/06,Away,MIN,U.S. Bank Stadium,55415,5,5,100
-2015,"Hauschka, Steven",SEA,K,12/13,Away,BAL,M&T Bank Stadium,21230,5,5,100
-2015,"Hauschka, Steven",SEA,K,12/20,Home,CLE,CenturyLink Field,98134,3,3,100
-2015,"Hauschka, Steven",SEA,K,12/27,Home,LAR,CenturyLink Field,98134,2,2,100
-2015,"Hauschka, Steven",SEA,K,01/03,Away,ARI,State Farm Stadium,85305,3,4,75
-2015,"Crosby, Mason",GB,K,09/13,Away,CHI,Soldier Field,60605,4,4,100
-2015,"Crosby, Mason",GB,K,09/20,Home,SEA,Lambeau Field,54304,1,1,100
-2015,"Crosby, Mason",GB,K,09/28,Home,KC,Lambeau Field,54304,5,5,100
-2015,"Crosby, Mason",GB,K,10/04,Away,SF,Levi's Stadium,95054,2,2,100
-2015,"Crosby, Mason",GB,K,10/11,Home,LAR,Lambeau Field,54304,3,3,100
-2015,"Crosby, Mason",GB,K,10/18,Home,LAC,Lambeau Field,54304,3,3,100
-2015,"Crosby, Mason",GB,K,11/01,Away,DEN,Broncos Stadium at Mile High,80204,1,1,100
-2015,"Crosby, Mason",GB,K,11/08,Away,CAR,Bank of America Stadium,28202,3,3,100
-2015,"Crosby, Mason",GB,K,11/15,Home,DET,Lambeau Field,54304,1,1,100
-2015,"Crosby, Mason",GB,K,11/22,Away,MIN,U.S. Bank Stadium,55415,1,1,100
-2015,"Crosby, Mason",GB,K,11/26,Home,CHI,Lambeau Field,54304,1,1,100
-2015,"Crosby, Mason",GB,K,12/03,Away,DET,Ford Field,48226,3,3,100
-2015,"Crosby, Mason",GB,K,12/13,Home,DAL,Lambeau Field,54304,4,4,100
-2015,"Crosby, Mason",GB,K,12/20,Away,OAK,Oakland–Alameda County Coliseum,94621,3,3,100
-2015,"Crosby, Mason",GB,K,12/27,Away,ARI,State Farm Stadium,85305,--,--,--
-2015,"Crosby, Mason",GB,K,01/03,Home,MIN,Lambeau Field,54304,1,1,100
-2015,"Prater, Matt",DET,K,09/13,Away,LAC,StubHub Center,90746,4,4,100
-2015,"Prater, Matt",DET,K,09/20,Away,MIN,U.S. Bank Stadium,55415,1,1,100
-2015,"Prater, Matt",DET,K,09/27,Home,DEN,Ford Field,48226,0,1,0
-2015,"Prater, Matt",DET,K,10/05,Away,SEA,CenturyLink Field,98134,1,1,100
-2015,"Prater, Matt",DET,K,10/11,Home,ARI,Ford Field,48226,2,2,100
-2015,"Prater, Matt",DET,K,10/18,Home,CHI,Ford Field,48226,4,4,100
-2015,"Prater, Matt",DET,K,10/25,Home,MIN,Ford Field,48226,2,2,100
-2015,"Prater, Matt",DET,K,11/01,Away,KC,Arrowhead Stadium,64129,1,1,100
-2015,"Prater, Matt",DET,K,11/15,Away,GB,Lambeau Field,54304,0,2,0
-2015,"Prater, Matt",DET,K,11/22,Home,OAK,Ford Field,48226,1,1,100
-2015,"Prater, Matt",DET,K,11/26,Home,PHI,Ford Field,48226,6,6,100
-2015,"Prater, Matt",DET,K,12/03,Home,GB,Ford Field,48226,2,2,100
-2015,"Prater, Matt",DET,K,12/13,Away,LAR,Los Angeles Memorial Coliseum,90037,2,2,100
-2015,"Prater, Matt",DET,K,12/21,Away,NO,Mercedes-Benz Superdome,70112,5,5,100
-2015,"Prater, Matt",DET,K,12/27,Home,SF,Ford Field,48226,2,2,100
-2015,"Prater, Matt",DET,K,01/03,Away,CHI,Soldier Field,60605,3,3,100
-2015,"Carpenter, Dan",BUF,K,09/13,Home,IND,New Era Field,14127,3,3,100
-2015,"Carpenter, Dan",BUF,K,09/20,Home,NE,New Era Field,14127,2,3,66.7
-2015,"Carpenter, Dan",BUF,K,09/27,Away,MIA,Hard Rock Stadium,33056,5,5,100
-2015,"Carpenter, Dan",BUF,K,10/04,Home,NYG,New Era Field,14127,1,1,100
-2015,"Carpenter, Dan",BUF,K,10/11,Away,TEN,Nissan Stadium,37213,2,2,100
-2015,"Carpenter, Dan",BUF,K,10/18,Home,CIN,New Era Field,14127,3,3,100
-2015,"Carpenter, Dan",BUF,K,10/25,Away,JAX,TIAA Bank Field,32202,2,2,100
-2015,"Carpenter, Dan",BUF,K,11/08,Home,MIA,New Era Field,14127,4,4,100
-2015,"Carpenter, Dan",BUF,K,11/12,Away,NYJ,MetLife Stadium,07073,1,2,50
-2015,"Carpenter, Dan",BUF,K,11/23,Away,NE,Gillete Stadium,02035,1,1,100
-2015,"Carpenter, Dan",BUF,K,11/29,Away,KC,Arrowhead Stadium,64129,1,2,50
-2015,"Carpenter, Dan",BUF,K,12/06,Home,HOU,New Era Field,14127,3,4,75
-2015,"Carpenter, Dan",BUF,K,12/13,Away,PHI,Lincoln Financial Field,19148,2,2,100
-2015,"Carpenter, Dan",BUF,K,12/20,Away,WAS,FedExField,20785,2,2,100
-2015,"Carpenter, Dan",BUF,K,12/27,Home,DAL,New Era Field,14127,1,2,50
-2015,"Carpenter, Dan",BUF,K,01/03,Home,NYJ,New Era Field,14127,1,2,50
-2015,"Gostkowski, Stephen",NE,K,09/10,Home,PIT,Gillete Stadium,02035,4,4,100
-2015,"Gostkowski, Stephen",NE,K,09/20,Away,BUF,New Era Field,14127,4,4,100
-2015,"Gostkowski, Stephen",NE,K,09/27,Home,JAX,Gillete Stadium,02035,6,6,100
-2015,"Gostkowski, Stephen",NE,K,10/11,Away,DAL,AT&T Stadium,76011,3,3,100
-2015,"Gostkowski, Stephen",NE,K,10/18,Away,IND,Lucas Oil Stadium,46225,4,4,100
-2015,"Gostkowski, Stephen",NE,K,10/25,Home,NYJ,Gillete Stadium,02035,3,3,100
-2015,"Gostkowski, Stephen",NE,K,10/29,Home,MIA,Gillete Stadium,02035,4,4,100
-2015,"Gostkowski, Stephen",NE,K,11/08,Home,WAS,Gillete Stadium,02035,3,3,100
-2015,"Gostkowski, Stephen",NE,K,11/15,Away,NYG,MetLife Stadium,07073,3,3,100
-2015,"Gostkowski, Stephen",NE,K,11/23,Home,BUF,Gillete Stadium,02035,2,2,100
-2015,"Gostkowski, Stephen",NE,K,11/29,Away,DEN,Broncos Stadium at Mile High,80204,3,3,100
-2015,"Gostkowski, Stephen",NE,K,12/06,Home,PHI,Gillete Stadium,02035,4,4,100
-2015,"Gostkowski, Stephen",NE,K,12/13,Away,HOU,NRG Stadium,77054,3,3,100
-2015,"Gostkowski, Stephen",NE,K,12/20,Home,TEN,Gillete Stadium,02035,3,3,100
-2015,"Gostkowski, Stephen",NE,K,12/27,Away,NYJ,MetLife Stadium,07073,2,2,100
-2015,"Gostkowski, Stephen",NE,K,01/03,Away,MIA,Hard Rock Stadium,33056,1,1,100
-2015,"Boswell, Chris",PIT,K,10/12,Away,LAC,StubHub Center,90746,3,3,100
-2015,"Boswell, Chris",PIT,K,10/18,Home,ARI,Heinz Field,15212,1,1,100
-2015,"Boswell, Chris",PIT,K,10/25,Away,KC,Arrowhead Stadium,64129,1,1,100
-2015,"Boswell, Chris",PIT,K,11/01,Home,CIN,Heinz Field,15212,1,1,100
-2015,"Boswell, Chris",PIT,K,11/08,Home,OAK,Heinz Field,15212,3,3,100
-2015,"Boswell, Chris",PIT,K,11/15,Home,CLE,Heinz Field,15212,1,2,50
-2015,"Boswell, Chris",PIT,K,11/29,Away,SEA,CenturyLink Field,98134,1,1,100
-2015,"Boswell, Chris",PIT,K,12/06,Home,IND,Heinz Field,15212,4,4,100
-2015,"Boswell, Chris",PIT,K,12/13,Away,CIN,Paul Brown Stadium,45202,3,3,100
-2015,"Boswell, Chris",PIT,K,12/20,Home,DEN,Heinz Field,15212,4,4,100
-2015,"Boswell, Chris",PIT,K,12/27,Away,BAL,M&T Bank Stadium,21230,2,2,100
-2015,"Boswell, Chris",PIT,K,01/03,Away,CLE,FirstEnergy Stadium,44114,2,2,100
-2015,"Succop, Ryan",TEN,K,09/13,Away,TB,Raymond James Stadium,33607,6,6,100
-2015,"Succop, Ryan",TEN,K,09/20,Away,CLE,FirstEnergy Stadium,44114,2,2,100
-2015,"Succop, Ryan",TEN,K,09/27,Home,IND,Nissan Stadium,37213,3,3,100
-2015,"Succop, Ryan",TEN,K,10/11,Home,BUF,Nissan Stadium,37213,1,1,100
-2015,"Succop, Ryan",TEN,K,10/18,Home,MIA,Nissan Stadium,37213,1,1,100
-2015,"Succop, Ryan",TEN,K,10/25,Home,ATL,Nissan Stadium,37213,1,1,100
-2015,"Succop, Ryan",TEN,K,11/01,Away,HOU,NRG Stadium,77054,0,0,--
-2015,"Succop, Ryan",TEN,K,11/08,Away,NO,Mercedes-Benz Superdome,70112,2,2,100
-2015,"Succop, Ryan",TEN,K,11/15,Home,CAR,Nissan Stadium,37213,1,1,100
-2015,"Succop, Ryan",TEN,K,11/19,Away,JAX,TIAA Bank Field,32202,1,1,100
-2015,"Succop, Ryan",TEN,K,11/29,Home,OAK,Nissan Stadium,37213,1,2,50
-2015,"Succop, Ryan",TEN,K,12/06,Home,JAX,Nissan Stadium,37213,6,6,100
-2015,"Succop, Ryan",TEN,K,12/13,Away,NYJ,MetLife Stadium,07073,--,--,--
-2015,"Succop, Ryan",TEN,K,12/20,Away,NE,Gillete Stadium,02035,1,2,50
-2015,"Succop, Ryan",TEN,K,12/27,Home,HOU,Nissan Stadium,37213,--,--,--
-2015,"Succop, Ryan",TEN,K,01/03,Away,IND,Lucas Oil Stadium,46225,3,3,100
-2015,"Sturgis, Caleb",PHI,K,10/04,Away,WAS,FedExField,20785,2,3,66.7
-2015,"Sturgis, Caleb",PHI,K,10/11,Home,NO,Lincoln Financial Field,19148,3,4,75
-2015,"Sturgis, Caleb",PHI,K,10/19,Home,NYG,Lincoln Financial Field,19148,3,3,100
-2015,"Sturgis, Caleb",PHI,K,10/25,Away,CAR,Bank of America Stadium,28202,1,1,100
-2015,"Sturgis, Caleb",PHI,K,11/08,Away,DAL,AT&T Stadium,76011,3,3,100
-2015,"Sturgis, Caleb",PHI,K,11/15,Home,MIA,Lincoln Financial Field,19148,2,2,100
-2015,"Sturgis, Caleb",PHI,K,11/22,Home,TB,Lincoln Financial Field,19148,2,2,100
-2015,"Sturgis, Caleb",PHI,K,11/26,Away,DET,Ford Field,48226,2,2,100
-2015,"Sturgis, Caleb",PHI,K,12/06,Away,NE,Gillete Stadium,02035,5,5,100
-2015,"Sturgis, Caleb",PHI,K,12/13,Home,BUF,Lincoln Financial Field,19148,2,2,100
-2015,"Sturgis, Caleb",PHI,K,12/20,Home,ARI,Lincoln Financial Field,19148,2,2,100
-2015,"Sturgis, Caleb",PHI,K,12/26,Home,WAS,Lincoln Financial Field,19148,3,3,100
-2015,"Sturgis, Caleb",PHI,K,01/03,Away,NYG,MetLife Stadium,07073,5,5,100
-2015,"Catanzaro, Chandler",ARI,K,09/13,Home,NO,State Farm Stadium,85305,4,4,100
-2015,"Catanzaro, Chandler",ARI,K,09/20,Away,CHI,Soldier Field,60605,6,7,85.7
-2015,"Catanzaro, Chandler",ARI,K,09/27,Home,SF,State Farm Stadium,85305,6,6,100
-2015,"Catanzaro, Chandler",ARI,K,10/04,Home,LAR,State Farm Stadium,85305,1,1,100
-2015,"Catanzaro, Chandler",ARI,K,10/11,Away,DET,Ford Field,48226,6,6,100
-2015,"Catanzaro, Chandler",ARI,K,10/18,Away,PIT,Heinz Field,15212,1,1,100
-2015,"Catanzaro, Chandler",ARI,K,10/26,Home,BAL,State Farm Stadium,85305,2,3,66.7
-2015,"Catanzaro, Chandler",ARI,K,11/01,Away,CLE,FirstEnergy Stadium,44114,4,4,100
-2015,"Catanzaro, Chandler",ARI,K,11/15,Away,SEA,CenturyLink Field,98134,4,4,100
-2015,"Catanzaro, Chandler",ARI,K,11/22,Home,CIN,State Farm Stadium,85305,4,4,100
-2015,"Catanzaro, Chandler",ARI,K,11/29,Away,SF,Levi's Stadium,95054,1,2,50
-2015,"Catanzaro, Chandler",ARI,K,12/06,Away,LAR,Los Angeles Memorial Coliseum,90037,3,3,100
-2015,"Catanzaro, Chandler",ARI,K,12/10,Home,MIN,State Farm Stadium,85305,2,2,100
-2015,"Catanzaro, Chandler",ARI,K,12/20,Away,PHI,Lincoln Financial Field,19148,4,5,80
-2015,"Catanzaro, Chandler",ARI,K,12/27,Home,GB,State Farm Stadium,85305,5,5,100
-2015,"Catanzaro, Chandler",ARI,K,01/03,Home,SEA,State Farm Stadium,85305,0,1,0
-2015,"Bailey, Dan",DAL,K,09/13,Home,NYG,AT&T Stadium,76011,3,3,100
-2015,"Bailey, Dan",DAL,K,09/20,Away,PHI,Lincoln Financial Field,19148,2,2,100
-2015,"Bailey, Dan",DAL,K,09/27,Home,ATL,AT&T Stadium,76011,4,4,100
-2015,"Bailey, Dan",DAL,K,10/04,Away,NO,Mercedes-Benz Superdome,70112,2,2,100
-2015,"Bailey, Dan",DAL,K,10/11,Home,NE,AT&T Stadium,76011,0,0,--
-2015,"Bailey, Dan",DAL,K,10/25,Away,NYG,MetLife Stadium,07073,2,2,100
-2015,"Bailey, Dan",DAL,K,11/01,Home,SEA,AT&T Stadium,76011,0,0,--
-2015,"Bailey, Dan",DAL,K,11/08,Home,PHI,AT&T Stadium,76011,3,3,100
-2015,"Bailey, Dan",DAL,K,11/15,Away,TB,Raymond James Stadium,33607,0,0,--
-2015,"Bailey, Dan",DAL,K,11/22,Away,MIA,Hard Rock Stadium,33056,3,3,100
-2015,"Bailey, Dan",DAL,K,11/26,Home,CAR,AT&T Stadium,76011,0,0,--
-2015,"Bailey, Dan",DAL,K,12/07,Away,WAS,FedExField,20785,1,1,100
-2015,"Bailey, Dan",DAL,K,12/13,Away,GB,Lambeau Field,54304,1,1,100
-2015,"Bailey, Dan",DAL,K,12/19,Home,NYJ,AT&T Stadium,76011,1,1,100
-2015,"Bailey, Dan",DAL,K,12/27,Away,BUF,New Era Field,14127,0,0,--
-2015,"Bailey, Dan",DAL,K,01/03,Home,WAS,AT&T Stadium,76011,3,3,100
-2015,"Lambo, Josh",LAC,K,09/13,Home,DET,StubHub Center,90746,3,4,75
-2015,"Lambo, Josh",LAC,K,09/20,Away,CIN,Paul Brown Stadium,45202,1,1,100
-2015,"Lambo, Josh",LAC,K,09/27,Away,MIN,U.S. Bank Stadium,55415,2,2,100
-2015,"Lambo, Josh",LAC,K,10/04,Home,CLE,StubHub Center,90746,3,3,100
-2015,"Lambo, Josh",LAC,K,10/12,Home,PIT,StubHub Center,90746,2,2,100
-2015,"Lambo, Josh",LAC,K,10/18,Away,GB,Lambeau Field,54304,2,2,100
-2015,"Lambo, Josh",LAC,K,10/25,Home,OAK,StubHub Center,90746,1,1,100
-2015,"Lambo, Josh",LAC,K,11/01,Away,BAL,M&T Bank Stadium,21230,2,3,66.7
-2015,"Lambo, Josh",LAC,K,11/09,Home,CHI,StubHub Center,90746,1,2,50
-2015,"Lambo, Josh",LAC,K,11/22,Home,KC,StubHub Center,90746,0,0,--
-2015,"Lambo, Josh",LAC,K,11/29,Away,JAX,Los Angeles Memorial Coliseum,90037,4,4,100
-2015,"Lambo, Josh",LAC,K,12/06,Home,DEN,StubHub Center,90746,0,0,--
-2015,"Lambo, Josh",LAC,K,12/13,Away,KC,Arrowhead Stadium,64129,0,0,--
-2015,"Lambo, Josh",LAC,K,12/20,Home,MIA,StubHub Center,90746,3,4,75
-2015,"Lambo, Josh",LAC,K,12/24,Away,OAK,Oakland–Alameda County Coliseum,94621,2,2,100
-2015,"Lambo, Josh",LAC,K,01/03,Away,DEN,Broncos Stadium at Mile High,80204,2,2,100
-2015,"McManus, Brandon",DEN,K,09/13,Home,BAL,Broncos Stadium at Mile High,80204,1,1,100
-2015,"McManus, Brandon",DEN,K,09/17,Away,KC,Arrowhead Stadium,64129,4,4,100
-2015,"McManus, Brandon",DEN,K,09/27,Away,DET,Ford Field,48226,3,3,100
-2015,"McManus, Brandon",DEN,K,10/04,Home,MIN,Broncos Stadium at Mile High,80204,2,2,100
-2015,"McManus, Brandon",DEN,K,10/11,Away,OAK,Oakland–Alameda County Coliseum,94621,1,1,100
-2015,"McManus, Brandon",DEN,K,10/18,Away,CLE,FirstEnergy Stadium,44114,2,2,100
-2015,"McManus, Brandon",DEN,K,11/01,Home,GB,Broncos Stadium at Mile High,80204,3,3,100
-2015,"McManus, Brandon",DEN,K,11/08,Away,IND,Lucas Oil Stadium,46225,3,3,100
-2015,"McManus, Brandon",DEN,K,11/15,Home,KC,Broncos Stadium at Mile High,80204,1,1,100
-2015,"McManus, Brandon",DEN,K,11/22,Away,CHI,Soldier Field,60605,2,2,100
-2015,"McManus, Brandon",DEN,K,11/29,Home,NE,Broncos Stadium at Mile High,80204,3,3,100
-2015,"McManus, Brandon",DEN,K,12/06,Away,LAC,StubHub Center,90746,2,2,100
-2015,"McManus, Brandon",DEN,K,12/13,Home,OAK,Broncos Stadium at Mile High,80204,0,0,--
-2015,"McManus, Brandon",DEN,K,12/20,Away,PIT,Heinz Field,15212,3,4,75
-2015,"McManus, Brandon",DEN,K,12/28,Home,CIN,Broncos Stadium at Mile High,80204,2,2,100
-2015,"McManus, Brandon",DEN,K,01/03,Home,LAC,Broncos Stadium at Mile High,80204,3,3,100
-2015,"Hopkins, Dustin",WAS,K,09/20,Home,LAR,FedExField,20785,3,3,100
-2015,"Hopkins, Dustin",WAS,K,09/24,Away,NYG,MetLife Stadium,07073,1,1,100
-2015,"Hopkins, Dustin",WAS,K,10/04,Home,PHI,FedExField,20785,2,2,100
-2015,"Hopkins, Dustin",WAS,K,10/11,Away,ATL,Mercedes-Benz Stadium,30313,1,1,100
-2015,"Hopkins, Dustin",WAS,K,10/18,Away,NYJ,MetLife Stadium,07073,2,2,100
-2015,"Hopkins, Dustin",WAS,K,10/25,Home,TB,FedExField,20785,4,4,100
-2015,"Hopkins, Dustin",WAS,K,11/08,Away,NE,Gillete Stadium,02035,1,1,100
-2015,"Hopkins, Dustin",WAS,K,11/15,Home,NO,FedExField,20785,5,5,100
-2015,"Hopkins, Dustin",WAS,K,11/22,Away,CAR,Bank of America Stadium,28202,2,2,100
-2015,"Hopkins, Dustin",WAS,K,11/29,Home,NYG,FedExField,20785,2,2,100
-2015,"Hopkins, Dustin",WAS,K,12/07,Home,DAL,FedExField,20785,1,1,100
-2015,"Hopkins, Dustin",WAS,K,12/13,Away,CHI,Soldier Field,60605,3,3,100
-2015,"Hopkins, Dustin",WAS,K,12/20,Home,BUF,FedExField,20785,5,5,100
-2015,"Hopkins, Dustin",WAS,K,12/26,Away,PHI,Lincoln Financial Field,19148,3,4,75
-2015,"Hopkins, Dustin",WAS,K,01/03,Away,DAL,AT&T Stadium,76011,4,4,100
-2015,"Bullock, Randy",CIN,K,09/13,Home,KC,Paul Brown Stadium,45202,0,1,0
-2015,"Bullock, Randy",CIN,K,09/20,Away,CAR,Bank of America Stadium,28202,2,2,100
-2015,"Bullock, Randy",CIN,K,09/27,Home,TB,Paul Brown Stadium,45202,1,2,50
-2015,"Bullock, Randy",CIN,K,11/12,Home,BUF,Paul Brown Stadium,45202,2,2,100
-2015,"Bullock, Randy",CIN,K,11/22,Away,HOU,NRG Stadium,77054,2,2,100
-2015,"Bullock, Randy",CIN,K,11/29,Home,MIA,Paul Brown Stadium,45202,5,5,100
-2015,"Bullock, Randy",CIN,K,12/06,Away,NYG,MetLife Stadium,07073,2,2,100
-2015,"Bullock, Randy",CIN,K,12/13,Home,TEN,Paul Brown Stadium,45202,3,3,100
-2015,"Bullock, Randy",CIN,K,12/19,Away,DAL,AT&T Stadium,76011,1,2,50
-2015,"Bullock, Randy",CIN,K,12/27,Home,NE,Paul Brown Stadium,45202,2,2,100
-2015,"Bullock, Randy",CIN,K,01/03,Away,BUF,New Era Field,14127,2,2,100
-2015,"Novak, Nick",HOU,K,10/04,Away,ATL,Mercedes-Benz Stadium,30313,3,3,100
-2015,"Novak, Nick",HOU,K,10/08,Home,IND,NRG Stadium,77054,2,2,100
-2015,"Novak, Nick",HOU,K,10/18,Away,JAX,TIAA Bank Field,32202,4,4,100
-2015,"Novak, Nick",HOU,K,10/25,Away,MIA,Hard Rock Stadium,33056,2,3,66.7
-2015,"Novak, Nick",HOU,K,11/01,Home,TEN,NRG Stadium,77054,2,2,100
-2015,"Novak, Nick",HOU,K,11/16,Away,CIN,Paul Brown Stadium,45202,1,1,100
-2015,"Novak, Nick",HOU,K,11/22,Home,NYJ,NRG Stadium,77054,3,3,100
-2015,"Novak, Nick",HOU,K,11/29,Home,NO,NRG Stadium,77054,3,3,100
-2015,"Novak, Nick",HOU,K,12/06,Away,BUF,New Era Field,14127,1,2,50
-2015,"Novak, Nick",HOU,K,12/13,Home,NE,NRG Stadium,77054,0,0,--
-2015,"Novak, Nick",HOU,K,12/20,Away,IND,Lucas Oil Stadium,46225,1,1,100
-2015,"Novak, Nick",HOU,K,12/27,Away,TEN,Nissan Stadium,37213,4,4,100
-2015,"Novak, Nick",HOU,K,01/03,Home,JAX,NRG Stadium,77054,3,3,100
-2015,"Vinatieri, Adam",IND,K,09/13,Away,BUF,New Era Field,14127,0,0,--
-2015,"Vinatieri, Adam",IND,K,09/21,Home,NYJ,Lucas Oil Stadium,46225,1,1,100
-2015,"Vinatieri, Adam",IND,K,09/27,Away,TEN,Nissan Stadium,37213,5,5,100
-2015,"Vinatieri, Adam",IND,K,10/04,Home,JAX,Lucas Oil Stadium,46225,1,1,100
-2015,"Vinatieri, Adam",IND,K,10/08,Away,HOU,NRG Stadium,77054,3,3,100
-2015,"Vinatieri, Adam",IND,K,10/18,Home,NE,Lucas Oil Stadium,46225,3,4,75
-2015,"Vinatieri, Adam",IND,K,10/25,Home,NO,Lucas Oil Stadium,46225,3,3,100
-2015,"Vinatieri, Adam",IND,K,11/02,Away,CAR,Bank of America Stadium,28202,2,2,100
-2015,"Vinatieri, Adam",IND,K,11/08,Home,DEN,Lucas Oil Stadium,46225,3,3,100
-2015,"Vinatieri, Adam",IND,K,11/22,Away,ATL,Mercedes-Benz Stadium,30313,3,3,100
-2015,"Vinatieri, Adam",IND,K,11/29,Home,TB,Lucas Oil Stadium,46225,1,2,50
-2015,"Vinatieri, Adam",IND,K,12/06,Away,PIT,Heinz Field,15212,1,1,100
-2015,"Vinatieri, Adam",IND,K,12/13,Away,JAX,TIAA Bank Field,32202,1,1,100
-2015,"Vinatieri, Adam",IND,K,12/20,Home,HOU,Lucas Oil Stadium,46225,1,1,100
-2015,"Vinatieri, Adam",IND,K,12/27,Away,MIA,Hard Rock Stadium,33056,1,2,50
-2015,"Vinatieri, Adam",IND,K,01/03,Home,TEN,Lucas Oil Stadium,46225,3,3,100
-2015,"Folk, Nick",NYJ,K,09/13,Home,CLE,MetLife Stadium,07073,4,4,100
-2015,"Folk, Nick",NYJ,K,09/21,Away,IND,Lucas Oil Stadium,46225,2,2,100
-2015,"Folk, Nick",NYJ,K,09/27,Home,PHI,MetLife Stadium,07073,2,2,100
-2015,"Folk, Nick",NYJ,K,10/04,Away,MIA,Hard Rock Stadium,33056,3,3,100
-2015,"Folk, Nick",NYJ,K,10/18,Home,WAS,MetLife Stadium,07073,4,4,100
-2015,"Folk, Nick",NYJ,K,10/25,Away,NE,Gillete Stadium,02035,2,2,100
-2015,"Folk, Nick",NYJ,K,11/01,Away,OAK,Oakland–Alameda County Coliseum,94621,2,2,100
-2015,"Folk, Nick",NYJ,K,11/08,Home,JAX,MetLife Stadium,07073,--,--,--
-2015,"Franks, Andrew",MIA,K,09/13,Away,WAS,FedExField,20785,2,2,100
-2015,"Franks, Andrew",MIA,K,09/20,Away,JAX,TIAA Bank Field,32202,2,2,100
-2015,"Franks, Andrew",MIA,K,09/27,Home,BUF,Hard Rock Stadium,33056,0,1,0
-2015,"Franks, Andrew",MIA,K,10/04,Home,NYJ,Hard Rock Stadium,33056,2,2,100
-2015,"Franks, Andrew",MIA,K,10/18,Away,TEN,Nissan Stadium,37213,5,5,100
-2015,"Franks, Andrew",MIA,K,10/25,Home,HOU,Hard Rock Stadium,33056,5,6,83.3
-2015,"Franks, Andrew",MIA,K,10/29,Away,NE,Gillete Stadium,02035,1,1,100
-2015,"Franks, Andrew",MIA,K,11/08,Away,BUF,New Era Field,14127,2,2,100
-2015,"Franks, Andrew",MIA,K,11/15,Away,PHI,Lincoln Financial Field,19148,2,2,100
-2015,"Franks, Andrew",MIA,K,11/22,Home,DAL,Hard Rock Stadium,33056,2,2,100
-2015,"Franks, Andrew",MIA,K,11/29,Away,NYJ,MetLife Stadium,07073,2,3,66.7
-2015,"Franks, Andrew",MIA,K,12/06,Home,BAL,Hard Rock Stadium,33056,1,1,100
-2015,"Franks, Andrew",MIA,K,12/14,Home,NYG,Hard Rock Stadium,33056,3,3,100
-2015,"Franks, Andrew",MIA,K,12/20,Away,LAC,StubHub Center,90746,2,2,100
-2015,"Franks, Andrew",MIA,K,12/27,Home,IND,Hard Rock Stadium,33056,0,0,--
-2015,"Franks, Andrew",MIA,K,01/03,Home,NE,Hard Rock Stadium,33056,2,2,100
-2015,"Walsh, Blair",MIN,K,09/14,Away,SF,Levi's Stadium,95054,0,0,--
-2015,"Walsh, Blair",MIN,K,09/20,Home,DET,U.S. Bank Stadium,55415,2,3,66.7
-2015,"Walsh, Blair",MIN,K,09/27,Home,LAC,U.S. Bank Stadium,55415,4,4,100
-2015,"Walsh, Blair",MIN,K,10/04,Away,DEN,Broncos Stadium at Mile High,80204,2,2,100
-2015,"Walsh, Blair",MIN,K,10/18,Home,KC,U.S. Bank Stadium,55415,1,1,100
-2015,"Walsh, Blair",MIN,K,10/25,Away,DET,Ford Field,48226,1,2,50
-2015,"Walsh, Blair",MIN,K,11/01,Away,CHI,Soldier Field,60605,2,2,100
-2015,"Walsh, Blair",MIN,K,11/08,Home,LAR,U.S. Bank Stadium,55415,1,1,100
-2015,"Walsh, Blair",MIN,K,11/15,Away,OAK,Oakland–Alameda County Coliseum,94621,3,3,100
-2015,"Walsh, Blair",MIN,K,11/22,Home,GB,U.S. Bank Stadium,55415,1,2,50
-2015,"Walsh, Blair",MIN,K,11/29,Away,ATL,Mercedes-Benz Stadium,30313,2,2,100
-2015,"Walsh, Blair",MIN,K,12/06,Home,SEA,U.S. Bank Stadium,55415,1,1,100
-2015,"Walsh, Blair",MIN,K,12/10,Away,ARI,State Farm Stadium,85305,2,2,100
-2015,"Walsh, Blair",MIN,K,12/20,Home,CHI,U.S. Bank Stadium,55415,5,5,100
-2015,"Walsh, Blair",MIN,K,12/27,Home,NYG,U.S. Bank Stadium,55415,4,5,80
-2015,"Walsh, Blair",MIN,K,01/03,Away,GB,Lambeau Field,54304,2,2,100
-2015,"Tucker, Justin",BAL,K,09/13,Away,DEN,Broncos Stadium at Mile High,80204,1,1,100
-2015,"Tucker, Justin",BAL,K,09/20,Away,OAK,Oakland–Alameda County Coliseum,94621,3,3,100
-2015,"Tucker, Justin",BAL,K,09/27,Home,CIN,M&T Bank Stadium,21230,3,3,100
-2015,"Tucker, Justin",BAL,K,10/01,Away,PIT,Heinz Field,15212,2,2,100
-2015,"Tucker, Justin",BAL,K,10/11,Home,CLE,M&T Bank Stadium,21230,3,3,100
-2015,"Tucker, Justin",BAL,K,10/18,Away,SF,Levi's Stadium,95054,2,2,100
-2015,"Tucker, Justin",BAL,K,10/26,Away,ARI,State Farm Stadium,85305,1,1,100
-2015,"Tucker, Justin",BAL,K,11/01,Home,LAC,M&T Bank Stadium,21230,2,2,100
-2015,"Tucker, Justin",BAL,K,11/15,Home,JAX,M&T Bank Stadium,21230,2,2,100
-2015,"Tucker, Justin",BAL,K,11/22,Home,LAR,M&T Bank Stadium,21230,1,1,100
-2015,"Tucker, Justin",BAL,K,11/30,Away,CLE,FirstEnergy Stadium,44114,3,3,100
-2015,"Tucker, Justin",BAL,K,12/06,Away,MIA,Hard Rock Stadium,33056,1,1,100
-2015,"Tucker, Justin",BAL,K,12/13,Home,SEA,M&T Bank Stadium,21230,0,0,--
-2015,"Tucker, Justin",BAL,K,12/20,Home,KC,M&T Bank Stadium,21230,2,2,100
-2015,"Tucker, Justin",BAL,K,12/27,Home,PIT,M&T Bank Stadium,21230,2,2,100
-2015,"Tucker, Justin",BAL,K,01/03,Away,CIN,Paul Brown Stadium,45202,1,1,100
-2015,"Gano, Graham",CAR,K,09/13,Away,JAX,TIAA Bank Field,32202,2,2,100
-2015,"Gano, Graham",CAR,K,09/20,Home,HOU,Bank of America Stadium,28202,3,3,100
-2015,"Gano, Graham",CAR,K,09/27,Home,NO,Bank of America Stadium,28202,3,3,100
-2015,"Gano, Graham",CAR,K,10/04,Away,TB,Raymond James Stadium,33607,4,4,100
-2015,"Gano, Graham",CAR,K,10/18,Away,SEA,CenturyLink Field,98134,3,4,75
-2015,"Gano, Graham",CAR,K,10/25,Home,PHI,Bank of America Stadium,28202,3,3,100
-2015,"Gano, Graham",CAR,K,11/02,Home,IND,Bank of America Stadium,28202,2,3,66.7
-2015,"Gano, Graham",CAR,K,11/08,Home,GB,Bank of America Stadium,28202,4,4,100
-2015,"Gano, Graham",CAR,K,11/15,Away,TEN,Nissan Stadium,37213,3,3,100
-2015,"Gano, Graham",CAR,K,11/22,Home,WAS,Bank of America Stadium,28202,5,5,100
-2015,"Gano, Graham",CAR,K,11/26,Away,DAL,AT&T Stadium,76011,3,3,100
-2015,"Gano, Graham",CAR,K,12/06,Away,NO,Mercedes-Benz Superdome,70112,5,6,83.3
-2015,"Gano, Graham",CAR,K,12/13,Home,ATL,Bank of America Stadium,28202,5,5,100
-2015,"Gano, Graham",CAR,K,12/20,Away,NYG,MetLife Stadium,07073,5,5,100
-2015,"Gano, Graham",CAR,K,12/27,Away,ATL,Mercedes-Benz Stadium,30313,1,1,100
-2015,"Gano, Graham",CAR,K,01/03,Home,TB,Bank of America Stadium,28202,5,5,100
-2015,"Bryant, Matt",ATL,K,09/14,Home,PHI,Mercedes-Benz Stadium,30313,2,2,100
-2015,"Bryant, Matt",ATL,K,09/20,Away,NYG,MetLife Stadium,07073,3,3,100
-2015,"Bryant, Matt",ATL,K,09/27,Away,DAL,AT&T Stadium,76011,4,4,100
-2015,"Bryant, Matt",ATL,K,10/04,Home,HOU,Mercedes-Benz Stadium,30313,6,6,100
-2015,"Bryant, Matt",ATL,K,10/11,Home,WAS,Mercedes-Benz Stadium,30313,1,1,100
-2015,"Bryant, Matt",ATL,K,10/15,Away,NO,Mercedes-Benz Superdome,70112,3,3,100
-2015,"Bryant, Matt",ATL,K,10/25,Away,TEN,Nissan Stadium,37213,1,1,100
-2015,"Bryant, Matt",ATL,K,11/01,Home,TB,Mercedes-Benz Stadium,30313,2,2,100
-2015,"Bryant, Matt",ATL,K,11/08,Away,SF,Levi's Stadium,95054,1,1,100
-2015,"Bryant, Matt",ATL,K,11/22,Home,IND,Mercedes-Benz Stadium,30313,3,3,100
-2015,"Bryant, Matt",ATL,K,11/29,Home,MIN,Mercedes-Benz Stadium,30313,--,--,--
-2015,"Bryant, Matt",ATL,K,12/06,Away,TB,Raymond James Stadium,33607,--,--,--
-2015,"Zuerlein, Greg",LAR,K,09/13,Home,SEA,Los Angeles Memorial Coliseum,90037,4,4,100
-2015,"Zuerlein, Greg",LAR,K,09/20,Away,WAS,FedExField,20785,1,1,100
-2015,"Zuerlein, Greg",LAR,K,09/27,Home,PIT,Los Angeles Memorial Coliseum,90037,0,0,--
-2015,"Zuerlein, Greg",LAR,K,10/04,Away,ARI,State Farm Stadium,85305,3,3,100
-2015,"Zuerlein, Greg",LAR,K,10/11,Away,GB,Lambeau Field,54304,1,1,100
-2015,"Zuerlein, Greg",LAR,K,10/25,Home,CLE,Los Angeles Memorial Coliseum,90037,3,3,100
-2015,"Zuerlein, Greg",LAR,K,11/01,Home,SF,Los Angeles Memorial Coliseum,90037,2,2,100
-2015,"Zuerlein, Greg",LAR,K,11/08,Away,MIN,U.S. Bank Stadium,55415,0,0,--
-2015,"Zuerlein, Greg",LAR,K,11/15,Home,CHI,Los Angeles Memorial Coliseum,90037,1,1,100
-2015,"Zuerlein, Greg",LAR,K,11/22,Away,BAL,M&T Bank Stadium,21230,1,2,50
-2015,"Zuerlein, Greg",LAR,K,11/29,Away,CIN,Paul Brown Stadium,45202,--,--,--
-2015,"Zuerlein, Greg",LAR,K,12/06,Home,ARI,Los Angeles Memorial Coliseum,90037,--,--,--
-2015,"Zuerlein, Greg",LAR,K,12/13,Home,DET,Los Angeles Memorial Coliseum,90037,3,3,100
-2015,"Zuerlein, Greg",LAR,K,12/17,Home,TB,Los Angeles Memorial Coliseum,90037,4,4,100
-2015,"Zuerlein, Greg",LAR,K,12/27,Away,SEA,CenturyLink Field,98134,2,3,66.7
-2015,"Zuerlein, Greg",LAR,K,01/03,Away,SF,Levi's Stadium,95054,1,1,100
-2015,"Santos, Cairo",KC,K,09/13,Away,HOU,NRG Stadium,77054,3,3,100
-2015,"Santos, Cairo",KC,K,09/17,Home,DEN,Arrowhead Stadium,64129,3,3,100
-2015,"Santos, Cairo",KC,K,09/28,Away,GB,Lambeau Field,54304,2,2,100
-2015,"Santos, Cairo",KC,K,10/04,Away,CIN,Paul Brown Stadium,45202,0,0,--
-2015,"Santos, Cairo",KC,K,10/11,Home,CHI,Arrowhead Stadium,64129,2,2,100
-2015,"Santos, Cairo",KC,K,10/18,Away,MIN,U.S. Bank Stadium,55415,1,1,100
-2015,"Santos, Cairo",KC,K,10/25,Home,PIT,Arrowhead Stadium,64129,2,2,100
-2015,"Santos, Cairo",KC,K,11/01,Home,DET,Arrowhead Stadium,64129,6,6,100
-2015,"Santos, Cairo",KC,K,11/15,Away,DEN,Broncos Stadium at Mile High,80204,2,2,100
-2015,"Santos, Cairo",KC,K,11/22,Away,LAC,StubHub Center,90746,3,4,75
-2015,"Santos, Cairo",KC,K,11/29,Home,BUF,Arrowhead Stadium,64129,3,3,100
-2015,"Santos, Cairo",KC,K,12/06,Away,OAK,Oakland–Alameda County Coliseum,94621,2,3,66.7
-2015,"Santos, Cairo",KC,K,12/13,Home,LAC,Arrowhead Stadium,64129,1,1,100
-2015,"Santos, Cairo",KC,K,12/20,Away,BAL,M&T Bank Stadium,21230,4,4,100
-2015,"Santos, Cairo",KC,K,12/27,Home,CLE,Arrowhead Stadium,64129,2,2,100
-2015,"Santos, Cairo",KC,K,01/03,Home,OAK,Arrowhead Stadium,64129,3,3,100
+Year,Name,Team,Position,Game Date,Home or Away,Opponent,Location,Zipcode,Temperature,Wind Speed,Pressure,Extra Points Made,Extra Points Attempted,Percentage of Extra Points Made
+2015,"Janikowski, Sebastian",OAK,K,09/13,Home,CIN,Oakland–Alameda County Coliseum,94621,66.9 °F,6.90 MPH,29.85 IN,1,1,100
+2015,"Janikowski, Sebastian",OAK,K,09/20,Home,BAL,Oakland–Alameda County Coliseum,94621,72.0 °F,4.26 MPH,29.83 IN,4,4,100
+2015,"Janikowski, Sebastian",OAK,K,09/27,Away,CLE,FirstEnergy Stadium,44114,66.5 °F,10.82 MPH,30.25 IN,3,3,100
+2015,"Janikowski, Sebastian",OAK,K,10/04,Away,CHI,Soldier Field,60605,53.4 °F,14.96 MPH,30.18 IN,2,2,100
+2015,"Janikowski, Sebastian",OAK,K,10/11,Home,DEN,Oakland–Alameda County Coliseum,94621,65.5 °F,7.25 MPH,30.00 IN,1,1,100
+2015,"Janikowski, Sebastian",OAK,K,10/25,Away,LAC,StubHub Center,90746,73.8 °F,2.88 MPH,29.88 IN,4,4,100
+2015,"Janikowski, Sebastian",OAK,K,11/01,Home,NYJ,Oakland–Alameda County Coliseum,94621,63.1 °F,7.83 MPH,30.11 IN,4,4,100
+2015,"Janikowski, Sebastian",OAK,K,11/08,Away,PIT,Heinz Field,15212,45.9 °F,4.72 MPH,30.39 IN,5,5,100
+2015,"Janikowski, Sebastian",OAK,K,11/15,Home,MIN,Oakland–Alameda County Coliseum,94621,55.7 °F,14.73 MPH,29.86 IN,2,2,100
+2015,"Janikowski, Sebastian",OAK,K,11/22,Away,DET,Ford Field,48226,28.6 °F,8.52 MPH,30.08 IN,1,1,100
+2015,"Janikowski, Sebastian",OAK,K,11/29,Away,TEN,Nissan Stadium,37213,59.5 °F,4.95 MPH,30.13 IN,3,3,100
+2015,"Janikowski, Sebastian",OAK,K,12/06,Home,KC,Oakland–Alameda County Coliseum,94621,52.5 °F,4.95 MPH,30.25 IN,2,3,66.7
+2015,"Janikowski, Sebastian",OAK,K,12/13,Away,DEN,Broncos Stadium at Mile High,80204,28.3 °F,6.33 MPH,29.84 IN,1,1,100
+2015,"Janikowski, Sebastian",OAK,K,12/20,Home,GB,Oakland–Alameda County Coliseum,94621,47.0 °F,8.40 MPH,30.14 IN,2,2,100
+2015,"Janikowski, Sebastian",OAK,K,12/24,Home,LAC,Oakland–Alameda County Coliseum,94621,50.4 °F,11.16 MPH,29.98 IN,1,1,100
+2015,"Janikowski, Sebastian",OAK,K,01/03,Away,KC,Arrowhead Stadium,64129,36.6 °F,2.53 MPH,29.94 IN,2,2,100
+2015,"Myers, Jason",JAX,K,09/13,Home,CAR,TIAA Bank Field,32202,78.7 °F,6.67 MPH,29.93 IN,0,1,0
+2015,"Myers, Jason",JAX,K,09/20,Home,MIA,TIAA Bank Field,32202,83.6 °F,5.06 MPH,29.90 IN,2,2,100
+2015,"Myers, Jason",JAX,K,09/27,Away,NE,Gillete Stadium,2035,"","","",2,2,100
+2015,"Myers, Jason",JAX,K,10/04,Away,IND,Lucas Oil Stadium,46225,57.9 °F,11.62 MPH,30.05 IN,1,1,100
+2015,"Myers, Jason",JAX,K,10/11,Away,TB,Raymond James Stadium,33607,78.8 °F,6.10 MPH,29.90 IN,4,4,100
+2015,"Myers, Jason",JAX,K,10/18,Home,HOU,TIAA Bank Field,32202,71.1 °F,17.15 MPH,30.19 IN,2,3,66.7
+2015,"Myers, Jason",JAX,K,10/25,Home,BUF,TIAA Bank Field,32202,78.6 °F,7.71 MPH,30.08 IN,4,5,80
+2015,"Myers, Jason",JAX,K,11/08,Away,NYJ,MetLife Stadium,7073,"","","",2,2,100
+2015,"Myers, Jason",JAX,K,11/15,Away,BAL,M&T Bank Stadium,21230,50.2 °F,No data.,30.33 IN,1,1,100
+2015,"Myers, Jason",JAX,K,11/19,Home,TEN,TIAA Bank Field,32202,76.4 °F,6.67 MPH,30.03 IN,1,1,100
+2015,"Myers, Jason",JAX,K,11/29,Home,LAC,TIAA Bank Field,32202,69.3 °F,5.87 MPH,30.15 IN,1,2,50
+2015,"Myers, Jason",JAX,K,12/06,Away,TEN,Nissan Stadium,37213,44.1 °F,2.53 MPH,30.46 IN,3,5,60
+2015,"Myers, Jason",JAX,K,12/13,Home,IND,TIAA Bank Field,32202,71.9 °F,7.36 MPH,30.13 IN,6,7,85.7
+2015,"Myers, Jason",JAX,K,12/20,Home,ATL,TIAA Bank Field,32202,57.9 °F,10.93 MPH,30.44 IN,2,2,100
+2015,"Myers, Jason",JAX,K,12/27,Away,NO,Mercedes-Benz Superdome,70112,73.6 °F,16.57 MPH,29.89 IN,1,1,100
+2015,"Myers, Jason",JAX,K,01/03,Away,HOU,NRG Stadium,77054,52.6 °F,4.60 MPH,No data.,0,0,--
+2015,"Dawson, Phil",SF,K,09/14,Home,MIN,Levi's Stadium,95054,65.1 °F,9.44 MPH,29.75 IN,2,2,100
+2015,"Dawson, Phil",SF,K,09/20,Away,PIT,Heinz Field,15212,60.2 °F,7.36 MPH,30.09 IN,1,1,100
+2015,"Dawson, Phil",SF,K,09/27,Away,ARI,State Farm Stadium,85305,88.9 °F,4.03 MPH,29.75 IN,1,1,100
+2015,"Dawson, Phil",SF,K,10/04,Home,GB,Levi's Stadium,95054,61.8 °F,7.36 MPH,29.54 IN,0,0,--
+2015,"Dawson, Phil",SF,K,10/11,Away,NYG,MetLife Stadium,7073,"","","",3,3,100
+2015,"Dawson, Phil",SF,K,10/18,Home,BAL,Levi's Stadium,95054,64.1 °F,7.48 MPH,29.98 IN,1,1,100
+2015,"Dawson, Phil",SF,K,10/22,Home,SEA,Levi's Stadium,95054,64.0 °F,2.99 MPH,29.93 IN,0,0,--
+2015,"Dawson, Phil",SF,K,11/01,Away,LAR,Los Angeles Memorial Coliseum,90037,70.5 °F,0.81 MPH,30.00 IN,0,0,--
+2015,"Dawson, Phil",SF,K,11/08,Home,ATL,Levi's Stadium,95054,53.7 °F,3.80 MPH,30.03 IN,2,2,100
+2015,"Dawson, Phil",SF,K,11/22,Away,SEA,CenturyLink Field,98134,43.3 °F,3.57 MPH,30.20 IN,1,1,100
+2015,"Dawson, Phil",SF,K,11/29,Home,ARI,Levi's Stadium,95054,43.9 °F,3.22 MPH,30.16 IN,1,1,100
+2015,"Dawson, Phil",SF,K,12/06,Away,CHI,Soldier Field,60605,38.7 °F,5.98 MPH,30.36 IN,2,3,66.7
+2015,"Dawson, Phil",SF,K,12/13,Away,CLE,FirstEnergy Stadium,44114,62.1 °F,8.29 MPH,30.06 IN,1,1,100
+2015,"Dawson, Phil",SF,K,12/20,Home,CIN,Levi's Stadium,95054,45.9 °F,6.56 MPH,30.16 IN,2,2,100
+2015,"Dawson, Phil",SF,K,12/27,Away,DET,Ford Field,48226,39.8 °F,9.90 MPH,30.11 IN,2,2,100
+2015,"Dawson, Phil",SF,K,01/03,Home,LAR,Levi's Stadium,95054,41.5 °F,2.88 MPH,30.21 IN,1,1,100
+2015,"Hauschka, Steven",SEA,K,09/13,Away,LAR,Los Angeles Memorial Coliseum,90037,80.2 °F,1.84 MPH,29.83 IN,2,2,100
+2015,"Hauschka, Steven",SEA,K,09/20,Away,GB,Lambeau Field,54304,58.3 °F,3.57 MPH,30.14 IN,2,2,100
+2015,"Hauschka, Steven",SEA,K,09/27,Home,CHI,CenturyLink Field,98134,55.9 °F,3.57 MPH,30.19 IN,2,2,100
+2015,"Hauschka, Steven",SEA,K,10/05,Home,DET,CenturyLink Field,98134,59.7 °F,2.99 MPH,29.88 IN,1,1,100
+2015,"Hauschka, Steven",SEA,K,10/11,Away,CIN,Paul Brown Stadium,45202,54.2 °F,2.88 MPH,29.99 IN,3,3,100
+2015,"Hauschka, Steven",SEA,K,10/18,Home,CAR,CenturyLink Field,98134,58.7 °F,2.65 MPH,29.97 IN,2,2,100
+2015,"Hauschka, Steven",SEA,K,10/22,Away,SF,Levi's Stadium,95054,64.0 °F,2.99 MPH,29.93 IN,2,2,100
+2015,"Hauschka, Steven",SEA,K,11/01,Away,DAL,AT&T Stadium,76011,60.9 °F,7.02 MPH,29.93 IN,1,1,100
+2015,"Hauschka, Steven",SEA,K,11/15,Home,ARI,CenturyLink Field,98134,43.4 °F,4.72 MPH,29.65 IN,2,2,100
+2015,"Hauschka, Steven",SEA,K,11/22,Home,SF,CenturyLink Field,98134,43.3 °F,3.57 MPH,30.20 IN,2,4,50
+2015,"Hauschka, Steven",SEA,K,11/29,Home,PIT,CenturyLink Field,98134,36.4 °F,3.57 MPH,30.23 IN,3,4,75
+2015,"Hauschka, Steven",SEA,K,12/06,Away,MIN,U.S. Bank Stadium,55415,39.3 °F,4.49 MPH,30.29 IN,5,5,100
+2015,"Hauschka, Steven",SEA,K,12/13,Away,BAL,M&T Bank Stadium,21230,58.4 °F,No data.,30.14 IN,5,5,100
+2015,"Hauschka, Steven",SEA,K,12/20,Home,CLE,CenturyLink Field,98134,45.7 °F,6.90 MPH,29.75 IN,3,3,100
+2015,"Hauschka, Steven",SEA,K,12/27,Home,LAR,CenturyLink Field,98134,39.3 °F,3.11 MPH,30.20 IN,2,2,100
+2015,"Hauschka, Steven",SEA,K,01/03,Away,ARI,State Farm Stadium,85305,40.5 °F,4.03 MPH,30.17 IN,3,4,75
+2015,"Crosby, Mason",GB,K,09/13,Away,CHI,Soldier Field,60605,60.3 °F,7.83 MPH,30.02 IN,4,4,100
+2015,"Crosby, Mason",GB,K,09/20,Home,SEA,Lambeau Field,54304,58.3 °F,3.57 MPH,30.14 IN,1,1,100
+2015,"Crosby, Mason",GB,K,09/28,Home,KC,Lambeau Field,54304,68.6 °F,7.48 MPH,29.95 IN,5,5,100
+2015,"Crosby, Mason",GB,K,10/04,Away,SF,Levi's Stadium,95054,61.8 °F,7.36 MPH,29.54 IN,2,2,100
+2015,"Crosby, Mason",GB,K,10/11,Home,LAR,Lambeau Field,54304,62.0 °F,11.39 MPH,29.69 IN,3,3,100
+2015,"Crosby, Mason",GB,K,10/18,Home,LAC,Lambeau Field,54304,37.8 °F,4.26 MPH,30.43 IN,3,3,100
+2015,"Crosby, Mason",GB,K,11/01,Away,DEN,Broncos Stadium at Mile High,80204,54.0 °F,8.52 MPH,29.88 IN,1,1,100
+2015,"Crosby, Mason",GB,K,11/08,Away,CAR,Bank of America Stadium,28202,56.4 °F,10.24 MPH,30.28 IN,3,3,100
+2015,"Crosby, Mason",GB,K,11/15,Home,DET,Lambeau Field,54304,46.0 °F,6.44 MPH,30.10 IN,1,1,100
+2015,"Crosby, Mason",GB,K,11/22,Away,MIN,U.S. Bank Stadium,55415,24.2 °F,6.33 MPH,30.04 IN,1,1,100
+2015,"Crosby, Mason",GB,K,11/26,Home,CHI,Lambeau Field,54304,46.7 °F,8.06 MPH,30.13 IN,1,1,100
+2015,"Crosby, Mason",GB,K,12/03,Away,DET,Ford Field,48226,37.3 °F,7.71 MPH,30.08 IN,3,3,100
+2015,"Crosby, Mason",GB,K,12/13,Home,DAL,Lambeau Field,54304,44.8 °F,9.44 MPH,29.96 IN,4,4,100
+2015,"Crosby, Mason",GB,K,12/20,Away,OAK,Oakland–Alameda County Coliseum,94621,47.0 °F,8.40 MPH,30.14 IN,3,3,100
+2015,"Crosby, Mason",GB,K,12/27,Away,ARI,State Farm Stadium,85305,48.1 °F,10.59 MPH,30.14 IN,--,--,--
+2015,"Crosby, Mason",GB,K,01/03,Home,MIN,Lambeau Field,54304,25.9 °F,3.68 MPH,30.08 IN,1,1,100
+2015,"Prater, Matt",DET,K,09/13,Away,LAC,StubHub Center,90746,80.5 °F,5.98 MPH,29.85 IN,4,4,100
+2015,"Prater, Matt",DET,K,09/20,Away,MIN,U.S. Bank Stadium,55415,60.4 °F,7.60 MPH,30.07 IN,1,1,100
+2015,"Prater, Matt",DET,K,09/27,Home,DEN,Ford Field,48226,67.6 °F,6.90 MPH,30.20 IN,0,1,0
+2015,"Prater, Matt",DET,K,10/05,Away,SEA,CenturyLink Field,98134,59.7 °F,2.99 MPH,29.88 IN,1,1,100
+2015,"Prater, Matt",DET,K,10/11,Home,ARI,Ford Field,48226,59.9 °F,10.93 MPH,29.88 IN,2,2,100
+2015,"Prater, Matt",DET,K,10/18,Home,CHI,Ford Field,48226,41.1 °F,5.98 MPH,30.41 IN,4,4,100
+2015,"Prater, Matt",DET,K,10/25,Home,MIN,Ford Field,48226,54.9 °F,8.40 MPH,30.21 IN,2,2,100
+2015,"Prater, Matt",DET,K,11/01,Away,KC,Arrowhead Stadium,64129,55.7 °F,4.37 MPH,29.93 IN,1,1,100
+2015,"Prater, Matt",DET,K,11/15,Away,GB,Lambeau Field,54304,46.0 °F,6.44 MPH,30.10 IN,0,2,0
+2015,"Prater, Matt",DET,K,11/22,Home,OAK,Ford Field,48226,28.6 °F,8.52 MPH,30.08 IN,1,1,100
+2015,"Prater, Matt",DET,K,11/26,Home,PHI,Ford Field,48226,51.0 °F,12.77 MPH,30.38 IN,6,6,100
+2015,"Prater, Matt",DET,K,12/03,Home,GB,Ford Field,48226,37.3 °F,7.71 MPH,30.08 IN,2,2,100
+2015,"Prater, Matt",DET,K,12/13,Away,LAR,Los Angeles Memorial Coliseum,90037,56.5 °F,1.50 MPH,30.06 IN,2,2,100
+2015,"Prater, Matt",DET,K,12/21,Away,NO,Mercedes-Benz Superdome,70112,64.8 °F,9.21 MPH,30.10 IN,5,5,100
+2015,"Prater, Matt",DET,K,12/27,Home,SF,Ford Field,48226,39.8 °F,9.90 MPH,30.11 IN,2,2,100
+2015,"Prater, Matt",DET,K,01/03,Away,CHI,Soldier Field,60605,34.3 °F,5.64 MPH,30.05 IN,3,3,100
+2015,"Carpenter, Dan",BUF,K,09/13,Home,IND,New Era Field,14127,53.9 °F,12.43 MPH,29.79 IN,3,3,100
+2015,"Carpenter, Dan",BUF,K,09/20,Home,NE,New Era Field,14127,60.0 °F,6.67 MPH,30.11 IN,2,3,66.7
+2015,"Carpenter, Dan",BUF,K,09/27,Away,MIA,Hard Rock Stadium,33056,82.5 °F,4.95 MPH,29.92 IN,5,5,100
+2015,"Carpenter, Dan",BUF,K,10/04,Home,NYG,New Era Field,14127,52.7 °F,10.47 MPH,30.29 IN,1,1,100
+2015,"Carpenter, Dan",BUF,K,10/11,Away,TEN,Nissan Stadium,37213,58.3 °F,2.30 MPH,30.03 IN,2,2,100
+2015,"Carpenter, Dan",BUF,K,10/18,Home,CIN,New Era Field,14127,38.1 °F,7.83 MPH,30.32 IN,3,3,100
+2015,"Carpenter, Dan",BUF,K,10/25,Away,JAX,TIAA Bank Field,32202,78.6 °F,7.71 MPH,30.08 IN,2,2,100
+2015,"Carpenter, Dan",BUF,K,11/08,Home,MIA,New Era Field,14127,42.9 °F,8.75 MPH,30.33 IN,4,4,100
+2015,"Carpenter, Dan",BUF,K,11/12,Away,NYJ,MetLife Stadium,7073,"","","",1,2,50
+2015,"Carpenter, Dan",BUF,K,11/23,Away,NE,Gillete Stadium,2035,"","","",1,1,100
+2015,"Carpenter, Dan",BUF,K,11/29,Away,KC,Arrowhead Stadium,64129,35.4 °F,8.52 MPH,30.33 IN,1,2,50
+2015,"Carpenter, Dan",BUF,K,12/06,Home,HOU,New Era Field,14127,36.2 °F,5.41 MPH,30.49 IN,3,4,75
+2015,"Carpenter, Dan",BUF,K,12/13,Away,PHI,Lincoln Financial Field,19148,59.9 °F,3.80 MPH,30.14 IN,2,2,100
+2015,"Carpenter, Dan",BUF,K,12/20,Away,WAS,FedExField,20785,36.6 °F,6.21 MPH,30.51 IN,2,2,100
+2015,"Carpenter, Dan",BUF,K,12/27,Home,DAL,New Era Field,14127,41.8 °F,7.71 MPH,30.09 IN,1,2,50
+2015,"Carpenter, Dan",BUF,K,01/03,Home,NYJ,New Era Field,14127,27.0 °F,7.48 MPH,30.34 IN,1,2,50
+2015,"Gostkowski, Stephen",NE,K,09/10,Home,PIT,Gillete Stadium,2035,"","","",4,4,100
+2015,"Gostkowski, Stephen",NE,K,09/20,Away,BUF,New Era Field,14127,60.0 °F,6.67 MPH,30.11 IN,4,4,100
+2015,"Gostkowski, Stephen",NE,K,09/27,Home,JAX,Gillete Stadium,2035,"","","",6,6,100
+2015,"Gostkowski, Stephen",NE,K,10/11,Away,DAL,AT&T Stadium,76011,76.9 °F,9.44 MPH,29.94 IN,3,3,100
+2015,"Gostkowski, Stephen",NE,K,10/18,Away,IND,Lucas Oil Stadium,46225,43.5 °F,6.21 MPH,30.45 IN,4,4,100
+2015,"Gostkowski, Stephen",NE,K,10/25,Home,NYJ,Gillete Stadium,2035,"","","",3,3,100
+2015,"Gostkowski, Stephen",NE,K,10/29,Home,MIA,Gillete Stadium,2035,"","","",4,4,100
+2015,"Gostkowski, Stephen",NE,K,11/08,Home,WAS,Gillete Stadium,2035,"","","",3,3,100
+2015,"Gostkowski, Stephen",NE,K,11/15,Away,NYG,MetLife Stadium,7073,"","","",3,3,100
+2015,"Gostkowski, Stephen",NE,K,11/23,Home,BUF,Gillete Stadium,2035,"","","",2,2,100
+2015,"Gostkowski, Stephen",NE,K,11/29,Away,DEN,Broncos Stadium at Mile High,80204,20.5 °F,2.88 MPH,30.20 IN,3,3,100
+2015,"Gostkowski, Stephen",NE,K,12/06,Home,PHI,Gillete Stadium,2035,"","","",4,4,100
+2015,"Gostkowski, Stephen",NE,K,12/13,Away,HOU,NRG Stadium,77054,65.8 °F,15.88 MPH,No data.,3,3,100
+2015,"Gostkowski, Stephen",NE,K,12/20,Home,TEN,Gillete Stadium,2035,"","","",3,3,100
+2015,"Gostkowski, Stephen",NE,K,12/27,Away,NYJ,MetLife Stadium,7073,"","","",2,2,100
+2015,"Gostkowski, Stephen",NE,K,01/03,Away,MIA,Hard Rock Stadium,33056,78.1 °F,12.08 MPH,30.20 IN,1,1,100
+2015,"Boswell, Chris",PIT,K,10/12,Away,LAC,StubHub Center,90746,82.1 °F,4.03 MPH,29.90 IN,3,3,100
+2015,"Boswell, Chris",PIT,K,10/18,Home,ARI,Heinz Field,15212,37.4 °F,7.13 MPH,30.39 IN,1,1,100
+2015,"Boswell, Chris",PIT,K,10/25,Away,KC,Arrowhead Stadium,64129,52.9 °F,3.57 MPH,30.29 IN,1,1,100
+2015,"Boswell, Chris",PIT,K,11/01,Home,CIN,Heinz Field,15212,57.8 °F,11.39 MPH,29.94 IN,1,1,100
+2015,"Boswell, Chris",PIT,K,11/08,Home,OAK,Heinz Field,15212,45.9 °F,4.72 MPH,30.39 IN,3,3,100
+2015,"Boswell, Chris",PIT,K,11/15,Home,CLE,Heinz Field,15212,47.0 °F,9.67 MPH,30.35 IN,1,2,50
+2015,"Boswell, Chris",PIT,K,11/29,Away,SEA,CenturyLink Field,98134,36.4 °F,3.57 MPH,30.23 IN,1,1,100
+2015,"Boswell, Chris",PIT,K,12/06,Home,IND,Heinz Field,15212,36.9 °F,2.19 MPH,30.49 IN,4,4,100
+2015,"Boswell, Chris",PIT,K,12/13,Away,CIN,Paul Brown Stadium,45202,57.6 °F,2.88 MPH,30.04 IN,3,3,100
+2015,"Boswell, Chris",PIT,K,12/20,Home,DEN,Heinz Field,15212,31.1 °F,8.40 MPH,30.48 IN,4,4,100
+2015,"Boswell, Chris",PIT,K,12/27,Away,BAL,M&T Bank Stadium,21230,56.7 °F,No data.,30.08 IN,2,2,100
+2015,"Boswell, Chris",PIT,K,01/03,Away,CLE,FirstEnergy Stadium,44114,34.2 °F,8.86 MPH,30.20 IN,2,2,100
+2015,"Succop, Ryan",TEN,K,09/13,Away,TB,Raymond James Stadium,33607,79.3 °F,4.95 MPH,29.92 IN,6,6,100
+2015,"Succop, Ryan",TEN,K,09/20,Away,CLE,FirstEnergy Stadium,44114,61.5 °F,9.44 MPH,30.12 IN,2,2,100
+2015,"Succop, Ryan",TEN,K,09/27,Home,IND,Nissan Stadium,37213,71.6 °F,4.37 MPH,30.06 IN,3,3,100
+2015,"Succop, Ryan",TEN,K,10/11,Home,BUF,Nissan Stadium,37213,58.3 °F,2.30 MPH,30.03 IN,1,1,100
+2015,"Succop, Ryan",TEN,K,10/18,Home,MIA,Nissan Stadium,37213,50.2 °F,7.36 MPH,30.44 IN,1,1,100
+2015,"Succop, Ryan",TEN,K,10/25,Home,ATL,Nissan Stadium,37213,62.3 °F,6.90 MPH,30.16 IN,1,1,100
+2015,"Succop, Ryan",TEN,K,11/01,Away,HOU,NRG Stadium,77054,68.0 °F,6.10 MPH,No data.,0,0,--
+2015,"Succop, Ryan",TEN,K,11/08,Away,NO,Mercedes-Benz Superdome,70112,65.2 °F,24.05 MPH,30.00 IN,2,2,100
+2015,"Succop, Ryan",TEN,K,11/15,Home,CAR,Nissan Stadium,37213,46.9 °F,2.42 MPH,30.41 IN,1,1,100
+2015,"Succop, Ryan",TEN,K,11/19,Away,JAX,TIAA Bank Field,32202,76.4 °F,6.67 MPH,30.03 IN,1,1,100
+2015,"Succop, Ryan",TEN,K,11/29,Home,OAK,Nissan Stadium,37213,59.5 °F,4.95 MPH,30.13 IN,1,2,50
+2015,"Succop, Ryan",TEN,K,12/06,Home,JAX,Nissan Stadium,37213,44.1 °F,2.53 MPH,30.46 IN,6,6,100
+2015,"Succop, Ryan",TEN,K,12/13,Away,NYJ,MetLife Stadium,7073,"","","",--,--,--
+2015,"Succop, Ryan",TEN,K,12/20,Away,NE,Gillete Stadium,2035,"","","",1,2,50
+2015,"Succop, Ryan",TEN,K,12/27,Home,HOU,Nissan Stadium,37213,71.3 °F,12.89 MPH,29.99 IN,--,--,--
+2015,"Succop, Ryan",TEN,K,01/03,Away,IND,Lucas Oil Stadium,46225,37.9 °F,8.52 MPH,30.08 IN,3,3,100
+2015,"Sturgis, Caleb",PHI,K,10/04,Away,WAS,FedExField,20785,56.4 °F,15.42 MPH,30.18 IN,2,3,66.7
+2015,"Sturgis, Caleb",PHI,K,10/11,Home,NO,Lincoln Financial Field,19148,57.5 °F,4.72 MPH,30.02 IN,3,4,75
+2015,"Sturgis, Caleb",PHI,K,10/19,Home,NYG,Lincoln Financial Field,19148,43.4 °F,7.13 MPH,30.45 IN,3,3,100
+2015,"Sturgis, Caleb",PHI,K,10/25,Away,CAR,Bank of America Stadium,28202,65.6 °F,2.42 MPH,30.16 IN,1,1,100
+2015,"Sturgis, Caleb",PHI,K,11/08,Away,DAL,AT&T Stadium,76011,56.1 °F,8.86 MPH,30.27 IN,3,3,100
+2015,"Sturgis, Caleb",PHI,K,11/15,Home,MIA,Lincoln Financial Field,19148,47.8 °F,9.55 MPH,30.31 IN,2,2,100
+2015,"Sturgis, Caleb",PHI,K,11/22,Home,TB,Lincoln Financial Field,19148,49.3 °F,10.93 MPH,29.96 IN,2,2,100
+2015,"Sturgis, Caleb",PHI,K,11/26,Away,DET,Ford Field,48226,51.0 °F,12.77 MPH,30.38 IN,2,2,100
+2015,"Sturgis, Caleb",PHI,K,12/06,Away,NE,Gillete Stadium,2035,"","","",5,5,100
+2015,"Sturgis, Caleb",PHI,K,12/13,Home,BUF,Lincoln Financial Field,19148,59.9 °F,3.80 MPH,30.14 IN,2,2,100
+2015,"Sturgis, Caleb",PHI,K,12/20,Home,ARI,Lincoln Financial Field,19148,36.3 °F,11.39 MPH,30.47 IN,2,2,100
+2015,"Sturgis, Caleb",PHI,K,12/26,Home,WAS,Lincoln Financial Field,19148,57.5 °F,8.86 MPH,30.37 IN,3,3,100
+2015,"Sturgis, Caleb",PHI,K,01/03,Away,NYG,MetLife Stadium,7073,"","","",5,5,100
+2015,"Catanzaro, Chandler",ARI,K,09/13,Home,NO,State Farm Stadium,85305,93.5 °F,7.94 MPH,29.75 IN,4,4,100
+2015,"Catanzaro, Chandler",ARI,K,09/20,Away,CHI,Soldier Field,60605,62.4 °F,3.68 MPH,30.14 IN,6,7,85.7
+2015,"Catanzaro, Chandler",ARI,K,09/27,Home,SF,State Farm Stadium,85305,88.9 °F,4.03 MPH,29.75 IN,6,6,100
+2015,"Catanzaro, Chandler",ARI,K,10/04,Home,LAR,State Farm Stadium,85305,81.8 °F,7.94 MPH,29.57 IN,1,1,100
+2015,"Catanzaro, Chandler",ARI,K,10/11,Away,DET,Ford Field,48226,59.9 °F,10.93 MPH,29.88 IN,6,6,100
+2015,"Catanzaro, Chandler",ARI,K,10/18,Away,PIT,Heinz Field,15212,37.4 °F,7.13 MPH,30.39 IN,1,1,100
+2015,"Catanzaro, Chandler",ARI,K,10/26,Home,BAL,State Farm Stadium,85305,74.3 °F,4.95 MPH,29.87 IN,2,3,66.7
+2015,"Catanzaro, Chandler",ARI,K,11/01,Away,CLE,FirstEnergy Stadium,44114,56.3 °F,15.31 MPH,29.88 IN,4,4,100
+2015,"Catanzaro, Chandler",ARI,K,11/15,Away,SEA,CenturyLink Field,98134,43.4 °F,4.72 MPH,29.65 IN,4,4,100
+2015,"Catanzaro, Chandler",ARI,K,11/22,Home,CIN,State Farm Stadium,85305,65.2 °F,7.60 MPH,29.99 IN,4,4,100
+2015,"Catanzaro, Chandler",ARI,K,11/29,Away,SF,Levi's Stadium,95054,43.9 °F,3.22 MPH,30.16 IN,1,2,50
+2015,"Catanzaro, Chandler",ARI,K,12/06,Away,LAR,Los Angeles Memorial Coliseum,90037,65.1 °F,1.96 MPH,30.20 IN,3,3,100
+2015,"Catanzaro, Chandler",ARI,K,12/10,Home,MIN,State Farm Stadium,85305,56.0 °F,3.34 MPH,29.95 IN,2,2,100
+2015,"Catanzaro, Chandler",ARI,K,12/20,Away,PHI,Lincoln Financial Field,19148,36.3 °F,11.39 MPH,30.47 IN,4,5,80
+2015,"Catanzaro, Chandler",ARI,K,12/27,Home,GB,State Farm Stadium,85305,48.1 °F,10.59 MPH,30.14 IN,5,5,100
+2015,"Catanzaro, Chandler",ARI,K,01/03,Home,SEA,State Farm Stadium,85305,40.5 °F,4.03 MPH,30.17 IN,0,1,0
+2015,"Bailey, Dan",DAL,K,09/13,Home,NYG,AT&T Stadium,76011,76.5 °F,7.36 MPH,30.00 IN,3,3,100
+2015,"Bailey, Dan",DAL,K,09/20,Away,PHI,Lincoln Financial Field,19148,73.9 °F,10.01 MPH,29.95 IN,2,2,100
+2015,"Bailey, Dan",DAL,K,09/27,Home,ATL,AT&T Stadium,76011,78.8 °F,6.21 MPH,29.91 IN,4,4,100
+2015,"Bailey, Dan",DAL,K,10/04,Away,NO,Mercedes-Benz Superdome,70112,62.5 °F,14.73 MPH,29.85 IN,2,2,100
+2015,"Bailey, Dan",DAL,K,10/11,Home,NE,AT&T Stadium,76011,76.9 °F,9.44 MPH,29.94 IN,0,0,--
+2015,"Bailey, Dan",DAL,K,10/25,Away,NYG,MetLife Stadium,7073,"","","",2,2,100
+2015,"Bailey, Dan",DAL,K,11/01,Home,SEA,AT&T Stadium,76011,60.9 °F,7.02 MPH,29.93 IN,0,0,--
+2015,"Bailey, Dan",DAL,K,11/08,Home,PHI,AT&T Stadium,76011,56.1 °F,8.86 MPH,30.27 IN,3,3,100
+2015,"Bailey, Dan",DAL,K,11/15,Away,TB,Raymond James Stadium,33607,71.4 °F,8.75 MPH,30.22 IN,0,0,--
+2015,"Bailey, Dan",DAL,K,11/22,Away,MIA,Hard Rock Stadium,33056,74.2 °F,5.87 MPH,29.86 IN,3,3,100
+2015,"Bailey, Dan",DAL,K,11/26,Home,CAR,AT&T Stadium,76011,68.7 °F,14.96 MPH,30.07 IN,0,0,--
+2015,"Bailey, Dan",DAL,K,12/07,Away,WAS,FedExField,20785,44.0 °F,4.37 MPH,30.21 IN,1,1,100
+2015,"Bailey, Dan",DAL,K,12/13,Away,GB,Lambeau Field,54304,44.8 °F,9.44 MPH,29.96 IN,1,1,100
+2015,"Bailey, Dan",DAL,K,12/19,Home,NYJ,AT&T Stadium,76011,45.8 °F,9.44 MPH,30.36 IN,1,1,100
+2015,"Bailey, Dan",DAL,K,12/27,Away,BUF,New Era Field,14127,41.8 °F,7.71 MPH,30.09 IN,0,0,--
+2015,"Bailey, Dan",DAL,K,01/03,Home,WAS,AT&T Stadium,76011,42.1 °F,8.75 MPH,29.93 IN,3,3,100
+2015,"Lambo, Josh",LAC,K,09/13,Home,DET,StubHub Center,90746,80.5 °F,5.98 MPH,29.85 IN,3,4,75
+2015,"Lambo, Josh",LAC,K,09/20,Away,CIN,Paul Brown Stadium,45202,61.6 °F,5.52 MPH,30.12 IN,1,1,100
+2015,"Lambo, Josh",LAC,K,09/27,Away,MIN,U.S. Bank Stadium,55415,69.9 °F,10.70 MPH,29.96 IN,2,2,100
+2015,"Lambo, Josh",LAC,K,10/04,Home,CLE,StubHub Center,90746,70.6 °F,8.06 MPH,29.61 IN,3,3,100
+2015,"Lambo, Josh",LAC,K,10/12,Home,PIT,StubHub Center,90746,82.1 °F,4.03 MPH,29.90 IN,2,2,100
+2015,"Lambo, Josh",LAC,K,10/18,Away,GB,Lambeau Field,54304,37.8 °F,4.26 MPH,30.43 IN,2,2,100
+2015,"Lambo, Josh",LAC,K,10/25,Home,OAK,StubHub Center,90746,73.8 °F,2.88 MPH,29.88 IN,1,1,100
+2015,"Lambo, Josh",LAC,K,11/01,Away,BAL,M&T Bank Stadium,21230,58.4 °F,No data.,29.99 IN,2,3,66.7
+2015,"Lambo, Josh",LAC,K,11/09,Home,CHI,StubHub Center,90746,62.5 °F,3.57 MPH,29.96 IN,1,2,50
+2015,"Lambo, Josh",LAC,K,11/22,Home,KC,StubHub Center,90746,72.2 °F,4.83 MPH,29.93 IN,0,0,--
+2015,"Lambo, Josh",LAC,K,11/29,Away,JAX,Los Angeles Memorial Coliseum,90037,57.8 °F,1.04 MPH,30.08 IN,4,4,100
+2015,"Lambo, Josh",LAC,K,12/06,Home,DEN,StubHub Center,90746,64.7 °F,3.11 MPH,30.21 IN,0,0,--
+2015,"Lambo, Josh",LAC,K,12/13,Away,KC,Arrowhead Stadium,64129,63.0 °F,9.90 MPH,29.59 IN,0,0,--
+2015,"Lambo, Josh",LAC,K,12/20,Home,MIA,StubHub Center,90746,54.6 °F,3.80 MPH,30.08 IN,3,4,75
+2015,"Lambo, Josh",LAC,K,12/24,Away,OAK,Oakland–Alameda County Coliseum,94621,50.4 °F,11.16 MPH,29.98 IN,2,2,100
+2015,"Lambo, Josh",LAC,K,01/03,Away,DEN,Broncos Stadium at Mile High,80204,22.5 °F,10.93 MPH,29.91 IN,2,2,100
+2015,"McManus, Brandon",DEN,K,09/13,Home,BAL,Broncos Stadium at Mile High,80204,72.7 °F,10.93 MPH,29.80 IN,1,1,100
+2015,"McManus, Brandon",DEN,K,09/17,Away,KC,Arrowhead Stadium,64129,82.0 °F,15.31 MPH,29.85 IN,4,4,100
+2015,"McManus, Brandon",DEN,K,09/27,Away,DET,Ford Field,48226,67.6 °F,6.90 MPH,30.20 IN,3,3,100
+2015,"McManus, Brandon",DEN,K,10/04,Home,MIN,Broncos Stadium at Mile High,80204,53.2 °F,7.94 MPH,29.91 IN,2,2,100
+2015,"McManus, Brandon",DEN,K,10/11,Away,OAK,Oakland–Alameda County Coliseum,94621,65.5 °F,7.25 MPH,30.00 IN,1,1,100
+2015,"McManus, Brandon",DEN,K,10/18,Away,CLE,FirstEnergy Stadium,44114,42.0 °F,10.13 MPH,30.41 IN,2,2,100
+2015,"McManus, Brandon",DEN,K,11/01,Home,GB,Broncos Stadium at Mile High,80204,54.0 °F,8.52 MPH,29.88 IN,3,3,100
+2015,"McManus, Brandon",DEN,K,11/08,Away,IND,Lucas Oil Stadium,46225,43.7 °F,5.64 MPH,30.41 IN,3,3,100
+2015,"McManus, Brandon",DEN,K,11/15,Home,KC,Broncos Stadium at Mile High,80204,44.8 °F,7.48 MPH,29.84 IN,1,1,100
+2015,"McManus, Brandon",DEN,K,11/22,Away,CHI,Soldier Field,60605,21.4 °F,8.52 MPH,30.21 IN,2,2,100
+2015,"McManus, Brandon",DEN,K,11/29,Home,NE,Broncos Stadium at Mile High,80204,20.5 °F,2.88 MPH,30.20 IN,3,3,100
+2015,"McManus, Brandon",DEN,K,12/06,Away,LAC,StubHub Center,90746,64.7 °F,3.11 MPH,30.21 IN,2,2,100
+2015,"McManus, Brandon",DEN,K,12/13,Home,OAK,Broncos Stadium at Mile High,80204,28.3 °F,6.33 MPH,29.84 IN,0,0,--
+2015,"McManus, Brandon",DEN,K,12/20,Away,PIT,Heinz Field,15212,31.1 °F,8.40 MPH,30.48 IN,3,4,75
+2015,"McManus, Brandon",DEN,K,12/28,Home,CIN,Broncos Stadium at Mile High,80204,13.0 °F,4.49 MPH,30.04 IN,2,2,100
+2015,"McManus, Brandon",DEN,K,01/03,Home,LAC,Broncos Stadium at Mile High,80204,22.5 °F,10.93 MPH,29.91 IN,3,3,100
+2015,"Hopkins, Dustin",WAS,K,09/20,Home,LAR,FedExField,20785,71.2 °F,9.21 MPH,29.96 IN,3,3,100
+2015,"Hopkins, Dustin",WAS,K,09/24,Away,NYG,MetLife Stadium,7073,"","","",1,1,100
+2015,"Hopkins, Dustin",WAS,K,10/04,Home,PHI,FedExField,20785,56.4 °F,15.42 MPH,30.18 IN,2,2,100
+2015,"Hopkins, Dustin",WAS,K,10/11,Away,ATL,Mercedes-Benz Stadium,30313,64.4 °F,8.29 MPH,29.97 IN,1,1,100
+2015,"Hopkins, Dustin",WAS,K,10/18,Away,NYJ,MetLife Stadium,7073,"","","",2,2,100
+2015,"Hopkins, Dustin",WAS,K,10/25,Home,TB,FedExField,20785,59.3 °F,9.90 MPH,30.16 IN,4,4,100
+2015,"Hopkins, Dustin",WAS,K,11/08,Away,NE,Gillete Stadium,2035,"","","",1,1,100
+2015,"Hopkins, Dustin",WAS,K,11/15,Home,NO,FedExField,20785,46.1 °F,6.44 MPH,30.36 IN,5,5,100
+2015,"Hopkins, Dustin",WAS,K,11/22,Away,CAR,Bank of America Stadium,28202,49.5 °F,5.06 MPH,29.97 IN,2,2,100
+2015,"Hopkins, Dustin",WAS,K,11/29,Home,NYG,FedExField,20785,50.5 °F,6.79 MPH,30.20 IN,2,2,100
+2015,"Hopkins, Dustin",WAS,K,12/07,Home,DAL,FedExField,20785,44.0 °F,4.37 MPH,30.21 IN,1,1,100
+2015,"Hopkins, Dustin",WAS,K,12/13,Away,CHI,Soldier Field,60605,59.7 °F,9.21 MPH,29.83 IN,3,3,100
+2015,"Hopkins, Dustin",WAS,K,12/20,Home,BUF,FedExField,20785,36.6 °F,6.21 MPH,30.51 IN,5,5,100
+2015,"Hopkins, Dustin",WAS,K,12/26,Away,PHI,Lincoln Financial Field,19148,57.5 °F,8.86 MPH,30.37 IN,3,4,75
+2015,"Hopkins, Dustin",WAS,K,01/03,Away,DAL,AT&T Stadium,76011,42.1 °F,8.75 MPH,29.93 IN,4,4,100
+2015,"Bullock, Randy",CIN,K,09/13,Home,KC,Paul Brown Stadium,45202,58.8 °F,4.60 MPH,30.01 IN,0,1,0
+2015,"Bullock, Randy",CIN,K,09/20,Away,CAR,Bank of America Stadium,28202,73.9 °F,1.84 MPH,29.92 IN,2,2,100
+2015,"Bullock, Randy",CIN,K,09/27,Home,TB,Paul Brown Stadium,45202,69.2 °F,5.41 MPH,30.15 IN,1,2,50
+2015,"Bullock, Randy",CIN,K,11/12,Home,BUF,Paul Brown Stadium,45202,53.5 °F,14.38 MPH,29.77 IN,2,2,100
+2015,"Bullock, Randy",CIN,K,11/22,Away,HOU,NRG Stadium,77054,49.5 °F,12.77 MPH,No data.,2,2,100
+2015,"Bullock, Randy",CIN,K,11/29,Home,MIA,Paul Brown Stadium,45202,42.5 °F,8.06 MPH,30.26 IN,5,5,100
+2015,"Bullock, Randy",CIN,K,12/06,Away,NYG,MetLife Stadium,7073,"","","",2,2,100
+2015,"Bullock, Randy",CIN,K,12/13,Home,TEN,Paul Brown Stadium,45202,57.6 °F,2.88 MPH,30.04 IN,3,3,100
+2015,"Bullock, Randy",CIN,K,12/19,Away,DAL,AT&T Stadium,76011,45.8 °F,9.44 MPH,30.36 IN,1,2,50
+2015,"Bullock, Randy",CIN,K,12/27,Home,NE,Paul Brown Stadium,45202,56.7 °F,10.36 MPH,30.01 IN,2,2,100
+2015,"Bullock, Randy",CIN,K,01/03,Away,BUF,New Era Field,14127,27.0 °F,7.48 MPH,30.34 IN,2,2,100
+2015,"Novak, Nick",HOU,K,10/04,Away,ATL,Mercedes-Benz Stadium,30313,65.4 °F,10.93 MPH,29.73 IN,3,3,100
+2015,"Novak, Nick",HOU,K,10/08,Home,IND,NRG Stadium,77054,79.8 °F,2.65 MPH,No data.,2,2,100
+2015,"Novak, Nick",HOU,K,10/18,Away,JAX,TIAA Bank Field,32202,71.1 °F,17.15 MPH,30.19 IN,4,4,100
+2015,"Novak, Nick",HOU,K,10/25,Away,MIA,Hard Rock Stadium,33056,78.6 °F,10.93 MPH,30.01 IN,2,3,66.7
+2015,"Novak, Nick",HOU,K,11/01,Home,TEN,NRG Stadium,77054,68.0 °F,6.10 MPH,No data.,2,2,100
+2015,"Novak, Nick",HOU,K,11/16,Away,CIN,Paul Brown Stadium,45202,43.3 °F,1.96 MPH,30.30 IN,1,1,100
+2015,"Novak, Nick",HOU,K,11/22,Home,NYJ,NRG Stadium,77054,49.5 °F,12.77 MPH,No data.,3,3,100
+2015,"Novak, Nick",HOU,K,11/29,Home,NO,NRG Stadium,77054,51.9 °F,7.94 MPH,No data.,3,3,100
+2015,"Novak, Nick",HOU,K,12/06,Away,BUF,New Era Field,14127,36.2 °F,5.41 MPH,30.49 IN,1,2,50
+2015,"Novak, Nick",HOU,K,12/13,Home,NE,NRG Stadium,77054,65.8 °F,15.88 MPH,No data.,0,0,--
+2015,"Novak, Nick",HOU,K,12/20,Away,IND,Lucas Oil Stadium,46225,34.7 °F,10.01 MPH,30.35 IN,1,1,100
+2015,"Novak, Nick",HOU,K,12/27,Away,TEN,Nissan Stadium,37213,71.3 °F,12.89 MPH,29.99 IN,4,4,100
+2015,"Novak, Nick",HOU,K,01/03,Home,JAX,NRG Stadium,77054,52.6 °F,4.60 MPH,No data.,3,3,100
+2015,"Vinatieri, Adam",IND,K,09/13,Away,BUF,New Era Field,14127,53.9 °F,12.43 MPH,29.79 IN,0,0,--
+2015,"Vinatieri, Adam",IND,K,09/21,Home,NYJ,Lucas Oil Stadium,46225,62.9 °F,6.44 MPH,30.10 IN,1,1,100
+2015,"Vinatieri, Adam",IND,K,09/27,Away,TEN,Nissan Stadium,37213,71.6 °F,4.37 MPH,30.06 IN,5,5,100
+2015,"Vinatieri, Adam",IND,K,10/04,Home,JAX,Lucas Oil Stadium,46225,57.9 °F,11.62 MPH,30.05 IN,1,1,100
+2015,"Vinatieri, Adam",IND,K,10/08,Away,HOU,NRG Stadium,77054,79.8 °F,2.65 MPH,No data.,3,3,100
+2015,"Vinatieri, Adam",IND,K,10/18,Home,NE,Lucas Oil Stadium,46225,43.5 °F,6.21 MPH,30.45 IN,3,4,75
+2015,"Vinatieri, Adam",IND,K,10/25,Home,NO,Lucas Oil Stadium,46225,54.7 °F,10.24 MPH,30.23 IN,3,3,100
+2015,"Vinatieri, Adam",IND,K,11/02,Away,CAR,Bank of America Stadium,28202,63.1 °F,5.87 MPH,30.02 IN,2,2,100
+2015,"Vinatieri, Adam",IND,K,11/08,Home,DEN,Lucas Oil Stadium,46225,43.7 °F,5.64 MPH,30.41 IN,3,3,100
+2015,"Vinatieri, Adam",IND,K,11/22,Away,ATL,Mercedes-Benz Stadium,30313,46.6 °F,13.35 MPH,30.03 IN,3,3,100
+2015,"Vinatieri, Adam",IND,K,11/29,Home,TB,Lucas Oil Stadium,46225,39.0 °F,11.28 MPH,30.26 IN,1,2,50
+2015,"Vinatieri, Adam",IND,K,12/06,Away,PIT,Heinz Field,15212,36.9 °F,2.19 MPH,30.49 IN,1,1,100
+2015,"Vinatieri, Adam",IND,K,12/13,Away,JAX,TIAA Bank Field,32202,71.9 °F,7.36 MPH,30.13 IN,1,1,100
+2015,"Vinatieri, Adam",IND,K,12/20,Home,HOU,Lucas Oil Stadium,46225,34.7 °F,10.01 MPH,30.35 IN,1,1,100
+2015,"Vinatieri, Adam",IND,K,12/27,Away,MIA,Hard Rock Stadium,33056,78.5 °F,13.46 MPH,30.09 IN,1,2,50
+2015,"Vinatieri, Adam",IND,K,01/03,Home,TEN,Lucas Oil Stadium,46225,37.9 °F,8.52 MPH,30.08 IN,3,3,100
+2015,"Folk, Nick",NYJ,K,09/13,Home,CLE,MetLife Stadium,7073,"","","",4,4,100
+2015,"Folk, Nick",NYJ,K,09/21,Away,IND,Lucas Oil Stadium,46225,62.9 °F,6.44 MPH,30.10 IN,2,2,100
+2015,"Folk, Nick",NYJ,K,09/27,Home,PHI,MetLife Stadium,7073,"","","",2,2,100
+2015,"Folk, Nick",NYJ,K,10/04,Away,MIA,Hard Rock Stadium,33056,79.4 °F,8.17 MPH,29.70 IN,3,3,100
+2015,"Folk, Nick",NYJ,K,10/18,Home,WAS,MetLife Stadium,7073,"","","",4,4,100
+2015,"Folk, Nick",NYJ,K,10/25,Away,NE,Gillete Stadium,2035,"","","",2,2,100
+2015,"Folk, Nick",NYJ,K,11/01,Away,OAK,Oakland–Alameda County Coliseum,94621,63.1 °F,7.83 MPH,30.11 IN,2,2,100
+2015,"Folk, Nick",NYJ,K,11/08,Home,JAX,MetLife Stadium,7073,"","","",--,--,--
+2015,"Franks, Andrew",MIA,K,09/13,Away,WAS,FedExField,20785,67.6 °F,12.66 MPH,29.80 IN,2,2,100
+2015,"Franks, Andrew",MIA,K,09/20,Away,JAX,TIAA Bank Field,32202,83.6 °F,5.06 MPH,29.90 IN,2,2,100
+2015,"Franks, Andrew",MIA,K,09/27,Home,BUF,Hard Rock Stadium,33056,82.5 °F,4.95 MPH,29.92 IN,0,1,0
+2015,"Franks, Andrew",MIA,K,10/04,Home,NYJ,Hard Rock Stadium,33056,79.4 °F,8.17 MPH,29.70 IN,2,2,100
+2015,"Franks, Andrew",MIA,K,10/18,Away,TEN,Nissan Stadium,37213,50.2 °F,7.36 MPH,30.44 IN,5,5,100
+2015,"Franks, Andrew",MIA,K,10/25,Home,HOU,Hard Rock Stadium,33056,78.6 °F,10.93 MPH,30.01 IN,5,6,83.3
+2015,"Franks, Andrew",MIA,K,10/29,Away,NE,Gillete Stadium,2035,"","","",1,1,100
+2015,"Franks, Andrew",MIA,K,11/08,Away,BUF,New Era Field,14127,42.9 °F,8.75 MPH,30.33 IN,2,2,100
+2015,"Franks, Andrew",MIA,K,11/15,Away,PHI,Lincoln Financial Field,19148,47.8 °F,9.55 MPH,30.31 IN,2,2,100
+2015,"Franks, Andrew",MIA,K,11/22,Home,DAL,Hard Rock Stadium,33056,74.2 °F,5.87 MPH,29.86 IN,2,2,100
+2015,"Franks, Andrew",MIA,K,11/29,Away,NYJ,MetLife Stadium,7073,"","","",2,3,66.7
+2015,"Franks, Andrew",MIA,K,12/06,Home,BAL,Hard Rock Stadium,33056,76.7 °F,11.51 MPH,30.16 IN,1,1,100
+2015,"Franks, Andrew",MIA,K,12/14,Home,NYG,Hard Rock Stadium,33056,77.9 °F,8.06 MPH,29.95 IN,3,3,100
+2015,"Franks, Andrew",MIA,K,12/20,Away,LAC,StubHub Center,90746,54.6 °F,3.80 MPH,30.08 IN,2,2,100
+2015,"Franks, Andrew",MIA,K,12/27,Home,IND,Hard Rock Stadium,33056,78.5 °F,13.46 MPH,30.09 IN,0,0,--
+2015,"Franks, Andrew",MIA,K,01/03,Home,NE,Hard Rock Stadium,33056,78.1 °F,12.08 MPH,30.20 IN,2,2,100
+2015,"Walsh, Blair",MIN,K,09/14,Away,SF,Levi's Stadium,95054,65.1 °F,9.44 MPH,29.75 IN,0,0,--
+2015,"Walsh, Blair",MIN,K,09/20,Home,DET,U.S. Bank Stadium,55415,60.4 °F,7.60 MPH,30.07 IN,2,3,66.7
+2015,"Walsh, Blair",MIN,K,09/27,Home,LAC,U.S. Bank Stadium,55415,69.9 °F,10.70 MPH,29.96 IN,4,4,100
+2015,"Walsh, Blair",MIN,K,10/04,Away,DEN,Broncos Stadium at Mile High,80204,53.2 °F,7.94 MPH,29.91 IN,2,2,100
+2015,"Walsh, Blair",MIN,K,10/18,Home,KC,U.S. Bank Stadium,55415,46.7 °F,7.25 MPH,30.34 IN,1,1,100
+2015,"Walsh, Blair",MIN,K,10/25,Away,DET,Ford Field,48226,54.9 °F,8.40 MPH,30.21 IN,1,2,50
+2015,"Walsh, Blair",MIN,K,11/01,Away,CHI,Soldier Field,60605,54.7 °F,12.54 MPH,29.87 IN,2,2,100
+2015,"Walsh, Blair",MIN,K,11/08,Home,LAR,U.S. Bank Stadium,55415,47.9 °F,10.82 MPH,30.22 IN,1,1,100
+2015,"Walsh, Blair",MIN,K,11/15,Away,OAK,Oakland–Alameda County Coliseum,94621,55.7 °F,14.73 MPH,29.86 IN,3,3,100
+2015,"Walsh, Blair",MIN,K,11/22,Home,GB,U.S. Bank Stadium,55415,24.2 °F,6.33 MPH,30.04 IN,1,2,50
+2015,"Walsh, Blair",MIN,K,11/29,Away,ATL,Mercedes-Benz Stadium,30313,63.5 °F,3.11 MPH,30.17 IN,2,2,100
+2015,"Walsh, Blair",MIN,K,12/06,Home,SEA,U.S. Bank Stadium,55415,39.3 °F,4.49 MPH,30.29 IN,1,1,100
+2015,"Walsh, Blair",MIN,K,12/10,Away,ARI,State Farm Stadium,85305,56.0 °F,3.34 MPH,29.95 IN,2,2,100
+2015,"Walsh, Blair",MIN,K,12/20,Home,CHI,U.S. Bank Stadium,55415,31.2 °F,7.71 MPH,29.89 IN,5,5,100
+2015,"Walsh, Blair",MIN,K,12/27,Home,NYG,U.S. Bank Stadium,55415,23.2 °F,10.13 MPH,30.48 IN,4,5,80
+2015,"Walsh, Blair",MIN,K,01/03,Away,GB,Lambeau Field,54304,25.9 °F,3.68 MPH,30.08 IN,2,2,100
+2015,"Tucker, Justin",BAL,K,09/13,Away,DEN,Broncos Stadium at Mile High,80204,72.7 °F,10.93 MPH,29.80 IN,1,1,100
+2015,"Tucker, Justin",BAL,K,09/20,Away,OAK,Oakland–Alameda County Coliseum,94621,72.0 °F,4.26 MPH,29.83 IN,3,3,100
+2015,"Tucker, Justin",BAL,K,09/27,Home,CIN,M&T Bank Stadium,21230,66.1 °F,No data.,30.36 IN,3,3,100
+2015,"Tucker, Justin",BAL,K,10/01,Away,PIT,Heinz Field,15212,55.5 °F,7.36 MPH,30.10 IN,2,2,100
+2015,"Tucker, Justin",BAL,K,10/11,Home,CLE,M&T Bank Stadium,21230,59.2 °F,No data.,30.01 IN,3,3,100
+2015,"Tucker, Justin",BAL,K,10/18,Away,SF,Levi's Stadium,95054,64.1 °F,7.48 MPH,29.98 IN,2,2,100
+2015,"Tucker, Justin",BAL,K,10/26,Away,ARI,State Farm Stadium,85305,74.3 °F,4.95 MPH,29.87 IN,1,1,100
+2015,"Tucker, Justin",BAL,K,11/01,Home,LAC,M&T Bank Stadium,21230,58.4 °F,No data.,29.99 IN,2,2,100
+2015,"Tucker, Justin",BAL,K,11/15,Home,JAX,M&T Bank Stadium,21230,50.2 °F,No data.,30.33 IN,2,2,100
+2015,"Tucker, Justin",BAL,K,11/22,Home,LAR,M&T Bank Stadium,21230,48.1 °F,No data.,29.97 IN,1,1,100
+2015,"Tucker, Justin",BAL,K,11/30,Away,CLE,FirstEnergy Stadium,44114,36.1 °F,7.48 MPH,30.29 IN,3,3,100
+2015,"Tucker, Justin",BAL,K,12/06,Away,MIA,Hard Rock Stadium,33056,76.7 °F,11.51 MPH,30.16 IN,1,1,100
+2015,"Tucker, Justin",BAL,K,12/13,Home,SEA,M&T Bank Stadium,21230,58.4 °F,No data.,30.14 IN,0,0,--
+2015,"Tucker, Justin",BAL,K,12/20,Home,KC,M&T Bank Stadium,21230,36.8 °F,No data.,30.50 IN,2,2,100
+2015,"Tucker, Justin",BAL,K,12/27,Home,PIT,M&T Bank Stadium,21230,56.7 °F,No data.,30.08 IN,2,2,100
+2015,"Tucker, Justin",BAL,K,01/03,Away,CIN,Paul Brown Stadium,45202,41.8 °F,4.03 MPH,30.13 IN,1,1,100
+2015,"Gano, Graham",CAR,K,09/13,Away,JAX,TIAA Bank Field,32202,78.7 °F,6.67 MPH,29.93 IN,2,2,100
+2015,"Gano, Graham",CAR,K,09/20,Home,HOU,Bank of America Stadium,28202,73.9 °F,1.84 MPH,29.92 IN,3,3,100
+2015,"Gano, Graham",CAR,K,09/27,Home,NO,Bank of America Stadium,28202,65.2 °F,9.67 MPH,30.14 IN,3,3,100
+2015,"Gano, Graham",CAR,K,10/04,Away,TB,Raymond James Stadium,33607,71.5 °F,5.06 MPH,29.68 IN,4,4,100
+2015,"Gano, Graham",CAR,K,10/18,Away,SEA,CenturyLink Field,98134,58.7 °F,2.65 MPH,29.97 IN,3,4,75
+2015,"Gano, Graham",CAR,K,10/25,Home,PHI,Bank of America Stadium,28202,65.6 °F,2.42 MPH,30.16 IN,3,3,100
+2015,"Gano, Graham",CAR,K,11/02,Home,IND,Bank of America Stadium,28202,63.1 °F,5.87 MPH,30.02 IN,2,3,66.7
+2015,"Gano, Graham",CAR,K,11/08,Home,GB,Bank of America Stadium,28202,56.4 °F,10.24 MPH,30.28 IN,4,4,100
+2015,"Gano, Graham",CAR,K,11/15,Away,TEN,Nissan Stadium,37213,46.9 °F,2.42 MPH,30.41 IN,3,3,100
+2015,"Gano, Graham",CAR,K,11/22,Home,WAS,Bank of America Stadium,28202,49.5 °F,5.06 MPH,29.97 IN,5,5,100
+2015,"Gano, Graham",CAR,K,11/26,Away,DAL,AT&T Stadium,76011,68.7 °F,14.96 MPH,30.07 IN,3,3,100
+2015,"Gano, Graham",CAR,K,12/06,Away,NO,Mercedes-Benz Superdome,70112,59.3 °F,7.94 MPH,30.35 IN,5,6,83.3
+2015,"Gano, Graham",CAR,K,12/13,Home,ATL,Bank of America Stadium,28202,59.7 °F,3.11 MPH,30.19 IN,5,5,100
+2015,"Gano, Graham",CAR,K,12/20,Away,NYG,MetLife Stadium,7073,"","","",5,5,100
+2015,"Gano, Graham",CAR,K,12/27,Away,ATL,Mercedes-Benz Stadium,30313,68.7 °F,7.02 MPH,30.11 IN,1,1,100
+2015,"Gano, Graham",CAR,K,01/03,Home,TB,Bank of America Stadium,28202,48.9 °F,3.57 MPH,30.32 IN,5,5,100
+2015,"Bryant, Matt",ATL,K,09/14,Home,PHI,Mercedes-Benz Stadium,30313,65.6 °F,6.44 MPH,30.17 IN,2,2,100
+2015,"Bryant, Matt",ATL,K,09/20,Away,NYG,MetLife Stadium,7073,"","","",3,3,100
+2015,"Bryant, Matt",ATL,K,09/27,Away,DAL,AT&T Stadium,76011,78.8 °F,6.21 MPH,29.91 IN,4,4,100
+2015,"Bryant, Matt",ATL,K,10/04,Home,HOU,Mercedes-Benz Stadium,30313,65.4 °F,10.93 MPH,29.73 IN,6,6,100
+2015,"Bryant, Matt",ATL,K,10/11,Home,WAS,Mercedes-Benz Stadium,30313,64.4 °F,8.29 MPH,29.97 IN,1,1,100
+2015,"Bryant, Matt",ATL,K,10/15,Away,NO,Mercedes-Benz Superdome,70112,74.8 °F,4.72 MPH,30.07 IN,3,3,100
+2015,"Bryant, Matt",ATL,K,10/25,Away,TEN,Nissan Stadium,37213,62.3 °F,6.90 MPH,30.16 IN,1,1,100
+2015,"Bryant, Matt",ATL,K,11/01,Home,TB,Mercedes-Benz Stadium,30313,60.3 °F,9.21 MPH,30.00 IN,2,2,100
+2015,"Bryant, Matt",ATL,K,11/08,Away,SF,Levi's Stadium,95054,53.7 °F,3.80 MPH,30.03 IN,1,1,100
+2015,"Bryant, Matt",ATL,K,11/22,Home,IND,Mercedes-Benz Stadium,30313,46.6 °F,13.35 MPH,30.03 IN,3,3,100
+2015,"Bryant, Matt",ATL,K,11/29,Home,MIN,Mercedes-Benz Stadium,30313,63.5 °F,3.11 MPH,30.17 IN,--,--,--
+2015,"Bryant, Matt",ATL,K,12/06,Away,TB,Raymond James Stadium,33607,71.7 °F,9.67 MPH,30.26 IN,--,--,--
+2015,"Zuerlein, Greg",LAR,K,09/13,Home,SEA,Los Angeles Memorial Coliseum,90037,80.2 °F,1.84 MPH,29.83 IN,4,4,100
+2015,"Zuerlein, Greg",LAR,K,09/20,Away,WAS,FedExField,20785,71.2 °F,9.21 MPH,29.96 IN,1,1,100
+2015,"Zuerlein, Greg",LAR,K,09/27,Home,PIT,Los Angeles Memorial Coliseum,90037,76.3 °F,0.92 MPH,29.78 IN,0,0,--
+2015,"Zuerlein, Greg",LAR,K,10/04,Away,ARI,State Farm Stadium,85305,81.8 °F,7.94 MPH,29.57 IN,3,3,100
+2015,"Zuerlein, Greg",LAR,K,10/11,Away,GB,Lambeau Field,54304,62.0 °F,11.39 MPH,29.69 IN,1,1,100
+2015,"Zuerlein, Greg",LAR,K,10/25,Home,CLE,Los Angeles Memorial Coliseum,90037,74.6 °F,0.69 MPH,29.88 IN,3,3,100
+2015,"Zuerlein, Greg",LAR,K,11/01,Home,SF,Los Angeles Memorial Coliseum,90037,70.5 °F,0.81 MPH,30.00 IN,2,2,100
+2015,"Zuerlein, Greg",LAR,K,11/08,Away,MIN,U.S. Bank Stadium,55415,47.9 °F,10.82 MPH,30.22 IN,0,0,--
+2015,"Zuerlein, Greg",LAR,K,11/15,Home,CHI,Los Angeles Memorial Coliseum,90037,59.9 °F,2.07 MPH,29.89 IN,1,1,100
+2015,"Zuerlein, Greg",LAR,K,11/22,Away,BAL,M&T Bank Stadium,21230,48.1 °F,No data.,29.97 IN,1,2,50
+2015,"Zuerlein, Greg",LAR,K,11/29,Away,CIN,Paul Brown Stadium,45202,42.5 °F,8.06 MPH,30.26 IN,--,--,--
+2015,"Zuerlein, Greg",LAR,K,12/06,Home,ARI,Los Angeles Memorial Coliseum,90037,65.1 °F,1.96 MPH,30.20 IN,--,--,--
+2015,"Zuerlein, Greg",LAR,K,12/13,Home,DET,Los Angeles Memorial Coliseum,90037,56.5 °F,1.50 MPH,30.06 IN,3,3,100
+2015,"Zuerlein, Greg",LAR,K,12/17,Home,TB,Los Angeles Memorial Coliseum,90037,52.4 °F,0.92 MPH,30.17 IN,4,4,100
+2015,"Zuerlein, Greg",LAR,K,12/27,Away,SEA,CenturyLink Field,98134,39.3 °F,3.11 MPH,30.20 IN,2,3,66.7
+2015,"Zuerlein, Greg",LAR,K,01/03,Away,SF,Levi's Stadium,95054,41.5 °F,2.88 MPH,30.21 IN,1,1,100
+2015,"Santos, Cairo",KC,K,09/13,Away,HOU,NRG Stadium,77054,74.7 °F,6.10 MPH,No data.,3,3,100
+2015,"Santos, Cairo",KC,K,09/17,Home,DEN,Arrowhead Stadium,64129,82.0 °F,15.31 MPH,29.85 IN,3,3,100
+2015,"Santos, Cairo",KC,K,09/28,Away,GB,Lambeau Field,54304,68.6 °F,7.48 MPH,29.95 IN,2,2,100
+2015,"Santos, Cairo",KC,K,10/04,Away,CIN,Paul Brown Stadium,45202,60.8 °F,7.71 MPH,30.04 IN,0,0,--
+2015,"Santos, Cairo",KC,K,10/11,Home,CHI,Arrowhead Stadium,64129,69.3 °F,9.90 MPH,29.83 IN,2,2,100
+2015,"Santos, Cairo",KC,K,10/18,Away,MIN,U.S. Bank Stadium,55415,46.7 °F,7.25 MPH,30.34 IN,1,1,100
+2015,"Santos, Cairo",KC,K,10/25,Home,PIT,Arrowhead Stadium,64129,52.9 °F,3.57 MPH,30.29 IN,2,2,100
+2015,"Santos, Cairo",KC,K,11/01,Home,DET,Arrowhead Stadium,64129,55.7 °F,4.37 MPH,29.93 IN,6,6,100
+2015,"Santos, Cairo",KC,K,11/15,Away,DEN,Broncos Stadium at Mile High,80204,44.8 °F,7.48 MPH,29.84 IN,2,2,100
+2015,"Santos, Cairo",KC,K,11/22,Away,LAC,StubHub Center,90746,72.2 °F,4.83 MPH,29.93 IN,3,4,75
+2015,"Santos, Cairo",KC,K,11/29,Home,BUF,Arrowhead Stadium,64129,35.4 °F,8.52 MPH,30.33 IN,3,3,100
+2015,"Santos, Cairo",KC,K,12/06,Away,OAK,Oakland–Alameda County Coliseum,94621,52.5 °F,4.95 MPH,30.25 IN,2,3,66.7
+2015,"Santos, Cairo",KC,K,12/13,Home,LAC,Arrowhead Stadium,64129,63.0 °F,9.90 MPH,29.59 IN,1,1,100
+2015,"Santos, Cairo",KC,K,12/20,Away,BAL,M&T Bank Stadium,21230,36.8 °F,No data.,30.50 IN,4,4,100
+2015,"Santos, Cairo",KC,K,12/27,Home,CLE,Arrowhead Stadium,64129,36.0 °F,16.57 MPH,30.27 IN,2,2,100
+2015,"Santos, Cairo",KC,K,01/03,Home,OAK,Arrowhead Stadium,64129,36.6 °F,2.53 MPH,29.94 IN,3,3,100
